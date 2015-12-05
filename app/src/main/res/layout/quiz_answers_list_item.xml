@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="10dp">
+
+    <TextView
+        android:id="@+id/question_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#1e90ff"
+        android:text="1. Question"/>
+    <TextView
+        android:id="@+id/selected_answer"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#000"
+        android:text="Your Answer :"
+        android:background="#FFB2B2"
+        android:padding="3dp"
+        android:layout_marginTop="5dp"/>
+    <TextView
+        android:id="@+id/correct_answer"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#000"
+        android:text="Correct Answer :"
+        android:padding="3dp"
+        android:layout_marginTop="5dp"
+        android:background="#B2FFB2"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#000"
+        android:text="Explanation:"
+        android:padding="3dp"
+        android:layout_marginTop="5dp"/>
+    <TextView
+        android:id="@+id/answer_full"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#80000000"
+        android:text="Full Answer Here"
+        android:padding="3dp"
+        android:layout_marginTop="5dp"
+        />
+</LinearLayout>
