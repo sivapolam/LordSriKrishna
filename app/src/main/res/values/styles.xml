@@ -1,11 +1,21 @@
 <resources>
 
     <!-- Base application theme. -->
-    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowNoTitle">true</item>
+        <item name="windowActionBar">false</item>
+        <item name="android:actionMenuTextColor">@color/white</item>
+
         <!-- Customize your theme here. -->
     </style>
 
-    <style name="DialogTheme" parent="Theme.AppCompat.Dialog">
+    <style name="DialogTheme" parent="Base.V7.Theme.AppCompat.Light.Dialog">
         <!-- Customize your theme here. -->
+        <item name="android:background">@color/white</item>
     </style>
+
+    <style name="ToolBarWithNavigationBack">
+        <item name="navigationIcon">@drawable/ic_drawer</item>
+    </style>
+
 </resources>

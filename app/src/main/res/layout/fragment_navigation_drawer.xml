@@ -5,5 +5,7 @@
     android:choiceMode="singleChoice"
     android:divider="#40000000"
     android:dividerHeight="1dp"
-    android:background="#CC000000"
-    tools:context=".NavigationDrawerFragment" />
+    android:background="#ffffff"
+    tools:context=".NavigationDrawerFragment"
+    android:listSelector="@color/grey"
+    android:elevation="@dimen/nav_list_elevation"/>

@@ -1,0 +1,2609 @@
+{
+  "quiz_modules": ["Lord Krishna Quiz 1","Lord Krishna Quiz 2","Lord Krishna Quiz 3","Lord Krishna Quiz 4","Lord Krishna Quiz 5","Lord Krishna Quiz 6","Lord Krishna Quiz 7","Lord Krishna Quiz 8","Lord Krishna Quiz 9","Lord Krishna Quiz 10","Lord Krishna Quiz 11","Lord Krishna Quiz 12","Lord Krishna Quiz 13","Lord Krishna Quiz 14","Lord Krishna Quiz 15","Lord Krishna Quiz 16"],
+  "quiz_list": [
+    {
+      "Lord Krishna Quiz 1": [
+        {
+          "question": "On Janmashtami, Lord Krishna was",
+          "option1": "Married",
+          "option2": "Born ",
+          "option3": "Visited Hastinapur",
+          "answer": "Born",
+          "full_answer": "Lord Krishna was born on Janmashtami"
+        },
+        {
+          "question": "Janmashtami is observed in the month of",
+          "option1": "Shraavana",
+          "option2": "Madh",
+          "option3": "Chaitra",
+          "answer": "Shraavana",
+          "full_answer": "Janmashtami is observed in the month of Shraavana."
+        },
+        {
+          "question": "Janmashtami is on which day of hindu month Shraavana ?",
+          "option1": "6",
+          "option2": "9",
+          "option3": "8",
+          "answer": "8",
+          "full_answer": "Janmashtami is on 8th day of hindu month Shraavana."
+        },
+        {
+          "question": "Which Nakshatra is ascendant on Janmashtami ?",
+          "option1": "Ashvini",
+          "option2": "Rohini",
+          "option3": "Krittika",
+          "answer": "Rohini",
+          "full_answer": "'Rohini' Nakshatra is ascendant on Janmashtami."
+        },
+        {
+          "question": "On which tithi is Janmashtami observed?",
+          "option1": "Ashtami",
+          "option2": "Shashti",
+          "option3": "Chaturthi",
+          "answer": "Ashtami",
+          "full_answer": "Janmashtami observed on 'Ashtami' tithi."
+        },
+        {
+          "question": "What are the dramatic enactments of the life of Krishna in Mathura and Vrindavan known as?",
+          "option1": "Bhadrapada",
+          "option2": "Dahi Handi",
+          "option3": "Rasa Lila",
+          "answer": "Rasa Lila",
+          "full_answer": "'Rasa Lila' is the dramatic enactments of the life of Krishna in Mathura and Vrindavan known as."
+        },
+        {
+          "question": "What is Janmashtami popularly known as in Mumbai and Pune?",
+          "option1": "Vaishnavism",
+          "option2": "Dahi Handi",
+          "option3": "Chaturdashi",
+          "answer": "Dahi Handi",
+          "full_answer": "Janmashtami popularly known as 'Dahi Handi' in Mumbai and Pune."
+        },
+        {
+          "question": "What is Janmashtami popularly known as in Manipur?",
+          "option1": "Krishna Janma",
+          "option2": "one book ",
+          "option3": "four books",
+          "answer": "Krishna Janma",
+          "full_answer": "Janmashtami popularly known as 'Krishna Janma' in Manipur."
+        },
+        {
+          "question": "Who is known as Krishna's gopi-consort?",
+          "option1": "Radha",
+          "option2": "Durga",
+          "option3": "Laxmi",
+          "answer": "Radha",
+          "full_answer": "'Radha' known as Krishna's gopi-consort?"
+        },
+        {
+          "question": "Who was Krishna's father?",
+          "option1": "Balarama",
+          "option2": "Vasudeva",
+          "option3": "Kansa",
+          "answer": "Vasudeva",
+          "full_answer": "Vasudeva was Krishna's father."
+        }
+      ],
+      "Lord Krishna Quiz 2": [
+        {
+          "question": "Who was the FATHER of Bhishma?",
+          "option1": "Shantanu Maharaj",
+          "option2": "Dhrupad",
+          "option3": "Drushtidron",
+          "answer": "Shantanu Maharaj",
+          "full_answer": "'Shantanu Maharaj' was the FATHER of Bhishma."
+        },
+        {
+          "question": "Bheem is known by which devil?",
+          "option1": "Pandu",
+          "option2": "Brigodar",
+          "option3": "Kalasantoshi",
+          "answer": "Brigodar",
+          "full_answer": "Bheem is known by 'Brigodar' devil."
+        },
+        {
+          "question": "Actually, who was Draupadi's husband?",
+          "option1": "Nakul",
+          "option2": "Yudhishtir",
+          "option3": "Arjun",
+          "answer": "Arjun",
+          "full_answer": "Actually, 'Arjun' was Draupadi's husband."
+        },
+        {
+          "question": "Who was Bheem's wife?",
+          "option1": "Gangotri",
+          "option2": "Hidimba",
+          "option3": "Subhadra",
+          "answer": "Hidimba",
+          "full_answer": "'Hidimba' was Bheem's wife."
+        },
+        {
+          "question": "In which place did Shakuni and Duryodhan planned to kill the Pandavas and Kunti?",
+          "option1": "Varnawarth",
+          "option2": "Paanchaal",
+          "option3": "Gaandhar",
+          "answer": "Varnawarth",
+          "full_answer": "Shakuni and Duryodhan planned to kill the Pandavas and Kunti in 'Varnawarth'."
+        },
+        {
+          "question": "What is the name of the Dhrupad's son that he demanded from the Brahmans?",
+          "option1": "Nakul",
+          "option2": "Dhrushtidron",
+          "option3": "Dhrutarashtra",
+          "answer": "Dhrushtidron",
+          "full_answer": "'Dhrushtidron' is the name of the Dhrupad's son that he demanded from the Brahmans."
+        },
+        {
+          "question": "Whom did Shri Krishna married?",
+          "option1": "Subhadra",
+          "option2": "Rukmini",
+          "option3": "Amba",
+          "answer": "Rukmini",
+          "full_answer": "Shri Krishna married 'Rukmini'."
+        },
+        {
+          "question": "Who did Draupadi's VASTRAHARAN?",
+          "option1": "Shakuni",
+          "option2": "Karna",
+          "option3": "Duryodhan",
+          "answer": "Duryodhan",
+          "full_answer": "'Duryodhan' did Draupadi's VASTRAHARAN?"
+        }
+      ],
+      "Lord Krishna Quiz 3": [
+        {
+          "question": "What is Krishna's birthday called?",
+          "option1": "Holi",
+          "option2": "Diwali",
+          "option3": "Janmashtami",
+          "answer": "Janmashtami",
+          "full_answer": "Krishna's birthday called as 'Janmashtami'."
+        },
+        {
+          "question": "Who was Kanse?",
+          "option1": "Krishna's Uncle",
+          "option2": "Krishna's Brother",
+          "option3": "Krishna's Father",
+          "answer": "Krishna's Uncle",
+          "full_answer": "Kanse was Krishna's Uncle"
+        },
+        {
+          "question": "As a child, what would Krishna steal?",
+          "option1": "Fruits",
+          "option2": "Buttermilk",
+          "option3": "Sweets",
+          "answer": "Buttermilk",
+          "full_answer": "As a child, Krishna steals Buttermilk"
+        },
+        {
+          "question": "What was the name of Krishna's birth mother?",
+          "option1": "Devaki",
+          "option2": "Gandhari",
+          "option3": "Yashoda",
+          "answer": "Devaki",
+          "full_answer": "'Devaki' was the name of Krishna's birth mother."
+        },
+        {
+          "question": "Kanse was the King of which ancient region?",
+          "option1": "Kurukshetra",
+          "option2": "Mohenjodaro",
+          "option3": "Mathura",
+          "answer": "Mathura",
+          "full_answer": "Kanse was the King of Mathura."
+        },
+        {
+          "question": "Out of below mentioned optione which is not known as name of Krishna?",
+          "option1": "Kanha",
+          "option2": "Kanhaiya",
+          "option3": "Ekdant",
+          "answer": "Ekdant",
+          "full_answer": "Kanha, Kanhaiya is known as name of Krishna."
+        },
+        {
+          "question": "Who has been love of God Krishna?",
+          "option1": "Sita",
+          "option2": "Radha ",
+          "option3": "Lakshmi",
+          "answer": "Radha",
+          "full_answer": "Radha"
+        },
+        {
+          "question": "what is the name of Krishna's brother?",
+          "option1": "Balram",
+          "option2": "Lakshman",
+          "option3": "Shatrughan",
+          "answer": "Balram",
+          "full_answer": "'Balram' is the name of Krishna's brother."
+        },
+        {
+          "question": "Who took care or grown up Krishna as a mother?",
+          "option1": "Devaki",
+          "option2": "Yashoda",
+          "option3": "Kakai",
+          "answer": "Yashoda",
+          "full_answer": "'Yashoda' took care or grown up Krishna as a mother."
+        },
+        {
+          "question": "Who was the real mother of Krishna?",
+          "option1": "Koshalya",
+          "option2": "Pandava ",
+          "option3": "Jarasandh",
+          "answer": "Pandava",
+          "full_answer": "'Pandava' was the real mother of Krishna."
+        }
+      ],
+      "Lord Krishna Quiz 4": [
+        {
+          "question": "What is the color of Krishna's skin in most icons?",
+          "option1": "blue",
+          "option2": "green ",
+          "option3": "black",
+          "answer": "blue",
+          "full_answer": "'blue' is the color of Krishna's skin in most icons."
+        },
+        {
+          "question": "What is NOT another name of Krishna?",
+          "option1": "sita",
+          "option2": "matsya",
+          "option3": "hrishikesh",
+          "answer": "sita",
+          "full_answer": "matsya, hrishikesh are another names of Krishna."
+        },
+        {
+          "question": "What does Krishna's name mean?",
+          "option1": "eating",
+          "option2": "full of flowers",
+          "option3": "dark",
+          "answer": "dark",
+          "full_answer": "Krishna's name means 'dark'."
+        },
+        {
+          "question": "Janmashtami is celebrated on which day of month?",
+          "option1": "Eighth day of Savana month",
+          "option2": "Fourth day of savana month",
+          "option3": "Seventh day of savana month",
+          "answer": "Eighth day of Savana month",
+          "full_answer": "Janmashtami is celebrated on 'Eighth day of Savana month'."
+        },
+        {
+          "question": "Janmashtami festival was also called as?",
+          "option1": "krishnashtami",
+          "option2": "ramashtami",
+          "option3": "narakashtami",
+          "answer": "krishnashtami",
+          "full_answer": "Janmashtami festival was also called as 'Krishnashtami'."
+        },
+        {
+          "question": "In which month janmashtami festival will celebrate?",
+          "option1": "mid january to mid march",
+          "option2": "mid august to mid september",
+          "option3": "mid june to mid august",
+          "answer": "mid august to mid september",
+          "full_answer": "Janmashtami festival celebrates in 'mid august to mid september'."
+        },
+        {
+          "question": "In which date janmashtami will celebrate?",
+          "option1": "bhadrapada, ekadashi",
+          "option2": "bhadrapada, ashtami",
+          "option3": "bhadrapada, navami",
+          "answer": "bhadrapada, ashtami",
+          "full_answer": "janmashtami will celebrate in 'bhadrapada, ashtami'"
+        },
+        {
+          "question": "Who will celebrate dis festival?",
+          "option1": "hindus",
+          "option2": "muslims",
+          "option3": "christians",
+          "answer": "Hindus",
+          "full_answer": "'Hindus' will celebrate dis festival."
+        },
+        {
+          "question": "In which place sri krishna was born?",
+          "option1": "forest",
+          "option2": "prison cell",
+          "option3": "palace",
+          "answer": "prison cell",
+          "full_answer": "Sri krishna was born in 'prison cell'."
+        }
+      ],
+      "Lord Krishna Quiz 5": [
+        {
+          "question": "With whom does Little Krishna fight to stop the terrible wind?",
+          "option1": "Indra",
+          "option2": "Brahma",
+          "option3": "Shiva",
+          "answer": "Indra",
+          "full_answer": "Little Krishna fight with 'Indra' to stop the terrible wind."
+        },
+        {
+          "question": "What is the name of Subala's mother?",
+          "option1": "Prabhavati",
+          "option2": "Yashoda",
+          "option3": "Chandrika",
+          "answer": "Chandrika",
+          "full_answer": "'Chandrika' is the name of Subala's mother."
+        },
+        {
+          "question": "Little Krishna saves a cow from the dangerous tiger.Name the cow.",
+          "option1": "Tara",
+          "option2": "Bahula",
+          "option3": "Bhansi",
+          "answer": "Bahula",
+          "full_answer": "Little Krishna saves a cow named 'Bahula' from the dangerous tiger."
+        },
+        {
+          "question": "Name of the demon who tried to kill Little Krishna with poisonous milk?",
+          "option1": "Putana",
+          "option2": "Kalia",
+          "option3": "Bhakasura",
+          "answer": "Putana",
+          "full_answer": "'Putana' (demon) tried to kill Little Krishna with poisonous milk."
+        },
+        {
+          "question": "Krishna's friend who always dreams of eating sweets?",
+          "option1": "Subala",
+          "option2": "Madhu",
+          "option3": "Chaaru",
+          "answer": "Madhu",
+          "full_answer": "Krishna's friend, 'Madhu' always dreams of eating sweets."
+        },
+        {
+          "question": "Names of Radha's friends.",
+          "option1": "Sunitha & Vanitha",
+          "option2": "Sita & Gita",
+          "option3": "Lalitha & Vishaka",
+          "answer": "Lalitha & Vishaka",
+          "full_answer": "Lalitha & Vishaka are Radha's friends."
+        },
+        {
+          "question": "Biggest enemy of krishna who always plan to kill him.",
+          "option1": "Kams",
+          "option2": "Hans",
+          "option3": "Kalia",
+          "answer": "Kams",
+          "full_answer": "Kams was Biggest enemy of krishna who always plan to kill him."
+        },
+        {
+          "question": "Name of the monkey which is always funny in krishna's group.",
+          "option1": "Dadil",
+          "option2": "Qadil",
+          "option3": "Wadil",
+          "answer": "Dadil",
+          "full_answer": "The monkey named 'Dadil', which is always funny in krishna's group."
+        },
+        {
+          "question": "Demon which tries to kill Krishna with its poison but fails to do so.",
+          "option1": "Kalia",
+          "option2": "Bhakasura",
+          "option3": "Tarakasura",
+          "answer": "Kalia",
+          "full_answer": "Demon named 'Kalia', which tries to kill Krishna with its poison but fails to do so."
+        },
+        {
+          "question": "Krishna loves to play which musical instrument?",
+          "option1": "Veena",
+          "option2": "Tabla",
+          "option3": "Flute",
+          "answer": "Flute",
+          "full_answer": "Krishna loves to play with Flute."
+        }
+      ],
+      "Lord Krishna Quiz 6": [
+        {
+          "question": "What is Krishna's birthday called?",
+          "option1": "Janmashtami",
+          "option2": "Holi ",
+          "option3": "Diwali",
+          "answer": "Janmashtami",
+          "full_answer": "Krishna's birthday called as Janmashtami."
+        },
+        {
+          "question": "Where is Krishna born?",
+          "option1": "Gokula",
+          "option2": "Mathura",
+          "option3": "Vrindavana",
+          "answer": "Mathura",
+          "full_answer": "Krishna born in Mathura."
+        },
+        {
+          "question": "Who was the mother of Sri Krishna?",
+          "option1": "Satyabhama",
+          "option2": "Sumitra",
+          "option3": "Devaki",
+          "answer": "Devaki",
+          "full_answer": "Devaki was the mother of Sri Krishna."
+        },
+        {
+          "question": "What is the name of Krishna's brother?",
+          "option1": "Kansa",
+          "option2": "Balarama",
+          "option3": "Jayadeva",
+          "answer": "Balarama",
+          "full_answer": "'Balarama' is the name of Krishna's brother."
+        },
+        {
+          "question": "Lord Krishna's childhood Friend",
+          "option1": "Sudhama",
+          "option2": "Jayadeva",
+          "option3": "Harsha",
+          "answer": "Sudhama",
+          "full_answer": "Lord Krishna's childhood Friend is Sudhama."
+        },
+        {
+          "question": "Little Krishna used to steal what from other houses",
+          "option1": "Sugar",
+          "option2": "Butter",
+          "option3": "Fruits",
+          "answer": "Butter",
+          "full_answer": "Little Krishna used to steal 'Butter' from other houses."
+        },
+        {
+          "question": "What is the name of snake on which Krishna dances?",
+          "option1": "Kalia",
+          "option2": "Vasuki ",
+          "option3": "Tara",
+          "answer": "Kalia",
+          "full_answer": "'Kalia' is the name of snake on which Krishna dances."
+        },
+        {
+          "question": "What is the name of the mountain which is lifted by krishna on his tip of finger?",
+          "option1": "Govardhan",
+          "option2": "Chitradurga",
+          "option3": "Nandi",
+          "answer": "Govardhan",
+          "full_answer": "'Govardhan' is the name of the mountain which is lifted by krishna on his tip of finger."
+        },
+        {
+          "question": "Name of the Demon who tried to kill Little Krishna with poisonous milk",
+          "option1": "Kalia",
+          "option2": "Tarakasura",
+          "option3": "Putana",
+          "answer": "Putana",
+          "full_answer": "'Putana'is the name of the Demon who tried to kill Little Krishna with poisonous milk."
+        },
+        {
+          "question": "Krishna loves to play which musical instrument",
+          "option1": "Tabala",
+          "option2": "Flute",
+          "option3": "Veena",
+          "answer": "Flute",
+          "full_answer": "Krishna loves to play 'Flute'."
+        }
+      ],
+      "Lord Krishna Quiz 7": [
+        {
+          "question": "Which of the following is Krishna's brother?",
+          "option1": "Sudama",
+          "option2": "Balarama",
+          "option3": "Vasudeva",
+          "answer": "Balarama",
+          "full_answer": "Balarama is Krishna's brother."
+        },
+        {
+          "question": "What is the color of Krishna's skin in most icons?",
+          "option1": "black",
+          "option2": "red",
+          "option3": "blue",
+          "answer": "blue",
+          "full_answer": "Blue is the color of Krishna's skin in most icons."
+        },
+        {
+          "question": "What is NOT another name of Krishna?",
+          "option1": "Sita",
+          "option2": "Matsya",
+          "option3": "Varaha",
+          "answer": "Sita",
+          "full_answer": "Sita is NOT another name of Krishna."
+        },
+        {
+          "question": "What does Krishna's name mean?",
+          "option1": "eating",
+          "option2": "tattoo",
+          "option3": "dark",
+          "answer": "dark",
+          "full_answer": "Krishna's name means 'Dark'"
+        },
+        {
+          "question": "Rathayatra is:",
+          "option1": "a book",
+          "option2": "another name of charnamrit",
+          "option3": "festival of the chariots",
+          "answer": "festival of the chariots",
+          "full_answer": "Rathayatra is: festival of the chariots"
+        },
+        {
+          "question": "Where is Vrindavan?",
+          "option1": "Pakistan",
+          "option2": "India",
+          "option3": "U.S.A.",
+          "answer": "India",
+          "full_answer": "Vrindavan is in India."
+        },
+        {
+          "question": "Who created ISKCON?",
+          "option1": "Prabhupad",
+          "option2": "Saddam Hussein",
+          "option3": "Bhakti Sidantha Swami",
+          "answer": "Prabhupad",
+          "full_answer": "'Prabhupad' created ISKCON?"
+        },
+        {
+          "question": "Which of these descriptions doesn't apply to A.C. Bhakdivedanta Swami Srila Prabhupad?",
+          "option1": "A pious devotee",
+          "option2": "The founder of ISKCON",
+          "option3": "An avatar of Krishna",
+          "answer": "An avatar of Krishna",
+          "full_answer": "A pious devotee, The founder of ISKCON apply to A.C. Bhakdivedanta Swami Srila Prabhupad."
+        },
+        {
+          "question": "Is Krishna married to Radharani?",
+          "option1": "Yes",
+          "option2": "No",
+          "option3": "",
+          "answer": "No",
+          "full_answer": "Krishna married to Rukmini."
+        },
+        {
+          "question": "Who is the deity in Vrindavan?",
+          "option1": "Radha Shyamsundar",
+          "option2": "Radha Rasabhihari",
+          "option3": "Radha Gopal",
+          "answer": "Radha Shyamsundar",
+          "full_answer": "Radha Shyamsundar is the deity in Vrindavan."
+        }
+      ],
+      "Lord Krishna Quiz 8": [
+        {
+          "question": "what did krishna steal from other peaple's houses",
+          "option1": "butter and milk",
+          "option2": "cake and ice cream",
+          "option3": "rice",
+          "answer": "butter and milk",
+          "full_answer": "Krishna steals butter and milk from other people houses."
+        },
+        {
+          "question": "which god was krishna",
+          "option1": "narad muni",
+          "option2": "indra",
+          "option3": "lord vishnu",
+          "answer": "lord vishnu",
+          "full_answer": "lord vishnu was krishna"
+        },
+        {
+          "question": "what was the name of kunses sister",
+          "option1": "moria",
+          "option2": "devki",
+          "option3": "lani",
+          "answer": "devki",
+          "full_answer": "devki was the name of kunses sister."
+        },
+        {
+          "question": "who was krishna's mother",
+          "option1": "yashoda",
+          "option2": "milkiya",
+          "option3": "devki",
+          "answer": "devki",
+          "full_answer": "devki was krishna's mother."
+        },
+        {
+          "question": "why did devki ask her husband vasudev to give krishna to yashoda",
+          "option1": "to protect him",
+          "option2": "she does not want a son",
+          "option3": "she hates baby's",
+          "answer": "to protect him",
+          "full_answer": "To protect Krishna, Devaki asked her husband vasudev to give krishna to yashoda."
+        },
+        {
+          "question": "why did kuns want to kill krishna",
+          "option1": "because he was a theif",
+          "option2": "he is a very bad boy",
+          "option3": "because he wants to kill kuns",
+          "answer": "because he wants to kill kuns",
+          "full_answer": "Because Krishna wants to kill kuns"
+        },
+        {
+          "question": "Why did lord vishnu chose to come to earth?",
+          "option1": "to make people theives",
+          "option2": "to kill everyone",
+          "option3": "to protect the people",
+          "answer": "to protect the people",
+          "full_answer": "To protect the people, lord vishnu chose to come to earth."
+        }
+      ],
+      "Lord Krishna Quiz 9": [
+        {
+          "question": "At the age of ______ years Uddhava was absorbed in the service of Lord Krishna.",
+          "option1": "5",
+          "option2": "12",
+          "option3": "23",
+          "answer": "5",
+          "full_answer": "At the age of 5 years Uddhava was absorbed in the service of Lord Krishna."
+        },
+        {
+          "question": "When Vidura asked about the welfare of Lord Krishna and His family and devotees, Vidura noticed that uddhava_________.",
+          "option1": "Eyes were in tears due to separation from the Lord ",
+          "option2": "Had assimilated extensive love for the Lord ",
+          "option3": "both",
+          "answer": "both",
+          "full_answer": "When Vidura asked about the welfare of Lord Krishna and His family and devotees, Vidura noticed that uddhava had assimilated extensive love for the Lord, Eyes were in tears due to separation from the Lord."
+        },
+        {
+          "question": "Uddhava said it pained him to see Krishna__________.",
+          "option1": "Standing before King Ugrasena and giving explanations to the king ",
+          "option2": "Begging pardon from His parents for His inability to serve them ",
+          "option3": "both",
+          "answer": "both",
+          "full_answer": "Uddhava said it pained him to see Krishna Standing before King Ugrasena and giving explanations to the king, Begging pardon from His parents for His inability to serve them."
+        },
+        {
+          "question": "Uddhava narrated the pastime of _______ to Vidura.",
+          "option1": "Lord Krishan playing at the banks of Yamuna with His cowherd friends and calves ",
+          "option2": "Killing of various asuras sent by Kamsa",
+          "option3": "both",
+          "answer": "both",
+          "full_answer": "Uddhava narrated the pastime of Lord Krishan playing at the banks of Yamuna with His cowherd friends and calves, Killing of various asuras sent by Kamsa to Vidura."
+        },
+        {
+          "question": "The last pastime of Lord Sri Krishna in Vrindavan explained by Uddhava to Vidura was_________",
+          "option1": "Govardhan Lila",
+          "option2": "Kaliya daman",
+          "option3": "Rasa Lila ",
+          "answer": "Rasa Lila ",
+          "full_answer": "The last pastime of Lord Sri Krishna in Vrindavan explained by Uddhava to Vidura was Rasa Lila."
+        },
+        {
+          "question": "The fruit vendor filled Krishna’s hands with _______.",
+          "option1": "Grains",
+          "option2": "Fruits",
+          "option3": "Jewels",
+          "answer": "Fruits",
+          "full_answer": "The fruit vendor filled Krishna’s hands with Fruits."
+        },
+        {
+          "question": "Krishna filled the basket of the fruit vendor with_______.",
+          "option1": "Grains",
+          "option2": "Fruits",
+          "option3": "Jewels",
+          "answer": "Jewels",
+          "full_answer": "Krishna filled the basket of the fruit vendor with Jewels."
+        },
+        {
+          "question": "From Gokula,, Nanda Maharaja and the cowherd men moved to _______",
+          "option1": "Vrndavana",
+          "option2": "Mahavana",
+          "option3": "Mathura",
+          "answer": "Vrndavana",
+          "full_answer": "From Gokula, Nanda Maharaja and the cowherd men moved to Vrndavana"
+        },
+        {
+          "question": "Krishna threw the calf demon on the______ tree.",
+          "option1": "Apple",
+          "option2": "Kapittha",
+          "option3": "Mango",
+          "answer": "Apple",
+          "full_answer": "Krishna threw the calf demon on the Apple tree."
+        },
+        {
+          "question": "Bakasura demon had assumed the body of an________.",
+          "option1": "Ass",
+          "option2": "Duck",
+          "option3": "Snake",
+          "answer": "Duck",
+          "full_answer": "Bakasura demon had assumed the body of an Duck."
+        }
+      ],
+      "Lord Krishna Quiz 10": [
+        {
+          "question": "Yadava dynasty in which Krishna appeared descended from _______.",
+          "option1": "Sun",
+          "option2": "Moon",
+          "option3": "Kinnaras",
+          "answer": "Moon",
+          "full_answer": "Yadava dynasty in which Krishna appeared descended from Moon."
+        },
+        {
+          "question": "Trivarga includes _____ where in people are religious for the sake of achieving a material position.",
+          "option1": "Dharma",
+          "option2": "Artha, Kama",
+          "option3": "All the above",
+          "answer": "All the above",
+          "full_answer": "Trivarga includes Dharma, Artha, Kama where in people are religious for the sake of achieving a material position."
+        },
+        {
+          "question": "______ is called bhavausadha – the remedy to stop the repetition of birth and death.",
+          "option1": "Krishna Katha",
+          "option2": "Bhava Roga",
+          "option3": "Gramya katha",
+          "answer": "Krishna Katha",
+          "full_answer": "Krishna Katha is called bhavausadha – the remedy to stop the repetition of birth and death."
+        },
+        {
+          "question": "Krishna conscious is beneficial for a ______.",
+          "option1": "A brahmana",
+          "option2": "Devotee, A non-devotee",
+          "option3": "All the above",
+          "answer": "All the above",
+          "full_answer": "Krishna conscious is beneficial for a Devotee, A non-devotee, A brahmana."
+        },
+        {
+          "question": "Because of the vow on the verge of death , _______ had given up even drinking water.",
+          "option1": "Sukadeva Gosvami",
+          "option2": "Saunaka Rsi",
+          "option3": "Parikshit Maharaj",
+          "answer": "Parikshit Maharaj",
+          "full_answer": "Because of the vow on the verge of death , Parikshit Maharaj had given up even drinking water."
+        },
+        {
+          "question": "When speaking of Krishna katha _______ are purified.",
+          "option1": "The preacher",
+          "option2": "He who inquires",
+          "option3": "All the above",
+          "answer": "All the above",
+          "full_answer": "When speaking of Krishna katha The preacher, He who inquires, The people in general who listen are purified."
+        },
+        {
+          "question": "Mother Earth assumed the form of a _______ and appeared before Lord Brahma and told him about her misfortune.",
+          "option1": "Cow",
+          "option2": "Bull",
+          "option3": "Dwarf",
+          "answer": "Cow",
+          "full_answer": "Mother Earth assumed the form of a Cow and appeared before Lord Brahma and told him about her misfortune."
+        },
+        {
+          "question": "Lord Brahma, Lord Shiva with all other demigods approached to the shore of the ocean of________.",
+          "option1": "Salt water",
+          "option2": "Milk",
+          "option3": "Sugarcane juice",
+          "answer": "Milk",
+          "full_answer": "Lord Brahma, Lord Shiva with all other demigods approached to the shore of the ocean of Milk."
+        },
+        {
+          "question": "Everyone worshipped Lord Vishnu by reciting Vedic mantras known as the ______.",
+          "option1": "Brahma Samhita",
+          "option2": "Vishnu Sahasra namah",
+          "option3": "Purusha-sukta",
+          "answer": "Purusha-sukta",
+          "full_answer": "Everyone worshipped Lord Vishnu by reciting Vedic mantras known as the Purusha-sukta."
+        },
+        {
+          "question": "While in trance Lord Brahma heard the words of ______ Vishnu.",
+          "option1": "Garbhoakshayi",
+          "option2": "Karanodakshayi",
+          "option3": "Kshirodakshayi",
+          "answer": "Kshirodakshayi",
+          "full_answer": "While in trance Lord Brahma heard the words of Kshirodakshayi Vishnu."
+        }
+      ],
+      "Lord Krishna Quiz 11": [
+        {
+          "question": "The foremost manifestation of Krishna is _______.",
+          "option1": "Vasudeva",
+          "option2": "Sankarsana",
+          "option3": "Pradyumna",
+          "answer": "Sankarsana",
+          "full_answer": "The foremost manifestation of Krishna is Sankarsana."
+        },
+        {
+          "question": "______ is known as Prajapati-pati.",
+          "option1": "Lord Brahma",
+          "option2": "Lord Shiva ",
+          "option3": "Lord Vishnu",
+          "answer": "Lord Brahma",
+          "full_answer": "Lord Brahma is known as Prajapati-pati."
+        },
+        {
+          "question": "_____ is described as maha-bhaga for his sober and upright personality.",
+          "option1": "Kamsa",
+          "option2": "Nanda",
+          "option3": "Vasudeva",
+          "answer": "Vasudeva",
+          "full_answer": "Vasudeva is described as maha-bhaga for his sober and upright personality."
+        },
+        {
+          "question": "The incident of Krishna’s breaking of the pot of yogurt and being bound by mother Yashoda took place on ______.",
+          "option1": "Janmastami",
+          "option2": "Balaram jayanti",
+          "option3": "Deepavali day",
+          "answer": "Deepavali day",
+          "full_answer": "The incident of Krishna’s breaking of the pot of yogurt and being bound by mother Yashoda took place on Deepavali day."
+        },
+        {
+          "question": "When Krishna broke the butter pot and ran, Mother Yashoda was able to trace Krishna by ______.",
+          "option1": "The sound of His ankle bells",
+          "option2": "The hints of Balarama",
+          "option3": "His butter smeared footprints",
+          "answer": "His butter smeared footprints",
+          "full_answer": "When Krishna broke the butter pot and ran, Mother Yashoda was able to trace Krishna by his butter smeared footprints."
+        },
+        {
+          "question": "Lord can be captured by a ______.",
+          "option1": "Bhakta",
+          "option2": "Yogi",
+          "option3": "Tapasvi",
+          "answer": "Bhakta",
+          "full_answer": "Lord can be captured by a Bhakta."
+        },
+        {
+          "question": "When mother Yashoda was binding Krishna, she saw the binding rope was short by a distance the width of ______ fingers.",
+          "option1": "1",
+          "option2": "2",
+          "option3": "3",
+          "answer": "2",
+          "full_answer": "When mother Yashoda was binding Krishna, she saw the binding rope was short by a distance the width of 2 fingers."
+        },
+        {
+          "question": "The Yamala-arjuna trees in the former millennium had been the demigod sons of ______.",
+          "option1": "Kuvera",
+          "option2": "Varuna",
+          "option3": "Agni",
+          "answer": "Kuvera",
+          "full_answer": "The Yamala-arjuna trees in the former millennium had been the demigod sons of Kuvera."
+        },
+        {
+          "question": "______ cursed Nalakuvera and Manigriva to be trees.",
+          "option1": "Durvasa Muni",
+          "option2": "Narada Muni",
+          "option3": "Parashurama",
+          "answer": "Narada Muni",
+          "full_answer": "Narada Muni cursed Nalakuvera and Manigriva to be trees."
+        },
+        {
+          "question": "Deepavali is also known as ______.",
+          "option1": "Dipa-maalika",
+          "option2": "Diya din",
+          "option3": "Deepa jyoti",
+          "answer": "Dipa-maalika",
+          "full_answer": "Deepavali is also known as Dipa-maalika."
+        }
+      ],
+      "Lord Krishna Quiz 12": [
+        {
+          "question": "Lord Krishna is addressed as agunasya which means ______.",
+          "option1": "Without material qualities",
+          "option2": "Without any qualities",
+          "option3": "Without permanent existence",
+          "answer": "Without material qualities",
+          "full_answer": "Lord Krishna is addressed as agunasya which means Without material qualities."
+        },
+        {
+          "question": "Generally everyone, including Brahma, has bodily measurement equal to ______ spans of his hand.",
+          "option1": "5",
+          "option2": "6",
+          "option3": "7",
+          "answer": "7",
+          "full_answer": "Generally everyone, including Brahma, has bodily measurement equal to 7 spans of his hand."
+        },
+        {
+          "question": "By ______, Lord Brahma personally experienced that all existence, being the potency of God, is nondifferent from Him.",
+          "option1": "Severe repentance",
+          "option2": "Mystical potency",
+          "option3": "Lord Krishna’s mercy",
+          "answer": "Lord Krishna’s mercy",
+          "full_answer": "By Lord Krishna’s mercy, Lord Brahma personally experienced that all existence, being the potency of God, is nondifferent from Him."
+        },
+        {
+          "question": "The Lord’s multiple identity is explained by the term ______.",
+          "option1": "Yogeshwara",
+          "option2": "Mrtyunjaya",
+          "option3": "Sarvatma",
+          "answer": "Yogeshwara",
+          "full_answer": "The Lord’s multiple identity is explained by the term Yogeshwara."
+        },
+        {
+          "question": "Vaikuntha means________.",
+          "option1": "Place full of danger",
+          "option2": "Place where the Supreme Lord is seen at all times",
+          "option3": "Place where there are no material miseries",
+          "answer": "Place where there are no material miseries",
+          "full_answer": "Vaikuntha means Place where there are no material miseries."
+        },
+        {
+          "question": "Lord Krishna’s lotus feet are described as pallava, because________.",
+          "option1": "They are most tender",
+          "option2": "They are of pinkish hue",
+          "option3": "All the above",
+          "answer": "All the above",
+          "full_answer": "Lord Krishna’s lotus feet are described as pallava, because They are most tender, They are of pinkish hue, They are just like desire trees."
+        },
+        {
+          "question": "The activity of killing of Aghasura was celebrated on the ______ year of Lord Hari.",
+          "option1": "5th",
+          "option2": "6th",
+          "option3": "7th",
+          "answer": "6th",
+          "full_answer": "The activity of killing of Aghasura was celebrated on the 6th year of Lord Hari."
+        }
+      ],
+      "Lord Krishna Quiz 13": [
+        {
+          "question": "When the cowherd boys fell lifeless on drinking the water of Yamuna________.",
+          "option1": "The whole of Vrindavan was mourning",
+          "option2": "Govinda brought all of them back to life by His merciful glance",
+          "option3": "Special ayurvedic physicians arrived to take care of them",
+          "answer": "Govinda brought all of them back to life by His merciful glance",
+          "full_answer": "Govinda brought all of them back to life by His merciful glance, then the cowherd boys fell lifeless on drinking the water of Yamuna ."
+        },
+        {
+          "question": "Yamuna river was also known as _______.",
+          "option1": "Kumudi",
+          "option2": "Kalindi",
+          "option3": "Vaishnavi",
+          "answer": "Kalindi",
+          "full_answer": "Yamuna river was also known as Kalindi."
+        },
+        {
+          "question": "By the poison of serpent Kaliya, the lake had turned ______.",
+          "option1": "Red",
+          "option2": "Hot and its waters were boiling",
+          "option3": "Icy cold",
+          "answer": "Hot and its waters were boiling",
+          "full_answer": "By the poison of serpent Kaliya, the lake had turned into 'Hot and its waters were boiling'"
+        },
+        {
+          "question": "Lord Krishna jumped from the _______ tree into the Yamuna to kill Kaliya.",
+          "option1": "Taal",
+          "option2": "Tamal",
+          "option3": "Kadamba",
+          "answer": "Kadamba",
+          "full_answer": "Lord Krishna jumped from the Kadamba tree into the Yamuna to kill Kaliya."
+        },
+        {
+          "question": "During the fight of Krishna and Kaaliya, bad omens arouse _______.",
+          "option1": "On the Earth",
+          "option2": "In the Sky",
+          "option3": "Both",
+          "answer": "Both",
+          "full_answer": "During the fight of Krishna and Kaaliya, bad omens arouse In the Sky, On the Earth and In the bodies of living creatures."
+        },
+        {
+          "question": "On seeing the inauspicious omens, the people of Vrindavan were overwhelmed with________.",
+          "option1": "Grief, Fear",
+          "option2": "Lamentation",
+          "option3": "Both",
+          "answer": "Both",
+          "full_answer": "On seeing the inauspicious omens, the people of Vrindavan were overwhelmed with Grief, Fear and Lamentation."
+        },
+        {
+          "question": "Lord Balarama, on seeing the distress of the residents of Vrindavan,_________.",
+          "option1": "Himself became overwhelmed with moroseness",
+          "option2": "Gave strength by consoling them",
+          "option3": "Simply smiled",
+          "answer": "Simply smiled",
+          "full_answer": "Lord Balarama, on seeing the distress of the residents of Vrindavan, Simply smiled."
+        },
+        {
+          "question": "The wives of Kaliya were________.",
+          "option1": "Equally poisonous",
+          "option2": "Were bad but not poisonous",
+          "option3": "Devotees of Krishna",
+          "answer": "Devotees of Krishna",
+          "full_answer": "The wives of Kaliya were Devotees of Krishna."
+        },
+        {
+          "question": "Lord Krishna saved Vrindavan by _______.",
+          "option1": "Killing Kaliya",
+          "option2": "Allowing him to be in Yamuna but be friendly",
+          "option3": "Sending him to the ocean",
+          "answer": "Sending him to the ocean",
+          "full_answer": "Lord Krishna saved Vrindavan by Sending him to the ocean."
+        }
+      ],
+      "Lord Krishna Quiz 14": [
+        {
+          "question": "Madhupati is the name of_______.",
+          "option1": "Madhu demon",
+          "option2": "Balarama",
+          "option3": "Krishna",
+          "answer": "Krishna",
+          "full_answer": "Madhupati is the name of Krishna."
+        },
+        {
+          "question": "When Krishna enters the Vrndavan forest, he has________.",
+          "option1": "A peacock-feather ornament upon His head",
+          "option2": "Blue karnikara flowers on His ears",
+          "option3": "Both",
+          "answer": "Both",
+          "full_answer": "When Krishna enters the Vrndavan forest, he has A peacock-feather ornament upon His head, Blue karnikara flowers on His ears, A yellow garment as brilliant as gold."
+        },
+        {
+          "question": "When Krishna plays on His flute_________.",
+          "option1": "Cows with their upraised ears drink the nectar of the flute-song and the calves with their mouths full of milk embrace Govinda within their hearts",
+          "option2": "The wives of demigods’s hearts are shaken by Cupid and become bewildered",
+          "option3": "Both",
+          "answer": "Both",
+          "full_answer": "When Krishna plays on His flute, Cows with their upraised ears drink the nectar of the flute-song and the calves with their mouths full of milk embrace Govinda within their hearts, The wives of demigods’s hearts are shaken by Cupid and become bewildered and The doe and the bucks worship the Lord with looks of love and affection."
+        },
+        {
+          "question": "The Gopis glorify The Govardhan Hill to be the best of all devotees because it provides ______ to Krishna and Balarama and to all Their friends_________.",
+          "option1": "Water for drinking",
+          "option2": "Caves for rest, games",
+          "option3": "Both",
+          "answer": "Both",
+          "full_answer": "The Gopis glorify The Govardhan Hill to be the best of all devotees because it provides Water for drinking, Caves for rest, games and Fruits, flowers and vegetables to Krishna and Balarama and to all Their friends_________."
+        },
+        {
+          "question": "The gopis were born in the families of_________.",
+          "option1": "Brahmanas",
+          "option2": "Kshatriyas",
+          "option3": "Vaisyas",
+          "answer": "Vaisyas",
+          "full_answer": "The gopis were born in the families of Vaisyas."
+        },
+        {
+          "question": "When Lord Krishna reached the wrestling arena He saw ________ blocking His way.",
+          "option1": "Kamsa",
+          "option2": "Kuvalyapida",
+          "option3": "Canura",
+          "answer": "Kuvalyapida",
+          "full_answer": "When Lord Krishna reached the wrestling arena He saw Kuvalyapida blocking His way."
+        },
+        {
+          "question": "Lord Krishna killed Kuvalyapida and its keepers with ________.",
+          "option1": "A bow",
+          "option2": "The Sudarshan chakra",
+          "option3": "Tusk of the elephant itself",
+          "answer": "Tusk of the elephant itself",
+          "full_answer": "Lord Krishna killed Kuvalyapida and its keepers with Tusk of the elephant itself."
+        },
+        {
+          "question": "The people perceived Krishna and Balarama as ________ when they entered the arena.",
+          "option1": "Lightning bolt",
+          "option2": "Best of males",
+          "option3": "Any of the above",
+          "answer": "Any of the above",
+          "full_answer": "The people perceived Krishna and Balarama as Lightning bolt, Best of males, Cupid in person when they entered the arena."
+        },
+        {
+          "question": "Canura addressed Krishna and Balarama as ________.",
+          "option1": "Courageous, skillful and powerful men",
+          "option2": "Cowherd boys",
+          "option3": "Playful teenagers",
+          "answer": "Courageous, skillful and powerful men",
+          "full_answer": "Canura addressed Krishna and Balarama as Courageous, skillful and powerful men."
+        },
+        {
+          "question": "Balarama killed ________.",
+          "option1": "Vatsaka",
+          "option2": "Putana",
+          "option3": "Vyoma",
+          "answer": "Vatsaka",
+          "full_answer": "Balarama killed Vatsaka."
+        }
+      ],
+      "Lord Krishna Quiz 15": [
+        {
+          "question": "The young unmarried girls of Gokula observed the vow of worshipping________.",
+          "option1": "The Sun God",
+          "option2": "Goddess Katyayini",
+          "option3": "Mother Yamuna",
+          "answer": "Goddess Katyayini",
+          "full_answer": "The young unmarried girls of Gokula observed the vow of worshipping Goddess Katyayini."
+        },
+        {
+          "question": "During the vow period, for the entire month the girls________.",
+          "option1": "Ate Chipped rice",
+          "option2": "Ate unspiced kichari",
+          "option3": "Drank only milk",
+          "answer": "Ate unspiced kichari",
+          "full_answer": "During the vow period, for the entire month the girls________."
+        },
+        {
+          "question": "This vow of the girls of Gokula was performed during the month of_________.",
+          "option1": "Margasira",
+          "option2": "Magha",
+          "option3": "Phalguna",
+          "answer": "Margasira",
+          "full_answer": "This vow of the girls of Gokula was performed during the month of Margasira."
+        },
+        {
+          "question": "The principle prayer of the young girls was________.",
+          "option1": "Let Rohini Nandan be their husband",
+          "option2": "Let Nanda Nandan be their husband",
+          "option3": "Let they get good kshatriya kings as their husband",
+          "answer": "Let Nanda Nandan be their husband",
+          "full_answer": "The principle prayer of the young girls was Let Nanda Nandan be their husband."
+        },
+        {
+          "question": "Lord Krishna approached the young gopis_________.",
+          "option1": "Totally unaware of why the gopis had kept the vow",
+          "option2": "Thinking if they are successful in their vow then they may defeat Him",
+          "option3": "Fully aware of their wish and give them the perfection of their endeavor",
+          "answer": "Fully aware of their wish and give them the perfection of their endeavor",
+          "full_answer": "Lord Krishna approached the young gopis Fully aware of their wish and give them the perfection of their endeavor."
+        },
+        {
+          "question": "Krishna stole the garments of the gopis and climbed the ______ tree.",
+          "option1": "Kadamba",
+          "option2": "Banyan",
+          "option3": "Tamal",
+          "answer": "Kadamba",
+          "full_answer": "Krishna stole the garments of the gopis and climbed the Kadamba tree."
+        },
+        {
+          "question": "When the gopis were alerted of their garments been stolen________.",
+          "option1": "They immersed in the water completely out of shame",
+          "option2": "Were very furious with Govinda",
+          "option3": "Were laughing amongst themselves even in their embarrassment",
+          "answer": "Were laughing amongst themselves even in their embarrassment",
+          "full_answer": "When the gopis Were laughing amongst themselves even in their embarrassment and they were alerted of their garments been stolen."
+        }
+      ],
+      "Lord Krishna Quiz 16": [
+        {
+          "question": "The foremost manifestation of Krishna is _______.",
+          "option1": "Vasudeva",
+          "option2": "Sankarsana",
+          "option3": "Pradyumna",
+          "answer": "Sankarsana",
+          "full_answer": "The foremost manifestation of Krishna is Sankarsana."
+        },
+        {
+          "question": "______ is known as Prajapati-pati.",
+          "option1": "Lord Brahma",
+          "option2": "Lord Shiva ",
+          "option3": "Lord Vishnu",
+          "answer": "Lord Brahma",
+          "full_answer": "Lord Brahma is known as Prajapati-pati."
+        },
+        {
+          "question": "_____ is described as maha-bhaga for his sober and upright personality.",
+          "option1": "Kamsa",
+          "option2": "Nanda",
+          "option3": "Vasudeva",
+          "answer": "Vasudeva",
+          "full_answer": "Vasudeva is described as maha-bhaga for his sober and upright personality."
+        },
+        {
+          "question": "The incident of Krishna’s breaking of the pot of yogurt and being bound by mother Yashoda took place on ______.",
+          "option1": "Janmastami",
+          "option2": "Balaram jayanti",
+          "option3": "Deepavali day",
+          "answer": "Deepavali day",
+          "full_answer": "The incident of Krishna’s breaking of the pot of yogurt and being bound by mother Yashoda took place on Deepavali day."
+        },
+        {
+          "question": "When Krishna broke the butter pot and ran, Mother Yashoda was able to trace Krishna by ______.",
+          "option1": "The sound of His ankle bells",
+          "option2": "The hints of Balarama",
+          "option3": "His butter smeared footprints",
+          "answer": "His butter smeared footprints",
+          "full_answer": "When Krishna broke the butter pot and ran, Mother Yashoda was able to trace Krishna by his butter smeared footprints."
+        },
+        {
+          "question": "Lord can be captured by a ______.",
+          "option1": "Bhakta",
+          "option2": "Yogi",
+          "option3": "Tapasvi",
+          "answer": "Bhakta",
+          "full_answer": "Lord can be captured by a Bhakta."
+        },
+        {
+          "question": "When mother Yashoda was binding Krishna, she saw the binding rope was short by a distance the width of ______ fingers.",
+          "option1": "1",
+          "option2": "2",
+          "option3": "3",
+          "answer": "2",
+          "full_answer": "When mother Yashoda was binding Krishna, she saw the binding rope was short by a distance the width of 2 fingers."
+        },
+        {
+          "question": "The Yamala-arjuna trees in the former millennium had been the demigod sons of ______.",
+          "option1": "Kuvera",
+          "option2": "Varuna",
+          "option3": "Agni",
+          "answer": "Kuvera",
+          "full_answer": "The Yamala-arjuna trees in the former millennium had been the demigod sons of Kuvera."
+        },
+        {
+          "question": "______ cursed Nalakuvera and Manigriva to be trees.",
+          "option1": "Durvasa Muni",
+          "option2": "Narada Muni",
+          "option3": "Parashurama",
+          "answer": "Narada Muni",
+          "full_answer": "Narada Muni cursed Nalakuvera and Manigriva to be trees."
+        },
+        {
+          "question": "Deepavali is also known as ______.",
+          "option1": "Dipa-maalika",
+          "option2": "Diya din",
+          "option3": "Deepa jyoti",
+          "answer": "Dipa-maalika",
+          "full_answer": "Deepavali is also known as Dipa-maalika."
+        }
+      ],
+      "Lord Krishna Quiz 11": [
+        {
+          "question": "The foremost manifestation of Krishna is _______.",
+          "option1": "Vasudeva",
+          "option2": "Sankarsana",
+          "option3": "Pradyumna",
+          "answer": "Sankarsana",
+          "full_answer": "The foremost manifestation of Krishna is Sankarsana."
+        },
+        {
+          "question": "______ is known as Prajapati-pati.",
+          "option1": "Lord Brahma",
+          "option2": "Lord Shiva ",
+          "option3": "Lord Vishnu",
+          "answer": "Lord Brahma",
+          "full_answer": "Lord Brahma is known as Prajapati-pati."
+        },
+        {
+          "question": "_____ is described as maha-bhaga for his sober and upright personality.",
+          "option1": "Kamsa",
+          "option2": "Nanda",
+          "option3": "Vasudeva",
+          "answer": "Vasudeva",
+          "full_answer": "Vasudeva is described as maha-bhaga for his sober and upright personality."
+        },
+        {
+          "question": "The incident of Krishna’s breaking of the pot of yogurt and being bound by mother Yashoda took place on ______.",
+          "option1": "Janmastami",
+          "option2": "Balaram jayanti",
+          "option3": "Deepavali day",
+          "answer": "Deepavali day",
+          "full_answer": "The incident of Krishna’s breaking of the pot of yogurt and being bound by mother Yashoda took place on Deepavali day."
+        },
+        {
+          "question": "When Krishna broke the butter pot and ran, Mother Yashoda was able to trace Krishna by ______.",
+          "option1": "The sound of His ankle bells",
+          "option2": "The hints of Balarama",
+          "option3": "His butter smeared footprints",
+          "answer": "His butter smeared footprints",
+          "full_answer": "When Krishna broke the butter pot and ran, Mother Yashoda was able to trace Krishna by his butter smeared footprints."
+        },
+        {
+          "question": "Lord can be captured by a ______.",
+          "option1": "Bhakta",
+          "option2": "Yogi",
+          "option3": "Tapasvi",
+          "answer": "Bhakta",
+          "full_answer": "Lord can be captured by a Bhakta."
+        },
+        {
+          "question": "When mother Yashoda was binding Krishna, she saw the binding rope was short by a distance the width of ______ fingers.",
+          "option1": "1",
+          "option2": "2",
+          "option3": "3",
+          "answer": "2",
+          "full_answer": "When mother Yashoda was binding Krishna, she saw the binding rope was short by a distance the width of 2 fingers."
+        },
+        {
+          "question": "The Yamala-arjuna trees in the former millennium had been the demigod sons of ______.",
+          "option1": "Kuvera",
+          "option2": "Varuna",
+          "option3": "Agni",
+          "answer": "Kuvera",
+          "full_answer": "The Yamala-arjuna trees in the former millennium had been the demigod sons of Kuvera."
+        },
+        {
+          "question": "______ cursed Nalakuvera and Manigriva to be trees.",
+          "option1": "Durvasa Muni",
+          "option2": "Narada Muni",
+          "option3": "Parashurama",
+          "answer": "Narada Muni",
+          "full_answer": "Narada Muni cursed Nalakuvera and Manigriva to be trees."
+        },
+        {
+          "question": "Deepavali is also known as ______.",
+          "option1": "Dipa-maalika",
+          "option2": "Diya din",
+          "option3": "Deepa jyoti",
+          "answer": "Dipa-maalika",
+          "full_answer": "Deepavali is also known as Dipa-maalika."
+        }
+      ],
+      "Lord Krishna Quiz 11": [
+        {
+          "question": "The foremost manifestation of Krishna is _______.",
+          "option1": "Vasudeva",
+          "option2": "Sankarsana",
+          "option3": "Pradyumna",
+          "answer": "Sankarsana",
+          "full_answer": "The foremost manifestation of Krishna is Sankarsana."
+        },
+        {
+          "question": "______ is known as Prajapati-pati.",
+          "option1": "Lord Brahma",
+          "option2": "Lord Shiva ",
+          "option3": "Lord Vishnu",
+          "answer": "Lord Brahma",
+          "full_answer": "Lord Brahma is known as Prajapati-pati."
+        },
+        {
+          "question": "_____ is described as maha-bhaga for his sober and upright personality.",
+          "option1": "Kamsa",
+          "option2": "Nanda",
+          "option3": "Vasudeva",
+          "answer": "Vasudeva",
+          "full_answer": "Vasudeva is described as maha-bhaga for his sober and upright personality."
+        },
+        {
+          "question": "The incident of Krishna’s breaking of the pot of yogurt and being bound by mother Yashoda took place on ______.",
+          "option1": "Janmastami",
+          "option2": "Balaram jayanti",
+          "option3": "Deepavali day",
+          "answer": "Deepavali day",
+          "full_answer": "The incident of Krishna’s breaking of the pot of yogurt and being bound by mother Yashoda took place on Deepavali day."
+        },
+        {
+          "question": "When Krishna broke the butter pot and ran, Mother Yashoda was able to trace Krishna by ______.",
+          "option1": "The sound of His ankle bells",
+          "option2": "The hints of Balarama",
+          "option3": "His butter smeared footprints",
+          "answer": "His butter smeared footprints",
+          "full_answer": "When Krishna broke the butter pot and ran, Mother Yashoda was able to trace Krishna by his butter smeared footprints."
+        },
+        {
+          "question": "Lord can be captured by a ______.",
+          "option1": "Bhakta",
+          "option2": "Yogi",
+          "option3": "Tapasvi",
+          "answer": "Bhakta",
+          "full_answer": "Lord can be captured by a Bhakta."
+        },
+        {
+          "question": "When mother Yashoda was binding Krishna, she saw the binding rope was short by a distance the width of ______ fingers.",
+          "option1": "1",
+          "option2": "2",
+          "option3": "3",
+          "answer": "2",
+          "full_answer": "When mother Yashoda was binding Krishna, she saw the binding rope was short by a distance the width of 2 fingers."
+        },
+        {
+          "question": "The Yamala-arjuna trees in the former millennium had been the demigod sons of ______.",
+          "option1": "Kuvera",
+          "option2": "Varuna",
+          "option3": "Agni",
+          "answer": "Kuvera",
+          "full_answer": "The Yamala-arjuna trees in the former millennium had been the demigod sons of Kuvera."
+        },
+        {
+          "question": "______ cursed Nalakuvera and Manigriva to be trees.",
+          "option1": "Durvasa Muni",
+          "option2": "Narada Muni",
+          "option3": "Parashurama",
+          "answer": "Narada Muni",
+          "full_answer": "Narada Muni cursed Nalakuvera and Manigriva to be trees."
+        },
+        {
+          "question": "Deepavali is also known as ______.",
+          "option1": "Dipa-maalika",
+          "option2": "Diya din",
+          "option3": "Deepa jyoti",
+          "answer": "Dipa-maalika",
+          "full_answer": "Deepavali is also known as Dipa-maalika."
+        }
+      ],
+      "Lord Krishna Quiz 11": [
+        {
+          "question": "The foremost manifestation of Krishna is _______.",
+          "option1": "Vasudeva",
+          "option2": "Sankarsana",
+          "option3": "Pradyumna",
+          "answer": "Sankarsana",
+          "full_answer": "The foremost manifestation of Krishna is Sankarsana."
+        },
+        {
+          "question": "______ is known as Prajapati-pati.",
+          "option1": "Lord Brahma",
+          "option2": "Lord Shiva ",
+          "option3": "Lord Vishnu",
+          "answer": "Lord Brahma",
+          "full_answer": "Lord Brahma is known as Prajapati-pati."
+        },
+        {
+          "question": "_____ is described as maha-bhaga for his sober and upright personality.",
+          "option1": "Kamsa",
+          "option2": "Nanda",
+          "option3": "Vasudeva",
+          "answer": "Vasudeva",
+          "full_answer": "Vasudeva is described as maha-bhaga for his sober and upright personality."
+        },
+        {
+          "question": "The incident of Krishna’s breaking of the pot of yogurt and being bound by mother Yashoda took place on ______.",
+          "option1": "Janmastami",
+          "option2": "Balaram jayanti",
+          "option3": "Deepavali day",
+          "answer": "Deepavali day",
+          "full_answer": "The incident of Krishna’s breaking of the pot of yogurt and being bound by mother Yashoda took place on Deepavali day."
+        },
+        {
+          "question": "When Krishna broke the butter pot and ran, Mother Yashoda was able to trace Krishna by ______.",
+          "option1": "The sound of His ankle bells",
+          "option2": "The hints of Balarama",
+          "option3": "His butter smeared footprints",
+          "answer": "His butter smeared footprints",
+          "full_answer": "When Krishna broke the butter pot and ran, Mother Yashoda was able to trace Krishna by his butter smeared footprints."
+        },
+        {
+          "question": "Lord can be captured by a ______.",
+          "option1": "Bhakta",
+          "option2": "Yogi",
+          "option3": "Tapasvi",
+          "answer": "Bhakta",
+          "full_answer": "Lord can be captured by a Bhakta."
+        },
+        {
+          "question": "When mother Yashoda was binding Krishna, she saw the binding rope was short by a distance the width of ______ fingers.",
+          "option1": "1",
+          "option2": "2",
+          "option3": "3",
+          "answer": "2",
+          "full_answer": "When mother Yashoda was binding Krishna, she saw the binding rope was short by a distance the width of 2 fingers."
+        },
+        {
+          "question": "The Yamala-arjuna trees in the former millennium had been the demigod sons of ______.",
+          "option1": "Kuvera",
+          "option2": "Varuna",
+          "option3": "Agni",
+          "answer": "Kuvera",
+          "full_answer": "The Yamala-arjuna trees in the former millennium had been the demigod sons of Kuvera."
+        },
+        {
+          "question": "______ cursed Nalakuvera and Manigriva to be trees.",
+          "option1": "Durvasa Muni",
+          "option2": "Narada Muni",
+          "option3": "Parashurama",
+          "answer": "Narada Muni",
+          "full_answer": "Narada Muni cursed Nalakuvera and Manigriva to be trees."
+        },
+        {
+          "question": "Deepavali is also known as ______.",
+          "option1": "Dipa-maalika",
+          "option2": "Diya din",
+          "option3": "Deepa jyoti",
+          "answer": "Dipa-maalika",
+          "full_answer": "Deepavali is also known as Dipa-maalika."
+        }
+      ],
+      "Lord Krishna Quiz 11": [
+        {
+          "question": "The foremost manifestation of Krishna is _______.",
+          "option1": "Vasudeva",
+          "option2": "Sankarsana",
+          "option3": "Pradyumna",
+          "answer": "Sankarsana",
+          "full_answer": "The foremost manifestation of Krishna is Sankarsana."
+        },
+        {
+          "question": "______ is known as Prajapati-pati.",
+          "option1": "Lord Brahma",
+          "option2": "Lord Shiva ",
+          "option3": "Lord Vishnu",
+          "answer": "Lord Brahma",
+          "full_answer": "Lord Brahma is known as Prajapati-pati."
+        },
+        {
+          "question": "_____ is described as maha-bhaga for his sober and upright personality.",
+          "option1": "Kamsa",
+          "option2": "Nanda",
+          "option3": "Vasudeva",
+          "answer": "Vasudeva",
+          "full_answer": "Vasudeva is described as maha-bhaga for his sober and upright personality."
+        },
+        {
+          "question": "The incident of Krishna’s breaking of the pot of yogurt and being bound by mother Yashoda took place on ______.",
+          "option1": "Janmastami",
+          "option2": "Balaram jayanti",
+          "option3": "Deepavali day",
+          "answer": "Deepavali day",
+          "full_answer": "The incident of Krishna’s breaking of the pot of yogurt and being bound by mother Yashoda took place on Deepavali day."
+        },
+        {
+          "question": "When Krishna broke the butter pot and ran, Mother Yashoda was able to trace Krishna by ______.",
+          "option1": "The sound of His ankle bells",
+          "option2": "The hints of Balarama",
+          "option3": "His butter smeared footprints",
+          "answer": "His butter smeared footprints",
+          "full_answer": "When Krishna broke the butter pot and ran, Mother Yashoda was able to trace Krishna by his butter smeared footprints."
+        },
+        {
+          "question": "Lord can be captured by a ______.",
+          "option1": "Bhakta",
+          "option2": "Yogi",
+          "option3": "Tapasvi",
+          "answer": "Bhakta",
+          "full_answer": "Lord can be captured by a Bhakta."
+        },
+        {
+          "question": "When mother Yashoda was binding Krishna, she saw the binding rope was short by a distance the width of ______ fingers.",
+          "option1": "1",
+          "option2": "2",
+          "option3": "3",
+          "answer": "2",
+          "full_answer": "When mother Yashoda was binding Krishna, she saw the binding rope was short by a distance the width of 2 fingers."
+        },
+        {
+          "question": "The Yamala-arjuna trees in the former millennium had been the demigod sons of ______.",
+          "option1": "Kuvera",
+          "option2": "Varuna",
+          "option3": "Agni",
+          "answer": "Kuvera",
+          "full_answer": "The Yamala-arjuna trees in the former millennium had been the demigod sons of Kuvera."
+        },
+        {
+          "question": "______ cursed Nalakuvera and Manigriva to be trees.",
+          "option1": "Durvasa Muni",
+          "option2": "Narada Muni",
+          "option3": "Parashurama",
+          "answer": "Narada Muni",
+          "full_answer": "Narada Muni cursed Nalakuvera and Manigriva to be trees."
+        },
+        {
+          "question": "Deepavali is also known as ______.",
+          "option1": "Dipa-maalika",
+          "option2": "Diya din",
+          "option3": "Deepa jyoti",
+          "answer": "Dipa-maalika",
+          "full_answer": "Deepavali is also known as Dipa-maalika."
+        }
+      ],
+      "Lord Krishna Quiz 11": [
+        {
+          "question": "The foremost manifestation of Krishna is _______.",
+          "option1": "Vasudeva",
+          "option2": "Sankarsana",
+          "option3": "Pradyumna",
+          "answer": "Sankarsana",
+          "full_answer": "The foremost manifestation of Krishna is Sankarsana."
+        },
+        {
+          "question": "______ is known as Prajapati-pati.",
+          "option1": "Lord Brahma",
+          "option2": "Lord Shiva ",
+          "option3": "Lord Vishnu",
+          "answer": "Lord Brahma",
+          "full_answer": "Lord Brahma is known as Prajapati-pati."
+        },
+        {
+          "question": "_____ is described as maha-bhaga for his sober and upright personality.",
+          "option1": "Kamsa",
+          "option2": "Nanda",
+          "option3": "Vasudeva",
+          "answer": "Vasudeva",
+          "full_answer": "Vasudeva is described as maha-bhaga for his sober and upright personality."
+        },
+        {
+          "question": "The incident of Krishna’s breaking of the pot of yogurt and being bound by mother Yashoda took place on ______.",
+          "option1": "Janmastami",
+          "option2": "Balaram jayanti",
+          "option3": "Deepavali day",
+          "answer": "Deepavali day",
+          "full_answer": "The incident of Krishna’s breaking of the pot of yogurt and being bound by mother Yashoda took place on Deepavali day."
+        },
+        {
+          "question": "When Krishna broke the butter pot and ran, Mother Yashoda was able to trace Krishna by ______.",
+          "option1": "The sound of His ankle bells",
+          "option2": "The hints of Balarama",
+          "option3": "His butter smeared footprints",
+          "answer": "His butter smeared footprints",
+          "full_answer": "When Krishna broke the butter pot and ran, Mother Yashoda was able to trace Krishna by his butter smeared footprints."
+        },
+        {
+          "question": "Lord can be captured by a ______.",
+          "option1": "Bhakta",
+          "option2": "Yogi",
+          "option3": "Tapasvi",
+          "answer": "Bhakta",
+          "full_answer": "Lord can be captured by a Bhakta."
+        },
+        {
+          "question": "When mother Yashoda was binding Krishna, she saw the binding rope was short by a distance the width of ______ fingers.",
+          "option1": "1",
+          "option2": "2",
+          "option3": "3",
+          "answer": "2",
+          "full_answer": "When mother Yashoda was binding Krishna, she saw the binding rope was short by a distance the width of 2 fingers."
+        },
+        {
+          "question": "The Yamala-arjuna trees in the former millennium had been the demigod sons of ______.",
+          "option1": "Kuvera",
+          "option2": "Varuna",
+          "option3": "Agni",
+          "answer": "Kuvera",
+          "full_answer": "The Yamala-arjuna trees in the former millennium had been the demigod sons of Kuvera."
+        },
+        {
+          "question": "______ cursed Nalakuvera and Manigriva to be trees.",
+          "option1": "Durvasa Muni",
+          "option2": "Narada Muni",
+          "option3": "Parashurama",
+          "answer": "Narada Muni",
+          "full_answer": "Narada Muni cursed Nalakuvera and Manigriva to be trees."
+        },
+        {
+          "question": "Deepavali is also known as ______.",
+          "option1": "Dipa-maalika",
+          "option2": "Diya din",
+          "option3": "Deepa jyoti",
+          "answer": "Dipa-maalika",
+          "full_answer": "Deepavali is also known as Dipa-maalika."
+        }
+      ],
+      "Lord Krishna Quiz 11": [
+        {
+          "question": "The foremost manifestation of Krishna is _______.",
+          "option1": "Vasudeva",
+          "option2": "Sankarsana",
+          "option3": "Pradyumna",
+          "answer": "Sankarsana",
+          "full_answer": "The foremost manifestation of Krishna is Sankarsana."
+        },
+        {
+          "question": "______ is known as Prajapati-pati.",
+          "option1": "Lord Brahma",
+          "option2": "Lord Shiva ",
+          "option3": "Lord Vishnu",
+          "answer": "Lord Brahma",
+          "full_answer": "Lord Brahma is known as Prajapati-pati."
+        },
+        {
+          "question": "_____ is described as maha-bhaga for his sober and upright personality.",
+          "option1": "Kamsa",
+          "option2": "Nanda",
+          "option3": "Vasudeva",
+          "answer": "Vasudeva",
+          "full_answer": "Vasudeva is described as maha-bhaga for his sober and upright personality."
+        },
+        {
+          "question": "The incident of Krishna’s breaking of the pot of yogurt and being bound by mother Yashoda took place on ______.",
+          "option1": "Janmastami",
+          "option2": "Balaram jayanti",
+          "option3": "Deepavali day",
+          "answer": "Deepavali day",
+          "full_answer": "The incident of Krishna’s breaking of the pot of yogurt and being bound by mother Yashoda took place on Deepavali day."
+        },
+        {
+          "question": "When Krishna broke the butter pot and ran, Mother Yashoda was able to trace Krishna by ______.",
+          "option1": "The sound of His ankle bells",
+          "option2": "The hints of Balarama",
+          "option3": "His butter smeared footprints",
+          "answer": "His butter smeared footprints",
+          "full_answer": "When Krishna broke the butter pot and ran, Mother Yashoda was able to trace Krishna by his butter smeared footprints."
+        },
+        {
+          "question": "Lord can be captured by a ______.",
+          "option1": "Bhakta",
+          "option2": "Yogi",
+          "option3": "Tapasvi",
+          "answer": "Bhakta",
+          "full_answer": "Lord can be captured by a Bhakta."
+        },
+        {
+          "question": "When mother Yashoda was binding Krishna, she saw the binding rope was short by a distance the width of ______ fingers.",
+          "option1": "1",
+          "option2": "2",
+          "option3": "3",
+          "answer": "2",
+          "full_answer": "When mother Yashoda was binding Krishna, she saw the binding rope was short by a distance the width of 2 fingers."
+        },
+        {
+          "question": "The Yamala-arjuna trees in the former millennium had been the demigod sons of ______.",
+          "option1": "Kuvera",
+          "option2": "Varuna",
+          "option3": "Agni",
+          "answer": "Kuvera",
+          "full_answer": "The Yamala-arjuna trees in the former millennium had been the demigod sons of Kuvera."
+        },
+        {
+          "question": "______ cursed Nalakuvera and Manigriva to be trees.",
+          "option1": "Durvasa Muni",
+          "option2": "Narada Muni",
+          "option3": "Parashurama",
+          "answer": "Narada Muni",
+          "full_answer": "Narada Muni cursed Nalakuvera and Manigriva to be trees."
+        },
+        {
+          "question": "Deepavali is also known as ______.",
+          "option1": "Dipa-maalika",
+          "option2": "Diya din",
+          "option3": "Deepa jyoti",
+          "answer": "Dipa-maalika",
+          "full_answer": "Deepavali is also known as Dipa-maalika."
+        }
+      ],
+      "Lord Krishna Quiz 11": [
+        {
+          "question": "The foremost manifestation of Krishna is _______.",
+          "option1": "Vasudeva",
+          "option2": "Sankarsana",
+          "option3": "Pradyumna",
+          "answer": "Sankarsana",
+          "full_answer": "The foremost manifestation of Krishna is Sankarsana."
+        },
+        {
+          "question": "______ is known as Prajapati-pati.",
+          "option1": "Lord Brahma",
+          "option2": "Lord Shiva ",
+          "option3": "Lord Vishnu",
+          "answer": "Lord Brahma",
+          "full_answer": "Lord Brahma is known as Prajapati-pati."
+        },
+        {
+          "question": "_____ is described as maha-bhaga for his sober and upright personality.",
+          "option1": "Kamsa",
+          "option2": "Nanda",
+          "option3": "Vasudeva",
+          "answer": "Vasudeva",
+          "full_answer": "Vasudeva is described as maha-bhaga for his sober and upright personality."
+        },
+        {
+          "question": "The incident of Krishna’s breaking of the pot of yogurt and being bound by mother Yashoda took place on ______.",
+          "option1": "Janmastami",
+          "option2": "Balaram jayanti",
+          "option3": "Deepavali day",
+          "answer": "Deepavali day",
+          "full_answer": "The incident of Krishna’s breaking of the pot of yogurt and being bound by mother Yashoda took place on Deepavali day."
+        },
+        {
+          "question": "When Krishna broke the butter pot and ran, Mother Yashoda was able to trace Krishna by ______.",
+          "option1": "The sound of His ankle bells",
+          "option2": "The hints of Balarama",
+          "option3": "His butter smeared footprints",
+          "answer": "His butter smeared footprints",
+          "full_answer": "When Krishna broke the butter pot and ran, Mother Yashoda was able to trace Krishna by his butter smeared footprints."
+        },
+        {
+          "question": "Lord can be captured by a ______.",
+          "option1": "Bhakta",
+          "option2": "Yogi",
+          "option3": "Tapasvi",
+          "answer": "Bhakta",
+          "full_answer": "Lord can be captured by a Bhakta."
+        },
+        {
+          "question": "When mother Yashoda was binding Krishna, she saw the binding rope was short by a distance the width of ______ fingers.",
+          "option1": "1",
+          "option2": "2",
+          "option3": "3",
+          "answer": "2",
+          "full_answer": "When mother Yashoda was binding Krishna, she saw the binding rope was short by a distance the width of 2 fingers."
+        },
+        {
+          "question": "The Yamala-arjuna trees in the former millennium had been the demigod sons of ______.",
+          "option1": "Kuvera",
+          "option2": "Varuna",
+          "option3": "Agni",
+          "answer": "Kuvera",
+          "full_answer": "The Yamala-arjuna trees in the former millennium had been the demigod sons of Kuvera."
+        },
+        {
+          "question": "______ cursed Nalakuvera and Manigriva to be trees.",
+          "option1": "Durvasa Muni",
+          "option2": "Narada Muni",
+          "option3": "Parashurama",
+          "answer": "Narada Muni",
+          "full_answer": "Narada Muni cursed Nalakuvera and Manigriva to be trees."
+        },
+        {
+          "question": "Deepavali is also known as ______.",
+          "option1": "Dipa-maalika",
+          "option2": "Diya din",
+          "option3": "Deepa jyoti",
+          "answer": "Dipa-maalika",
+          "full_answer": "Deepavali is also known as Dipa-maalika."
+        }
+      ],
+      "Lord Krishna Quiz 11": [
+        {
+          "question": "The foremost manifestation of Krishna is _______.",
+          "option1": "Vasudeva",
+          "option2": "Sankarsana",
+          "option3": "Pradyumna",
+          "answer": "Sankarsana",
+          "full_answer": "The foremost manifestation of Krishna is Sankarsana."
+        },
+        {
+          "question": "______ is known as Prajapati-pati.",
+          "option1": "Lord Brahma",
+          "option2": "Lord Shiva ",
+          "option3": "Lord Vishnu",
+          "answer": "Lord Brahma",
+          "full_answer": "Lord Brahma is known as Prajapati-pati."
+        },
+        {
+          "question": "_____ is described as maha-bhaga for his sober and upright personality.",
+          "option1": "Kamsa",
+          "option2": "Nanda",
+          "option3": "Vasudeva",
+          "answer": "Vasudeva",
+          "full_answer": "Vasudeva is described as maha-bhaga for his sober and upright personality."
+        },
+        {
+          "question": "The incident of Krishna’s breaking of the pot of yogurt and being bound by mother Yashoda took place on ______.",
+          "option1": "Janmastami",
+          "option2": "Balaram jayanti",
+          "option3": "Deepavali day",
+          "answer": "Deepavali day",
+          "full_answer": "The incident of Krishna’s breaking of the pot of yogurt and being bound by mother Yashoda took place on Deepavali day."
+        },
+        {
+          "question": "When Krishna broke the butter pot and ran, Mother Yashoda was able to trace Krishna by ______.",
+          "option1": "The sound of His ankle bells",
+          "option2": "The hints of Balarama",
+          "option3": "His butter smeared footprints",
+          "answer": "His butter smeared footprints",
+          "full_answer": "When Krishna broke the butter pot and ran, Mother Yashoda was able to trace Krishna by his butter smeared footprints."
+        },
+        {
+          "question": "Lord can be captured by a ______.",
+          "option1": "Bhakta",
+          "option2": "Yogi",
+          "option3": "Tapasvi",
+          "answer": "Bhakta",
+          "full_answer": "Lord can be captured by a Bhakta."
+        },
+        {
+          "question": "When mother Yashoda was binding Krishna, she saw the binding rope was short by a distance the width of ______ fingers.",
+          "option1": "1",
+          "option2": "2",
+          "option3": "3",
+          "answer": "2",
+          "full_answer": "When mother Yashoda was binding Krishna, she saw the binding rope was short by a distance the width of 2 fingers."
+        },
+        {
+          "question": "The Yamala-arjuna trees in the former millennium had been the demigod sons of ______.",
+          "option1": "Kuvera",
+          "option2": "Varuna",
+          "option3": "Agni",
+          "answer": "Kuvera",
+          "full_answer": "The Yamala-arjuna trees in the former millennium had been the demigod sons of Kuvera."
+        },
+        {
+          "question": "______ cursed Nalakuvera and Manigriva to be trees.",
+          "option1": "Durvasa Muni",
+          "option2": "Narada Muni",
+          "option3": "Parashurama",
+          "answer": "Narada Muni",
+          "full_answer": "Narada Muni cursed Nalakuvera and Manigriva to be trees."
+        },
+        {
+          "question": "Deepavali is also known as ______.",
+          "option1": "Dipa-maalika",
+          "option2": "Diya din",
+          "option3": "Deepa jyoti",
+          "answer": "Dipa-maalika",
+          "full_answer": "Deepavali is also known as Dipa-maalika."
+        }
+      ],
+      "Lord Krishna Quiz 11": [
+        {
+          "question": "The foremost manifestation of Krishna is _______.",
+          "option1": "Vasudeva",
+          "option2": "Sankarsana",
+          "option3": "Pradyumna",
+          "answer": "Sankarsana",
+          "full_answer": "The foremost manifestation of Krishna is Sankarsana."
+        },
+        {
+          "question": "______ is known as Prajapati-pati.",
+          "option1": "Lord Brahma",
+          "option2": "Lord Shiva ",
+          "option3": "Lord Vishnu",
+          "answer": "Lord Brahma",
+          "full_answer": "Lord Brahma is known as Prajapati-pati."
+        },
+        {
+          "question": "_____ is described as maha-bhaga for his sober and upright personality.",
+          "option1": "Kamsa",
+          "option2": "Nanda",
+          "option3": "Vasudeva",
+          "answer": "Vasudeva",
+          "full_answer": "Vasudeva is described as maha-bhaga for his sober and upright personality."
+        },
+        {
+          "question": "The incident of Krishna’s breaking of the pot of yogurt and being bound by mother Yashoda took place on ______.",
+          "option1": "Janmastami",
+          "option2": "Balaram jayanti",
+          "option3": "Deepavali day",
+          "answer": "Deepavali day",
+          "full_answer": "The incident of Krishna’s breaking of the pot of yogurt and being bound by mother Yashoda took place on Deepavali day."
+        },
+        {
+          "question": "When Krishna broke the butter pot and ran, Mother Yashoda was able to trace Krishna by ______.",
+          "option1": "The sound of His ankle bells",
+          "option2": "The hints of Balarama",
+          "option3": "His butter smeared footprints",
+          "answer": "His butter smeared footprints",
+          "full_answer": "When Krishna broke the butter pot and ran, Mother Yashoda was able to trace Krishna by his butter smeared footprints."
+        },
+        {
+          "question": "Lord can be captured by a ______.",
+          "option1": "Bhakta",
+          "option2": "Yogi",
+          "option3": "Tapasvi",
+          "answer": "Bhakta",
+          "full_answer": "Lord can be captured by a Bhakta."
+        },
+        {
+          "question": "When mother Yashoda was binding Krishna, she saw the binding rope was short by a distance the width of ______ fingers.",
+          "option1": "1",
+          "option2": "2",
+          "option3": "3",
+          "answer": "2",
+          "full_answer": "When mother Yashoda was binding Krishna, she saw the binding rope was short by a distance the width of 2 fingers."
+        },
+        {
+          "question": "The Yamala-arjuna trees in the former millennium had been the demigod sons of ______.",
+          "option1": "Kuvera",
+          "option2": "Varuna",
+          "option3": "Agni",
+          "answer": "Kuvera",
+          "full_answer": "The Yamala-arjuna trees in the former millennium had been the demigod sons of Kuvera."
+        },
+        {
+          "question": "______ cursed Nalakuvera and Manigriva to be trees.",
+          "option1": "Durvasa Muni",
+          "option2": "Narada Muni",
+          "option3": "Parashurama",
+          "answer": "Narada Muni",
+          "full_answer": "Narada Muni cursed Nalakuvera and Manigriva to be trees."
+        },
+        {
+          "question": "Deepavali is also known as ______.",
+          "option1": "Dipa-maalika",
+          "option2": "Diya din",
+          "option3": "Deepa jyoti",
+          "answer": "Dipa-maalika",
+          "full_answer": "Deepavali is also known as Dipa-maalika."
+        }
+      ],
+      "Lord Krishna Quiz 11": [
+        {
+          "question": "The foremost manifestation of Krishna is _______.",
+          "option1": "Vasudeva",
+          "option2": "Sankarsana",
+          "option3": "Pradyumna",
+          "answer": "Sankarsana",
+          "full_answer": "The foremost manifestation of Krishna is Sankarsana."
+        },
+        {
+          "question": "______ is known as Prajapati-pati.",
+          "option1": "Lord Brahma",
+          "option2": "Lord Shiva ",
+          "option3": "Lord Vishnu",
+          "answer": "Lord Brahma",
+          "full_answer": "Lord Brahma is known as Prajapati-pati."
+        },
+        {
+          "question": "_____ is described as maha-bhaga for his sober and upright personality.",
+          "option1": "Kamsa",
+          "option2": "Nanda",
+          "option3": "Vasudeva",
+          "answer": "Vasudeva",
+          "full_answer": "Vasudeva is described as maha-bhaga for his sober and upright personality."
+        },
+        {
+          "question": "The incident of Krishna’s breaking of the pot of yogurt and being bound by mother Yashoda took place on ______.",
+          "option1": "Janmastami",
+          "option2": "Balaram jayanti",
+          "option3": "Deepavali day",
+          "answer": "Deepavali day",
+          "full_answer": "The incident of Krishna’s breaking of the pot of yogurt and being bound by mother Yashoda took place on Deepavali day."
+        },
+        {
+          "question": "When Krishna broke the butter pot and ran, Mother Yashoda was able to trace Krishna by ______.",
+          "option1": "The sound of His ankle bells",
+          "option2": "The hints of Balarama",
+          "option3": "His butter smeared footprints",
+          "answer": "His butter smeared footprints",
+          "full_answer": "When Krishna broke the butter pot and ran, Mother Yashoda was able to trace Krishna by his butter smeared footprints."
+        },
+        {
+          "question": "Lord can be captured by a ______.",
+          "option1": "Bhakta",
+          "option2": "Yogi",
+          "option3": "Tapasvi",
+          "answer": "Bhakta",
+          "full_answer": "Lord can be captured by a Bhakta."
+        },
+        {
+          "question": "When mother Yashoda was binding Krishna, she saw the binding rope was short by a distance the width of ______ fingers.",
+          "option1": "1",
+          "option2": "2",
+          "option3": "3",
+          "answer": "2",
+          "full_answer": "When mother Yashoda was binding Krishna, she saw the binding rope was short by a distance the width of 2 fingers."
+        },
+        {
+          "question": "The Yamala-arjuna trees in the former millennium had been the demigod sons of ______.",
+          "option1": "Kuvera",
+          "option2": "Varuna",
+          "option3": "Agni",
+          "answer": "Kuvera",
+          "full_answer": "The Yamala-arjuna trees in the former millennium had been the demigod sons of Kuvera."
+        },
+        {
+          "question": "______ cursed Nalakuvera and Manigriva to be trees.",
+          "option1": "Durvasa Muni",
+          "option2": "Narada Muni",
+          "option3": "Parashurama",
+          "answer": "Narada Muni",
+          "full_answer": "Narada Muni cursed Nalakuvera and Manigriva to be trees."
+        },
+        {
+          "question": "Deepavali is also known as ______.",
+          "option1": "Dipa-maalika",
+          "option2": "Diya din",
+          "option3": "Deepa jyoti",
+          "answer": "Dipa-maalika",
+          "full_answer": "Deepavali is also known as Dipa-maalika."
+        }
+      ],
+      "Lord Krishna Quiz 11": [
+        {
+          "question": "The foremost manifestation of Krishna is _______.",
+          "option1": "Vasudeva",
+          "option2": "Sankarsana",
+          "option3": "Pradyumna",
+          "answer": "Sankarsana",
+          "full_answer": "The foremost manifestation of Krishna is Sankarsana."
+        },
+        {
+          "question": "______ is known as Prajapati-pati.",
+          "option1": "Lord Brahma",
+          "option2": "Lord Shiva ",
+          "option3": "Lord Vishnu",
+          "answer": "Lord Brahma",
+          "full_answer": "Lord Brahma is known as Prajapati-pati."
+        },
+        {
+          "question": "_____ is described as maha-bhaga for his sober and upright personality.",
+          "option1": "Kamsa",
+          "option2": "Nanda",
+          "option3": "Vasudeva",
+          "answer": "Vasudeva",
+          "full_answer": "Vasudeva is described as maha-bhaga for his sober and upright personality."
+        },
+        {
+          "question": "The incident of Krishna’s breaking of the pot of yogurt and being bound by mother Yashoda took place on ______.",
+          "option1": "Janmastami",
+          "option2": "Balaram jayanti",
+          "option3": "Deepavali day",
+          "answer": "Deepavali day",
+          "full_answer": "The incident of Krishna’s breaking of the pot of yogurt and being bound by mother Yashoda took place on Deepavali day."
+        },
+        {
+          "question": "When Krishna broke the butter pot and ran, Mother Yashoda was able to trace Krishna by ______.",
+          "option1": "The sound of His ankle bells",
+          "option2": "The hints of Balarama",
+          "option3": "His butter smeared footprints",
+          "answer": "His butter smeared footprints",
+          "full_answer": "When Krishna broke the butter pot and ran, Mother Yashoda was able to trace Krishna by his butter smeared footprints."
+        },
+        {
+          "question": "Lord can be captured by a ______.",
+          "option1": "Bhakta",
+          "option2": "Yogi",
+          "option3": "Tapasvi",
+          "answer": "Bhakta",
+          "full_answer": "Lord can be captured by a Bhakta."
+        },
+        {
+          "question": "When mother Yashoda was binding Krishna, she saw the binding rope was short by a distance the width of ______ fingers.",
+          "option1": "1",
+          "option2": "2",
+          "option3": "3",
+          "answer": "2",
+          "full_answer": "When mother Yashoda was binding Krishna, she saw the binding rope was short by a distance the width of 2 fingers."
+        },
+        {
+          "question": "The Yamala-arjuna trees in the former millennium had been the demigod sons of ______.",
+          "option1": "Kuvera",
+          "option2": "Varuna",
+          "option3": "Agni",
+          "answer": "Kuvera",
+          "full_answer": "The Yamala-arjuna trees in the former millennium had been the demigod sons of Kuvera."
+        },
+        {
+          "question": "______ cursed Nalakuvera and Manigriva to be trees.",
+          "option1": "Durvasa Muni",
+          "option2": "Narada Muni",
+          "option3": "Parashurama",
+          "answer": "Narada Muni",
+          "full_answer": "Narada Muni cursed Nalakuvera and Manigriva to be trees."
+        },
+        {
+          "question": "Deepavali is also known as ______.",
+          "option1": "Dipa-maalika",
+          "option2": "Diya din",
+          "option3": "Deepa jyoti",
+          "answer": "Dipa-maalika",
+          "full_answer": "Deepavali is also known as Dipa-maalika."
+        }
+      ],
+      "Lord Krishna Quiz 11": [
+        {
+          "question": "The foremost manifestation of Krishna is _______.",
+          "option1": "Vasudeva",
+          "option2": "Sankarsana",
+          "option3": "Pradyumna",
+          "answer": "Sankarsana",
+          "full_answer": "The foremost manifestation of Krishna is Sankarsana."
+        },
+        {
+          "question": "______ is known as Prajapati-pati.",
+          "option1": "Lord Brahma",
+          "option2": "Lord Shiva ",
+          "option3": "Lord Vishnu",
+          "answer": "Lord Brahma",
+          "full_answer": "Lord Brahma is known as Prajapati-pati."
+        },
+        {
+          "question": "_____ is described as maha-bhaga for his sober and upright personality.",
+          "option1": "Kamsa",
+          "option2": "Nanda",
+          "option3": "Vasudeva",
+          "answer": "Vasudeva",
+          "full_answer": "Vasudeva is described as maha-bhaga for his sober and upright personality."
+        },
+        {
+          "question": "The incident of Krishna’s breaking of the pot of yogurt and being bound by mother Yashoda took place on ______.",
+          "option1": "Janmastami",
+          "option2": "Balaram jayanti",
+          "option3": "Deepavali day",
+          "answer": "Deepavali day",
+          "full_answer": "The incident of Krishna’s breaking of the pot of yogurt and being bound by mother Yashoda took place on Deepavali day."
+        },
+        {
+          "question": "When Krishna broke the butter pot and ran, Mother Yashoda was able to trace Krishna by ______.",
+          "option1": "The sound of His ankle bells",
+          "option2": "The hints of Balarama",
+          "option3": "His butter smeared footprints",
+          "answer": "His butter smeared footprints",
+          "full_answer": "When Krishna broke the butter pot and ran, Mother Yashoda was able to trace Krishna by his butter smeared footprints."
+        },
+        {
+          "question": "Lord can be captured by a ______.",
+          "option1": "Bhakta",
+          "option2": "Yogi",
+          "option3": "Tapasvi",
+          "answer": "Bhakta",
+          "full_answer": "Lord can be captured by a Bhakta."
+        },
+        {
+          "question": "When mother Yashoda was binding Krishna, she saw the binding rope was short by a distance the width of ______ fingers.",
+          "option1": "1",
+          "option2": "2",
+          "option3": "3",
+          "answer": "2",
+          "full_answer": "When mother Yashoda was binding Krishna, she saw the binding rope was short by a distance the width of 2 fingers."
+        },
+        {
+          "question": "The Yamala-arjuna trees in the former millennium had been the demigod sons of ______.",
+          "option1": "Kuvera",
+          "option2": "Varuna",
+          "option3": "Agni",
+          "answer": "Kuvera",
+          "full_answer": "The Yamala-arjuna trees in the former millennium had been the demigod sons of Kuvera."
+        },
+        {
+          "question": "______ cursed Nalakuvera and Manigriva to be trees.",
+          "option1": "Durvasa Muni",
+          "option2": "Narada Muni",
+          "option3": "Parashurama",
+          "answer": "Narada Muni",
+          "full_answer": "Narada Muni cursed Nalakuvera and Manigriva to be trees."
+        },
+        {
+          "question": "Deepavali is also known as ______.",
+          "option1": "Dipa-maalika",
+          "option2": "Diya din",
+          "option3": "Deepa jyoti",
+          "answer": "Dipa-maalika",
+          "full_answer": "Deepavali is also known as Dipa-maalika."
+        }
+      ],
+      "Lord Krishna Quiz 11": [
+        {
+          "question": "The foremost manifestation of Krishna is _______.",
+          "option1": "Vasudeva",
+          "option2": "Sankarsana",
+          "option3": "Pradyumna",
+          "answer": "Sankarsana",
+          "full_answer": "The foremost manifestation of Krishna is Sankarsana."
+        },
+        {
+          "question": "______ is known as Prajapati-pati.",
+          "option1": "Lord Brahma",
+          "option2": "Lord Shiva ",
+          "option3": "Lord Vishnu",
+          "answer": "Lord Brahma",
+          "full_answer": "Lord Brahma is known as Prajapati-pati."
+        },
+        {
+          "question": "_____ is described as maha-bhaga for his sober and upright personality.",
+          "option1": "Kamsa",
+          "option2": "Nanda",
+          "option3": "Vasudeva",
+          "answer": "Vasudeva",
+          "full_answer": "Vasudeva is described as maha-bhaga for his sober and upright personality."
+        },
+        {
+          "question": "The incident of Krishna’s breaking of the pot of yogurt and being bound by mother Yashoda took place on ______.",
+          "option1": "Janmastami",
+          "option2": "Balaram jayanti",
+          "option3": "Deepavali day",
+          "answer": "Deepavali day",
+          "full_answer": "The incident of Krishna’s breaking of the pot of yogurt and being bound by mother Yashoda took place on Deepavali day."
+        },
+        {
+          "question": "When Krishna broke the butter pot and ran, Mother Yashoda was able to trace Krishna by ______.",
+          "option1": "The sound of His ankle bells",
+          "option2": "The hints of Balarama",
+          "option3": "His butter smeared footprints",
+          "answer": "His butter smeared footprints",
+          "full_answer": "When Krishna broke the butter pot and ran, Mother Yashoda was able to trace Krishna by his butter smeared footprints."
+        },
+        {
+          "question": "Lord can be captured by a ______.",
+          "option1": "Bhakta",
+          "option2": "Yogi",
+          "option3": "Tapasvi",
+          "answer": "Bhakta",
+          "full_answer": "Lord can be captured by a Bhakta."
+        },
+        {
+          "question": "When mother Yashoda was binding Krishna, she saw the binding rope was short by a distance the width of ______ fingers.",
+          "option1": "1",
+          "option2": "2",
+          "option3": "3",
+          "answer": "2",
+          "full_answer": "When mother Yashoda was binding Krishna, she saw the binding rope was short by a distance the width of 2 fingers."
+        },
+        {
+          "question": "The Yamala-arjuna trees in the former millennium had been the demigod sons of ______.",
+          "option1": "Kuvera",
+          "option2": "Varuna",
+          "option3": "Agni",
+          "answer": "Kuvera",
+          "full_answer": "The Yamala-arjuna trees in the former millennium had been the demigod sons of Kuvera."
+        },
+        {
+          "question": "______ cursed Nalakuvera and Manigriva to be trees.",
+          "option1": "Durvasa Muni",
+          "option2": "Narada Muni",
+          "option3": "Parashurama",
+          "answer": "Narada Muni",
+          "full_answer": "Narada Muni cursed Nalakuvera and Manigriva to be trees."
+        },
+        {
+          "question": "Deepavali is also known as ______.",
+          "option1": "Dipa-maalika",
+          "option2": "Diya din",
+          "option3": "Deepa jyoti",
+          "answer": "Dipa-maalika",
+          "full_answer": "Deepavali is also known as Dipa-maalika."
+        }
+      ],
+      "Lord Krishna Quiz 11": [
+        {
+          "question": "The foremost manifestation of Krishna is _______.",
+          "option1": "Vasudeva",
+          "option2": "Sankarsana",
+          "option3": "Pradyumna",
+          "answer": "Sankarsana",
+          "full_answer": "The foremost manifestation of Krishna is Sankarsana."
+        },
+        {
+          "question": "______ is known as Prajapati-pati.",
+          "option1": "Lord Brahma",
+          "option2": "Lord Shiva ",
+          "option3": "Lord Vishnu",
+          "answer": "Lord Brahma",
+          "full_answer": "Lord Brahma is known as Prajapati-pati."
+        },
+        {
+          "question": "_____ is described as maha-bhaga for his sober and upright personality.",
+          "option1": "Kamsa",
+          "option2": "Nanda",
+          "option3": "Vasudeva",
+          "answer": "Vasudeva",
+          "full_answer": "Vasudeva is described as maha-bhaga for his sober and upright personality."
+        },
+        {
+          "question": "The incident of Krishna’s breaking of the pot of yogurt and being bound by mother Yashoda took place on ______.",
+          "option1": "Janmastami",
+          "option2": "Balaram jayanti",
+          "option3": "Deepavali day",
+          "answer": "Deepavali day",
+          "full_answer": "The incident of Krishna’s breaking of the pot of yogurt and being bound by mother Yashoda took place on Deepavali day."
+        },
+        {
+          "question": "When Krishna broke the butter pot and ran, Mother Yashoda was able to trace Krishna by ______.",
+          "option1": "The sound of His ankle bells",
+          "option2": "The hints of Balarama",
+          "option3": "His butter smeared footprints",
+          "answer": "His butter smeared footprints",
+          "full_answer": "When Krishna broke the butter pot and ran, Mother Yashoda was able to trace Krishna by his butter smeared footprints."
+        },
+        {
+          "question": "Lord can be captured by a ______.",
+          "option1": "Bhakta",
+          "option2": "Yogi",
+          "option3": "Tapasvi",
+          "answer": "Bhakta",
+          "full_answer": "Lord can be captured by a Bhakta."
+        },
+        {
+          "question": "When mother Yashoda was binding Krishna, she saw the binding rope was short by a distance the width of ______ fingers.",
+          "option1": "1",
+          "option2": "2",
+          "option3": "3",
+          "answer": "2",
+          "full_answer": "When mother Yashoda was binding Krishna, she saw the binding rope was short by a distance the width of 2 fingers."
+        },
+        {
+          "question": "The Yamala-arjuna trees in the former millennium had been the demigod sons of ______.",
+          "option1": "Kuvera",
+          "option2": "Varuna",
+          "option3": "Agni",
+          "answer": "Kuvera",
+          "full_answer": "The Yamala-arjuna trees in the former millennium had been the demigod sons of Kuvera."
+        },
+        {
+          "question": "______ cursed Nalakuvera and Manigriva to be trees.",
+          "option1": "Durvasa Muni",
+          "option2": "Narada Muni",
+          "option3": "Parashurama",
+          "answer": "Narada Muni",
+          "full_answer": "Narada Muni cursed Nalakuvera and Manigriva to be trees."
+        },
+        {
+          "question": "Deepavali is also known as ______.",
+          "option1": "Dipa-maalika",
+          "option2": "Diya din",
+          "option3": "Deepa jyoti",
+          "answer": "Dipa-maalika",
+          "full_answer": "Deepavali is also known as Dipa-maalika."
+        }
+      ],
+      "Lord Krishna Quiz 11": [
+        {
+          "question": "The foremost manifestation of Krishna is _______.",
+          "option1": "Vasudeva",
+          "option2": "Sankarsana",
+          "option3": "Pradyumna",
+          "answer": "Sankarsana",
+          "full_answer": "The foremost manifestation of Krishna is Sankarsana."
+        },
+        {
+          "question": "______ is known as Prajapati-pati.",
+          "option1": "Lord Brahma",
+          "option2": "Lord Shiva ",
+          "option3": "Lord Vishnu",
+          "answer": "Lord Brahma",
+          "full_answer": "Lord Brahma is known as Prajapati-pati."
+        },
+        {
+          "question": "_____ is described as maha-bhaga for his sober and upright personality.",
+          "option1": "Kamsa",
+          "option2": "Nanda",
+          "option3": "Vasudeva",
+          "answer": "Vasudeva",
+          "full_answer": "Vasudeva is described as maha-bhaga for his sober and upright personality."
+        },
+        {
+          "question": "The incident of Krishna’s breaking of the pot of yogurt and being bound by mother Yashoda took place on ______.",
+          "option1": "Janmastami",
+          "option2": "Balaram jayanti",
+          "option3": "Deepavali day",
+          "answer": "Deepavali day",
+          "full_answer": "The incident of Krishna’s breaking of the pot of yogurt and being bound by mother Yashoda took place on Deepavali day."
+        },
+        {
+          "question": "When Krishna broke the butter pot and ran, Mother Yashoda was able to trace Krishna by ______.",
+          "option1": "The sound of His ankle bells",
+          "option2": "The hints of Balarama",
+          "option3": "His butter smeared footprints",
+          "answer": "His butter smeared footprints",
+          "full_answer": "When Krishna broke the butter pot and ran, Mother Yashoda was able to trace Krishna by his butter smeared footprints."
+        },
+        {
+          "question": "Lord can be captured by a ______.",
+          "option1": "Bhakta",
+          "option2": "Yogi",
+          "option3": "Tapasvi",
+          "answer": "Bhakta",
+          "full_answer": "Lord can be captured by a Bhakta."
+        },
+        {
+          "question": "When mother Yashoda was binding Krishna, she saw the binding rope was short by a distance the width of ______ fingers.",
+          "option1": "1",
+          "option2": "2",
+          "option3": "3",
+          "answer": "2",
+          "full_answer": "When mother Yashoda was binding Krishna, she saw the binding rope was short by a distance the width of 2 fingers."
+        },
+        {
+          "question": "The Yamala-arjuna trees in the former millennium had been the demigod sons of ______.",
+          "option1": "Kuvera",
+          "option2": "Varuna",
+          "option3": "Agni",
+          "answer": "Kuvera",
+          "full_answer": "The Yamala-arjuna trees in the former millennium had been the demigod sons of Kuvera."
+        },
+        {
+          "question": "______ cursed Nalakuvera and Manigriva to be trees.",
+          "option1": "Durvasa Muni",
+          "option2": "Narada Muni",
+          "option3": "Parashurama",
+          "answer": "Narada Muni",
+          "full_answer": "Narada Muni cursed Nalakuvera and Manigriva to be trees."
+        },
+        {
+          "question": "Deepavali is also known as ______.",
+          "option1": "Dipa-maalika",
+          "option2": "Diya din",
+          "option3": "Deepa jyoti",
+          "answer": "Dipa-maalika",
+          "full_answer": "Deepavali is also known as Dipa-maalika."
+        }
+      ],
+      "Lord Krishna Quiz 11": [
+        {
+          "question": "The foremost manifestation of Krishna is _______.",
+          "option1": "Vasudeva",
+          "option2": "Sankarsana",
+          "option3": "Pradyumna",
+          "answer": "Sankarsana",
+          "full_answer": "The foremost manifestation of Krishna is Sankarsana."
+        },
+        {
+          "question": "______ is known as Prajapati-pati.",
+          "option1": "Lord Brahma",
+          "option2": "Lord Shiva ",
+          "option3": "Lord Vishnu",
+          "answer": "Lord Brahma",
+          "full_answer": "Lord Brahma is known as Prajapati-pati."
+        },
+        {
+          "question": "_____ is described as maha-bhaga for his sober and upright personality.",
+          "option1": "Kamsa",
+          "option2": "Nanda",
+          "option3": "Vasudeva",
+          "answer": "Vasudeva",
+          "full_answer": "Vasudeva is described as maha-bhaga for his sober and upright personality."
+        },
+        {
+          "question": "The incident of Krishna’s breaking of the pot of yogurt and being bound by mother Yashoda took place on ______.",
+          "option1": "Janmastami",
+          "option2": "Balaram jayanti",
+          "option3": "Deepavali day",
+          "answer": "Deepavali day",
+          "full_answer": "The incident of Krishna’s breaking of the pot of yogurt and being bound by mother Yashoda took place on Deepavali day."
+        },
+        {
+          "question": "When Krishna broke the butter pot and ran, Mother Yashoda was able to trace Krishna by ______.",
+          "option1": "The sound of His ankle bells",
+          "option2": "The hints of Balarama",
+          "option3": "His butter smeared footprints",
+          "answer": "His butter smeared footprints",
+          "full_answer": "When Krishna broke the butter pot and ran, Mother Yashoda was able to trace Krishna by his butter smeared footprints."
+        },
+        {
+          "question": "Lord can be captured by a ______.",
+          "option1": "Bhakta",
+          "option2": "Yogi",
+          "option3": "Tapasvi",
+          "answer": "Bhakta",
+          "full_answer": "Lord can be captured by a Bhakta."
+        },
+        {
+          "question": "When mother Yashoda was binding Krishna, she saw the binding rope was short by a distance the width of ______ fingers.",
+          "option1": "1",
+          "option2": "2",
+          "option3": "3",
+          "answer": "2",
+          "full_answer": "When mother Yashoda was binding Krishna, she saw the binding rope was short by a distance the width of 2 fingers."
+        },
+        {
+          "question": "The Yamala-arjuna trees in the former millennium had been the demigod sons of ______.",
+          "option1": "Kuvera",
+          "option2": "Varuna",
+          "option3": "Agni",
+          "answer": "Kuvera",
+          "full_answer": "The Yamala-arjuna trees in the former millennium had been the demigod sons of Kuvera."
+        },
+        {
+          "question": "______ cursed Nalakuvera and Manigriva to be trees.",
+          "option1": "Durvasa Muni",
+          "option2": "Narada Muni",
+          "option3": "Parashurama",
+          "answer": "Narada Muni",
+          "full_answer": "Narada Muni cursed Nalakuvera and Manigriva to be trees."
+        },
+        {
+          "question": "Deepavali is also known as ______.",
+          "option1": "Dipa-maalika",
+          "option2": "Diya din",
+          "option3": "Deepa jyoti",
+          "answer": "Dipa-maalika",
+          "full_answer": "Deepavali is also known as Dipa-maalika."
+        }
+      ],
+      "Lord Krishna Quiz 11": [
+        {
+          "question": "The foremost manifestation of Krishna is _______.",
+          "option1": "Vasudeva",
+          "option2": "Sankarsana",
+          "option3": "Pradyumna",
+          "answer": "Sankarsana",
+          "full_answer": "The foremost manifestation of Krishna is Sankarsana."
+        },
+        {
+          "question": "______ is known as Prajapati-pati.",
+          "option1": "Lord Brahma",
+          "option2": "Lord Shiva ",
+          "option3": "Lord Vishnu",
+          "answer": "Lord Brahma",
+          "full_answer": "Lord Brahma is known as Prajapati-pati."
+        },
+        {
+          "question": "_____ is described as maha-bhaga for his sober and upright personality.",
+          "option1": "Kamsa",
+          "option2": "Nanda",
+          "option3": "Vasudeva",
+          "answer": "Vasudeva",
+          "full_answer": "Vasudeva is described as maha-bhaga for his sober and upright personality."
+        },
+        {
+          "question": "The incident of Krishna’s breaking of the pot of yogurt and being bound by mother Yashoda took place on ______.",
+          "option1": "Janmastami",
+          "option2": "Balaram jayanti",
+          "option3": "Deepavali day",
+          "answer": "Deepavali day",
+          "full_answer": "The incident of Krishna’s breaking of the pot of yogurt and being bound by mother Yashoda took place on Deepavali day."
+        },
+        {
+          "question": "When Krishna broke the butter pot and ran, Mother Yashoda was able to trace Krishna by ______.",
+          "option1": "The sound of His ankle bells",
+          "option2": "The hints of Balarama",
+          "option3": "His butter smeared footprints",
+          "answer": "His butter smeared footprints",
+          "full_answer": "When Krishna broke the butter pot and ran, Mother Yashoda was able to trace Krishna by his butter smeared footprints."
+        },
+        {
+          "question": "Lord can be captured by a ______.",
+          "option1": "Bhakta",
+          "option2": "Yogi",
+          "option3": "Tapasvi",
+          "answer": "Bhakta",
+          "full_answer": "Lord can be captured by a Bhakta."
+        },
+        {
+          "question": "When mother Yashoda was binding Krishna, she saw the binding rope was short by a distance the width of ______ fingers.",
+          "option1": "1",
+          "option2": "2",
+          "option3": "3",
+          "answer": "2",
+          "full_answer": "When mother Yashoda was binding Krishna, she saw the binding rope was short by a distance the width of 2 fingers."
+        },
+        {
+          "question": "The Yamala-arjuna trees in the former millennium had been the demigod sons of ______.",
+          "option1": "Kuvera",
+          "option2": "Varuna",
+          "option3": "Agni",
+          "answer": "Kuvera",
+          "full_answer": "The Yamala-arjuna trees in the former millennium had been the demigod sons of Kuvera."
+        },
+        {
+          "question": "______ cursed Nalakuvera and Manigriva to be trees.",
+          "option1": "Durvasa Muni",
+          "option2": "Narada Muni",
+          "option3": "Parashurama",
+          "answer": "Narada Muni",
+          "full_answer": "Narada Muni cursed Nalakuvera and Manigriva to be trees."
+        },
+        {
+          "question": "Deepavali is also known as ______.",
+          "option1": "Dipa-maalika",
+          "option2": "Diya din",
+          "option3": "Deepa jyoti",
+          "answer": "Dipa-maalika",
+          "full_answer": "Deepavali is also known as Dipa-maalika."
+        }
+      ]
+    }
+  ]
+}

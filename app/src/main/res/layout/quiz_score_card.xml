@@ -4,71 +4,89 @@
     android:layout_height="match_parent"
     android:padding="10dp">
 
+    <com.makemobiapps.jesusthelord.util.TextViewCustom
+        android:id="@+id/title_score"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Your Score"
+        android:textStyle="bold"
+        android:textAppearance="?android:textAppearanceMedium"
+        android:textColor="#fff"
+        android:background="@color/app_theme_color"
+        android:padding="10dp"
+        />
+
     <TableLayout
         android:id="@+id/score_table"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:orientation="vertical">
+        android:orientation="vertical"
+        android:layout_below="@+id/title_score"
+        android:layout_margin="10dp">
+
         <TableRow>
-            <TextView
+            <com.makemobiapps.jesusthelord.util.TextViewCustom
                 android:layout_width="0dp"
                 android:layout_weight="5"
                 android:layout_height="wrap_content"
-                android:text="Total Questions"/>
-            <TextView
+                android:text="Total Questions"
+                android:textColor="@color/black"/>
+            <com.makemobiapps.jesusthelord.util.TextViewCustom
                 android:layout_width="0dp"
                 android:layout_weight="1"
                 android:layout_height="wrap_content"
                 android:text=":"/>
-            <TextView
+            <com.makemobiapps.jesusthelord.util.TextViewCustom
                 android:id="@+id/total_questions"
                 android:layout_width="0dp"
                 android:layout_weight="2"
                 android:layout_height="wrap_content"
                 android:text="16"
-                android:textColor="#1e90ff"/>
+                android:textColor="@color/black"/>
         </TableRow>
 
         <TableRow
             android:layout_marginTop="10dp">
-            <TextView
+            <com.makemobiapps.jesusthelord.util.TextViewCustom
                 android:layout_width="0dp"
                 android:layout_weight="5"
                 android:layout_height="wrap_content"
-                android:text="Correct Answers"/>
-            <TextView
+                android:text="Correct Answers"
+                android:textColor="@color/black"/>
+            <com.makemobiapps.jesusthelord.util.TextViewCustom
                 android:layout_width="0dp"
                 android:layout_weight="1"
                 android:layout_height="wrap_content"
                 android:text=":"/>
-            <TextView
+            <com.makemobiapps.jesusthelord.util.TextViewCustom
                 android:id="@+id/correct_answers"
                 android:layout_width="0dp"
                 android:layout_weight="2"
                 android:layout_height="wrap_content"
                 android:text="16"
-                android:textColor="#B2FFB2"/>
+                android:textColor="@color/app_theme_color"/>
         </TableRow>
 
         <TableRow
             android:layout_marginTop="10dp">
-            <TextView
+            <com.makemobiapps.jesusthelord.util.TextViewCustom
                 android:layout_width="0dp"
                 android:layout_weight="5"
                 android:layout_height="wrap_content"
-                android:text="Wrong Answers"/>
-            <TextView
+                android:text="Wrong Answers"
+                android:textColor="@color/black"/>
+            <com.makemobiapps.jesusthelord.util.TextViewCustom
                 android:layout_width="0dp"
                 android:layout_weight="1"
                 android:layout_height="wrap_content"
                 android:text=":"/>
-            <TextView
+            <com.makemobiapps.jesusthelord.util.TextViewCustom
                 android:id="@+id/wrong_answers"
                 android:layout_width="0dp"
                 android:layout_weight="2"
                 android:layout_height="wrap_content"
                 android:text="16"
-                android:textColor="#1e90ff"/>
+                android:textColor="#f00"/>
         </TableRow>
 
     </TableLayout>
@@ -77,9 +95,11 @@
         android:id="@+id/btn_show_answers"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:padding="10dp"
+        android:padding="7dp"
         android:layout_below="@+id/score_table"
         android:layout_marginTop="10dp"
-        android:text="Show Answers"/>
+        android:text="Show Answers"
+        android:background="@color/white"
+        android:textColor="@color/app_theme_color"/>
 
 </RelativeLayout>

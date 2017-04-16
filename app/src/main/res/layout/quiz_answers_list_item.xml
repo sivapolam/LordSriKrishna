@@ -4,13 +4,13 @@
     android:layout_height="match_parent"
     android:padding="10dp">
 
-    <TextView
+    <com.makemobiapps.jesusthelord.util.TextViewCustom
         android:id="@+id/question_name"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:textColor="#1e90ff"
         android:text="1. Question"/>
-    <TextView
+    <com.makemobiapps.jesusthelord.util.TextViewCustom
         android:id="@+id/selected_answer"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -19,7 +19,7 @@
         android:background="#FFB2B2"
         android:padding="3dp"
         android:layout_marginTop="5dp"/>
-    <TextView
+    <com.makemobiapps.jesusthelord.util.TextViewCustom
         android:id="@+id/correct_answer"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -28,14 +28,14 @@
         android:padding="3dp"
         android:layout_marginTop="5dp"
         android:background="#B2FFB2"/>
-    <TextView
+    <com.makemobiapps.jesusthelord.util.TextViewCustom
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:textColor="#000"
         android:text="Explanation:"
         android:padding="3dp"
         android:layout_marginTop="5dp"/>
-    <TextView
+    <com.makemobiapps.jesusthelord.util.TextViewCustom
         android:id="@+id/answer_full"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"

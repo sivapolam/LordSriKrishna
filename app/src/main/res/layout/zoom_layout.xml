@@ -3,13 +3,112 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent">
 
-    <ImageView
-        android:id="@+id/zoom_image"
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ImageView
+            android:id="@+id/zoom_image"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_centerInParent="true"
+            android:maxHeight="100dp"
+            android:maxWidth="50dp"
+            android:scaleType="fitXY"
+            android:layout_below="@+id/app_bar"/>
+
+        <RelativeLayout
+            android:id="@+id/app_bar"
+            android:layout_width="match_parent"
+            android:layout_height="56dp">
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+
+                android:background="@color/app_theme_color" />
+
+            <ImageView
+                android:id="@+id/back"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="6dp"
+                android:src="@drawable/back_arrow" />
+
+            <ImageView
+                android:id="@+id/download_image"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+
+                android:padding="10dp"
+                android:src="@drawable/download_red1" />
+
+            <ImageView
+                android:id="@+id/wallpaper"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:padding="10dp"
+                android:layout_toLeftOf="@id/download_image"
+                android:src="@drawable/wallpaper_red" />
+        </RelativeLayout>
+
+    </RelativeLayout>
+
+
+    <RelativeLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:scaleType="fitXY"
-        android:maxHeight="100dp"
-        android:maxWidth="50dp"
-        android:layout_centerInParent="true"/>
+        android:orientation="vertical"
+        android:background="#96000000"
+        android:id="@+id/layout_no_internet"
+        >
+
+        <TextView
+            android:id="@+id/text_no_internet"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="No Internet!!"
+            android:textStyle="bold"
+            android:typeface="serif"
+            android:layout_centerInParent="true"
+            android:paddingTop="10dp"
+            android:textSize="30sp"
+            android:textColor="#f00"/>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/wifi"
+            android:layout_above="@+id/text_no_internet"
+            android:layout_centerHorizontal="true"/>
+
+        <TextView
+            android:id="@+id/text_refresh"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Connect to internet and Click below to Try Again!"
+            android:textColor="#fff"
+            android:textStyle="bold"
+            android:typeface="serif"
+            android:layout_below="@+id/text_no_internet"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:gravity="center"/>
+
+        <ImageView
+            android:id="@+id/iv_refresh"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/refresh"
+            android:layout_below="@+id/text_refresh"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="10dp"/>
+    </RelativeLayout>
 
 </RelativeLayout>

@@ -7,7 +7,9 @@
         android:id="@+id/statue_image"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:scaleType="fitXY"/>
+        android:scaleType="fitXY"
+        android:background="@drawable/statue1"
+        android:layout_below="@+id/app_bar"/>
     <View
         android:layout_width="1dp"
         android:layout_height="1dp"
@@ -26,7 +28,7 @@
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:orientation="vertical">
-            <TextView
+            <com.makemobiapps.jesusthelord.util.TextViewCustom
                 android:id="@+id/statue_title"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
@@ -39,7 +41,7 @@
                 android:layout_height="1dp"
                 android:background="@color/white"
                 android:layout_marginTop="5dp"/>
-            <TextView
+            <com.makemobiapps.jesusthelord.util.TextViewCustom
                 android:id="@+id/statue_description"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
@@ -54,8 +56,48 @@
         android:id="@+id/details_image"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:src="@drawable/ic_drawer"
+        android:src="@drawable/notes"
         android:layout_alignParentRight="true"
-        android:layout_margin="30dp"/>
+        android:layout_margin="30dp"
+        android:elevation="12dp"
+        android:layout_below="@+id/app_bar"/>
+
+    <RelativeLayout
+        android:id="@+id/app_bar"
+        android:layout_width="match_parent"
+        android:layout_height="56dp">
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+
+            android:background="@color/app_theme_color" />
+
+        <ImageView
+            android:id="@+id/back"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="6dp"
+            android:src="@drawable/back_arrow" />
+
+        <ImageView
+            android:id="@+id/download_image"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:padding="10dp"
+            android:src="@drawable/download_red1" />
+
+        <ImageView
+            android:id="@+id/wallpaper"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:padding="10dp"
+            android:layout_toLeftOf="@id/download_image"
+            android:src="@drawable/wallpaper_red" />
+    </RelativeLayout>
 
 </RelativeLayout>

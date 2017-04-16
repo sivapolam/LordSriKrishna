@@ -1,67 +1,64 @@
 <resources>
-    <string name="app_name">Jesus | The Lord</string>
+    <string name="app_name">The Lord Sri Krishna</string>
 
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
 
     <string name="action_example">Example action</string>
 
-    <string name="action_settings">Settings</string>
+    <string name="menu_listen_text">Listen</string>
 
     <string name="message_exit">Are you sure you want to exit the App?</string>
+    <string name="message_exit_quiz">Are you sure you want to exit from Quiz?</string>
+    <string name="message_set_wallpaper">Are you sure you want to set this as Wallpaper?</string>
+    <string name="message_download_wallpaper">Are you sure you want to download this Wallpaper?</string>
+
+    <string name="no_data_found">No Data Found</string>
 
     <string name="yes">Yes</string>
     <string name="no">No</string>
+    <string name="menu_set_wallpaper_text">Set as Wallpaper</string>
+    <string name="menu_download_wallpaper_text">Download Image</string>
+    <string name="exit_app">Exit App</string>
+    <string name="exit_quiz">Exit Quiz</string>
+    <string name="happy_christmas">We Wish You \na \nMerry Christmas</string>
+    <string name="share_festival">Share your Joy with Friends and Family :-)</string>
+    <string name="share_app">Share</string>
 
     <string-array name="navigation_items_array">
         <item>Home</item>
-        <item>History</item>
         <item>Gallery</item>
-        <item>Famous Statues</item>
-        <item>Visiting Places</item>
-        <item>Quotes</item>
+        <item>History</item>
         <item>Quiz</item>
+        <item>Visiting Places</item>
+        <item>Names and Meanings</item>
+        <item>Ashtottaram</item>
+        <item>Quotes By Lord Krishna</item>
         <!--<item>Languages</item>-->
+        <item>Videos</item>
         <item>Share</item>
         <item>Feedback</item>
         <item>Exit</item>
     </string-array>
 
     <string-array name="history_items_array">
-        <item>About Jesus</item>
-        <item>Etymology</item>
-        <item>Gospel Accounts</item>
-        <item>Canonical gospel accounts</item>
-        <item>Genealogy and nativity</item>
-        <item>Early life, family, and profession</item>
-        <item>Baptism and temptation</item>
-        <item>Public ministry</item>
-        <item>Disciples and followers</item>
-        <item>Teachings, preachings, and miracles</item>
-        <item>Proclamation as Christ and Transfiguration</item>
-        <item>Final week: betrayal, arrest, trial, and death</item>
-        <item>Activities in Jerusalem</item>
-        <item>Last Supper</item>
-        <item>Agony in the Garden, betrayal and arrest</item>
-        <item>Trials by the Sanhedrin, Herod and Pilate</item>
-        <item>Crucifixion and entombment</item>
-        <item>Resurrection and ascension</item>
-        <item>Historical views</item>
-        <item>Judea and Galilee in the 1st century</item>
-        <item>Sources</item>
-        <item>Chronology</item>
-        <item>Historicity of events</item>
-        <item>Portraits of Jesus</item>
-        <item>Language, ethnicity, and appearance</item>
-        <item>Christ myth theory</item>
-        <item>Perspectives</item>
-        <item>Christian views</item>
-        <item>Jewish views</item>
-        <item>Islamic views</item>
-        <item>Bahá\'í views</item>
-        <item>Other views</item>
-        <item>Depictions</item>
-        <item>Associated relics</item>
+        <item>About Sri Krishna</item>
+        <item>Names and epithets</item>
+        <item>Iconography</item>
+        <item>Literary sources</item>
+        <item>Birth</item>
+        <item>Childhood and youth</item>
+        <item>The prince</item>
+        <item>Kurukshetra War and Bhagavad Gita</item>
+        <item>Family</item>
+        <item>Later life</item>
+        <item>Vaishnavism</item>
+        <item>Early traditions</item>
+        <item>Bhakti tradition</item>
+        <item>Spread of the Krishna-bhakti movement</item>
+        <item>In the West</item>
+        <item>In South India</item>
+        <item>In the performing arts</item>
     </string-array>
 
     <string-array name="famous_statues_places_array">
@@ -79,333 +76,186 @@
 
 
     <string-array name="famous_statues_descriptions_array">
-        <item>"The most famous statue of Jesus is also considered the largest Art Deco statue in the world. It is the 5th largest statue of Jesus in the world with a height of 30 metres (98 ft) – not including its 8 metres (26 ft) pedestal. The statue’s arms stretch 28 metres (92 ft) wide. It is located at the peak of the 700-metre (2,300 ft) Corcovado mountain. The statue has become an icon for Rio de Janeiro and Brazil’s most famous monument. It was constructed between 1926 and 1931"</item>
-        <item>"This famous statue of Jesus is located in the small city of Świebodzin in western Poland. It was completed in 2010. The statue along with its mound is 52.5 metres (172 ft) tall, making it the tallest statue of Jesus in the world (when the mound is counted)"</item>
-        <item>"Also known as Christ the Redeemer, this marble sculpture by Michelangelo was finished in 1521. Located in the church of Santa Maria sopra Minerva in Rome, it is one of the most famous sculptures of Jesus ever to be created, despite its relatively small "</item>
-        <item>"Located in San Salvador City in El Salvador, this statue of Jesus Christ shows Jesus standing on Earth, placed on top of a tall concrete base. The statue was built in 1942 and was damaged to some extent in an earthquake in 1986. Repainting and restoration took place in 2010."</item>
-        <item>"A statue of Jesus Christ located atop San Pedro Hill, in the city of Cochabamba. One can reach the statue by either climbing some 2,000 steps, or simply by a cable car. The total height of the statue is 40.44 metres (132.7 ft). The left hand of the statue points to the South, and the right hand points North"</item>
-        <item>"A monumental sculpture of Jesus located near Eureka Springs, Arkansas. Built in 1966, the statue is more than 20 meters (67 feet) tall"</item>
-        <item>"King of Kings was a 19 meters (62 f) tall statue of Jesus near Monroe, Ohio. Built only in 2004, it was destroyed by a lightning strike and subsequent fire in 2010. Lux Mundi (Latin for “Light of the World”) is a 15.8 meters (52 ft) tall statue of Jesus replacing the destroyed statue at the same location. The new statue construction was completed in 2012"</item>
-        <item>"This huge statue of Jesus is located on Mount Nho in Vung Tau, Vietnam. The statue was built by the Vietnam Catholic Association. Its Construction started in 1974 and completed only in 1993. The statue is 32 metres (105 ft) high and standing on a 4 metres (13 ft) high platform, making it a total of 36 metres (118 ft). The arms outstretched to a total of 18.3 metres (60 ft). The statue contains an internal 133-step staircase allowing visitors to climb inside the impressive monument"</item>
-        <item>"Located at 3,832 metres (12,572 ft) above sea level in the Andes, on the highest point of the old road between the Argentinian city of Mendoza and the Chilean city of Santiago, right on the border between the two countries. This beautiful statue was unveiled in 1904 to mark the peaceful resolution of a border dispute between Argentina and Chile"</item>
-        <item>"Overlooking the city of Lisbon, this statue was inspired by the Christ the Redeemer statue in Rio de Janeiro, Brazil after the Cardinal Patriarch of Lisbon visited that monument. Built during the years 1959-1969"</item>
+        <item>The most famous statue of Jesus is also considered the largest Art Deco statue in the world. It is the 5th largest statue of Jesus in the world with a height of 30 metres (98 ft) – not including its 8 metres (26 ft) pedestal. The statue’s arms stretch 28 metres (92 ft) wide. It is located at the peak of the 700-metre (2,300 ft) Corcovado mountain. The statue has become an icon for Rio de Janeiro and Brazil’s most famous monument. It was constructed between 1926 and 1931</item>
+        <item>This famous statue of Jesus is located in the small city of Świebodzin in western Poland. It was completed in 2010. The statue along with its mound is 52.5 metres (172 ft) tall, making it the tallest statue of Jesus in the world (when the mound is counted)</item>
+        <item>Also known as Christ the Redeemer, this marble sculpture by Michelangelo was finished in 1521. Located in the church of Santa Maria sopra Minerva in Rome, it is one of the most famous sculptures of Jesus ever to be created, despite its relatively small </item>
+        <item>Located in San Salvador City in El Salvador, this statue of Jesus Christ shows Jesus standing on Earth, placed on top of a tall concrete base. The statue was built in 1942 and was damaged to some extent in an earthquake in 1986. Repainting and restoration took place in 2010.</item>
+        <item>A statue of Jesus Christ located atop San Pedro Hill, in the city of Cochabamba. One can reach the statue by either climbing some 2,000 steps, or simply by a cable car. The total height of the statue is 40.44 metres (132.7 ft). The left hand of the statue points to the South, and the right hand points North</item>
+        <item>A monumental sculpture of Jesus located near Eureka Springs, Arkansas. Built in 1966, the statue is more than 20 meters (67 feet) tall</item>
+        <item>King of Kings was a 19 meters (62 f) tall statue of Jesus near Monroe, Ohio. Built only in 2004, it was destroyed by a lightning strike and subsequent fire in 2010. Lux Mundi (Latin for “Light of the World”) is a 15.8 meters (52 ft) tall statue of Jesus replacing the destroyed statue at the same location. The new statue construction was completed in 2012</item>
+        <item>This huge statue of Jesus is located on Mount Nho in Vung Tau, Vietnam. The statue was built by the Vietnam Catholic Association. Its Construction started in 1974 and completed only in 1993. The statue is 32 metres (105 ft) high and standing on a 4 metres (13 ft) high platform, making it a total of 36 metres (118 ft). The arms outstretched to a total of 18.3 metres (60 ft). The statue contains an internal 133-step staircase allowing visitors to climb inside the impressive monument</item>
+        <item>Located at 3,832 metres (12,572 ft) above sea level in the Andes, on the highest point of the old road between the Argentinian city of Mendoza and the Chilean city of Santiago, right on the border between the two countries. This beautiful statue was unveiled in 1904 to mark the peaceful resolution of a border dispute between Argentina and Chile</item>
+        <item>Overlooking the city of Lisbon, this statue was inspired by the Christ the Redeemer statue in Rio de Janeiro, Brazil after the Cardinal Patriarch of Lisbon visited that monument. Built during the years 1959-1969</item>
     </string-array>
 
 
     <string-array name="history_descriptions_array">
         <item>
-            "Jesus, also referred to as Jesus of Nazareth or Jesus Christ, is the central figure of Christianity, whom the teachings of most Christian denominations hold to be the Son of God. Christianity regards Jesus as the awaited Messiah of the Old Testament, while Islam regards Jesus as a major prophet, second in importance only to Muhammad.
+            "Krishna is a Hindu deity, worshipped across many traditions of Hinduism in a variety of different perspectives. Krishna is recognized as the complete and eighth avatar of the God Vishnu or as the Supreme God in his own right. Krishna is one of the most widely revered and popular of all Hindu deities.
 
-        Virtually all modern scholars of antiquity agree that Jesus existed historically, and historians consider the Synoptic Gospels (Matthew, Mark andLuke) to be the best sources for investigating the historical Jesus. Most scholars agree that Jesus was a Galilean, Jewish rabbi who preached his message orally, was baptized by John the Baptist, and was crucified by the order of the Roman Prefect Pontius Pilate. In the current mainstream view, Jesus was an apocalyptic preacher and the founder of a restoration movement within Judaism, although some prominent scholars argue that he was not apocalyptic. After Jesus\' death, his followers believed he was resurrected, and the community they formed eventually became the Christian church. The widely accepted calendar era, abbreviated as "AD" or sometimes as "CE", is based on the birth of Jesus.
+Krishna is known by many names such as Kishan, Makhanchor, and Kanha. Krishna is often described and portrayed as an infant eating butter, a young boy playing a flute as in the Bhagavata Purana,[2] a young man along with Radha or as an elder giving direction and guidance as in the Bhagavad Gita.[3] The stories of Krishna appear across a broad spectrum of Hindu philosophical and theological traditions.[4] They portray him in various perspectives: a god-child, a prankster, a model lover, a divine hero, and the Supreme Being.[5] The principal scriptures discussing Krishna's story are the Mahabharata, the Harivamsa, the Bhagavata Purana, and the Vishnu Purana.
 
-        Christians believe that Jesus has a "unique significance" in the world. Christian doctrines include the beliefs that Jesus was conceived by the Holy Spirit, was born of a virgin named Mary, performed miracles, founded the Church, died by crucifixion as a sacrifice to achieve atonement, rose from the dead, and ascended into Heaven, whence he will return. Most Christians believe Jesus enables humans to be reconciled to God, and will judge the dead either before or after their bodily resurrection, an event tied to the Second Coming of Jesus in Christian eschatology; though some believe Jesus\'s role as savior has more existential or societal concerns than the afterlife, and a few notable theologians have suggested that Jesus will bring about a universal reconciliation. The great majority of Christians worship Jesus as the incarnation of God the Son, the second of three persons of a Divine Trinity. A few Christian groups reject Trinitarianism, wholly or partly, as non-scriptural.
-
-        In Islam, Jesus is considered one of God\'s important prophets and the Messiah. To Muslims, Jesus was a bringer of scripture and was born of a virgin, but was neither the son of God nor the victim of crucifixion. According to the Quran, Jesus was not crucified but was physically raised into Heaven by God. Judaism rejects the Christian and Islamic belief that Jesus was the awaited Messiah, arguing that he did not fulfill the Messianic prophecies in the Tanakh."
+Worship of the deity Krishna, either in the form of deity Krishna or in the form of Vasudeva, Bala Krishna or Gopala can be traced to as early as the 4th century BC.[6][7] Worship of Krishna as Svayam Bhagavan, or the supreme being, known as Krishnaism, arose in the Middle Ages in the context of the Bhakti movement. From the 10th century AD, Krishna became a favourite subject in performing arts and regional traditions of devotion developed for forms of Krishna such as Jagannatha in Odisha, Vithoba in Maharashtra and Shrinathji in Rajasthan. Since the 1960s the worship of Krishna has also spread in the Western world and in Africa largely due to the International Society for Krishna Consciousness.[8] Gaudia Math is also a leading proponent of Krishna worship."
         </item>
 
         <item>
-            "A typical Jew in Jesus time had only one name, sometimes supplemented with the father\'s name or the individual\'s hometown. Thus, in the New Testament, Jesus is commonly referred to as "Jesus of Nazareth” (e.g., Mark 10:47). Jesus\' neighbors in Nazareth refer to him as "the carpenter, the son of Mary and brother of James and Joses and Judas and Simon" (Mark 6:3), "the carpenter\'s son" (Matthew 13:55), or "Joseph\'s son" (Luke 4:22). In John, the disciple Philip refers to him as "Jesus son of Joseph from Nazareth" (John 1:45).
+            "The name originates from the Sanskrit word Kṛṣṇa, which is primarily an adjective meaning \black\, \dark\ or \dark blue\.[9] The waning moon is called Krishna Paksha, relating to the adjective meaning \darkening\.[9] Sometimes it is also translated as \all-attractive\, according to members of the Hare Krishna movement.[10]
 
-The name Jesus is derived from the Latin Iesus, a transliteration of the Greek Ἰησοῦς (Iesous). The Greek form is a rendering of the Hebrew ישוע‎ (Yeshua), a variant of the earlier name יהושע‎ (Yehoshua), in English "Joshua”. The name Yeshua appears to have been in use in Judea at the time of the birth of Jesus. The first-century works of historian Flavius Josephus, who wrote in Koine Greek, the same language as that of the New Testament, refer to at least twenty different people with the name Jesus (i.e. Ἰησοῦς). The etymology of Jesus\' name in the context of the New Testament is generally given as "Yahweh is salvation".
-
-Since early Christianity, Christians have commonly referred to Jesus as "Jesus Christ". The word Christ is derived from the Greek Χριστός (Christos), which is a translation of the Hebrew מָשִׁיחַ (Meshiakh), meaning the "anointed" and usually transliterated into English as "Messiah". Christians designate Jesus as Christ because they believe he is the awaited Messiah prophesied in the Hebrew Bible (Old Testament). In postbiblical usage, Christ became viewed as a name—one part of "Jesus Christ"—but originally it was a title. The term "Christian" (meaning "one who owes allegiance to the person Christ" or simply "follower of Christ") has been in use since the first century."
+As a name of Vishnu, Krishna is listed as the 57th name in the Vishnu Sahasranama. Based on his name, Krishna is often depicted in murtis as black or blue-skinned. Krishna is also known by various other names, epithets and titles, which reflect his many associations and attributes. Among the most common names are Mohnish Attractive God, Mohan enchanter, Govinda, Finder of 'Go' - Veda or the cows or Gopala, Protector of the 'Go' - Veda or the cows as 'Go' means Veda or cow, which refer to Krishna's childhood in Braj (in present-day Uttar Pradesh).[11][12] Some of the distinct names may be regionally important; for instance, Jagannatha, a popular incarnation of Puri, Odisha in eastern India."
         </item>
 
         <item>
-            "The four canonical gospels (Matthew, Mark, Luke, and John) are the main sources for the biography of Jesus. Other parts of the New Testament, such as the Pauline epistles, which were probably written decades before the gospels, also include references to key episodes in his life, such as the Last Supper in 1 Corinthians 11:23–26. Acts of the Apostles (10:37–38 and 19:4) refers to the early ministry of Jesus and its anticipation by John the Baptist. Acts 1:1–11 says more about the Ascension of Jesus (also mentioned in 1 Timothy 3:16) than the canonical gospels do.
+            "Krishna is easily recognized by his representations. Though his skin color may be depicted as black or dark in some representations, particularly in murtis, in other images such as modern pictorial representations, Krishna is usually shown with a blue skin. He has been described as having skin the color of Jambul (Jamun a purple color fruit). He is also known to have four symbols of the jambu fruit on his right foot as mentioned in the Srimad Bhagavatam commentary (verse 10.30.25), Sri Rupa Cintamani and Ananda Candrika by Srila Visvanatha Chakravarti Thakura.[14]
 
-Some early Christian and Gnostic groups had separate descriptions of the life and teachings of Jesus that are not included in the New Testament. These include the Gospel of Thomas, the Gospel of Peter, and the Apocryphon of James, among many other apocryphal writings. Most scholars consider these much later and less reliable accounts than the canonical gospels."
+He is often shown wearing a silk golden yellow dhoti and a peacock feather crown. Common depictions show him as a little boy, or as a young man in a characteristically relaxed pose, playing the flute.[15][16] In this form, he usually stands with one leg bent in front of the other with a flute raised to his lips, in the Tribhanga posture, accompanied by cows, emphasizing his position as the divine herdsman, Govinda, or with the gopis (milkmaids) i.e. Gopikrishna, stealing butter from neighbouring houses i.e. Navneet Chora or Gokulakrishna, defeating the vicious serpent i.e. Kaliya Damana Krishna, lifting the hill i.e. Giridhara Krishna ..so on and so forth from his childhood / youth events.
+
+A steatite (soapstone) tablet unearthed from Mohenjo-daro, Larkana district, Sindh depicting a young boy uprooting two trees from which are emerging two human figures is an interesting archaeological find for fixing dates associated with Krishna. This image recalls the Yamalarjuna episode of Bhagavata and Harivamsa Purana. In this image, the young boy is Krishna, and the two human beings emerging from the trees are the two cursed gandharvas, identified as Nalakubara and Manigriva. Dr. E.J.H. Mackay, who did the excavation at Mohanjodaro, compares this image with the Yamalarjuna episode. Prof. V.S. Agrawal has also accepted this identification. Thus, it seems that the Indus valley people knew stories related to Krishna. This lone find may not establish Krishna as contemporary with Pre-Indus or Indus times, but, likewise, it cannot be ignored.[17]
+
+
+Bala Krishna dancing, 14th century CE Chola sculpture, Tamil Nadu.from Honolulu Academy of Arts.
+The scene on the battlefield of the epic Mahabharata, notably where he addresses Pandava prince Arjuna in the Bhagavad Gita, is another common subject for representation. In these popular depictions, he is shown as the charioteer in the battle-field of Kurukshetra. In Visvaroopa Darshana to Arjuna, Lord Krishna resumes the role of the often with supreme God's characteristics of Hindu religious art, such as multiple arms or heads, denoting power, and with attributes of Vishnu, such as the chakra or in his two-armed form as a charioteer. Cave paintings dated to 800 BCE in Mirzapur, Mirzapur district, Uttar Pradesh, show raiding horse-charioteers, one of whom is about to hurl a wheel, and who could potentially be identified as Krishna.[18]
+
+Representations in temples often show Krishna as a man standing in an upright, formal pose. He may be alone, or with associated figures:[19] his brother Balarama and sister Subhadra, or his main queens Rukmini and Satyabhama.
+
+Often, Krishna is pictured with his gopi-consort Radha. Manipuri Vaishnavas do not worship Krishna alone, but as Radha Krishna,[20] a combined image of Krishna and Radha. This is also a characteristic of the schools Rudra[21] and Nimbarka sampradaya,[22] as well as that of Swaminarayan sect. The traditions celebrate Radha Ramana murti, who is viewed by Gaudiyas as a form of Radha Krishna.[23]
+
+Krishna is also depicted and worshipped as a small child (Bala Krishna, Bāla Kṛṣṇa the child Krishna), crawling on his hands and knees or dancing, often with butter or Laddu in his hand being Laddu Gopal.[24][25] Regional variations in the iconography of Krishna are seen in his different forms, such as Jaganatha of Odisha, Vithoba of Maharashtra,[26] Venkateswara (also Srinivasa or Balaji) in Andhra Pradesh, and Shrinathji in Rajasthan.
+
+Krishna is also depicted as a new born floating on a leaf of a banyan tree during the Pralaya ( the great flood ) at the end of the Dvapara Yuga."
         </item>
 
         <item>
-            "A four-page papyrus manuscript, which is torn in many places
-A 3rd-century Greek papyrus of the Gospel of Luke
-The canonical gospels are four accounts, each written by a different author. The first to be written was the Gospel of Mark (written AD 60–75), followed by the Gospel of Matthew (AD 65–85), the Gospel of Luke (AD 65–95), and the Gospel of John (AD 75–100). They often differ in content and in the ordering of events.
+            "The earliest text to explicitly provide detailed descriptions of Krishna as a personality is the epic Mahabharata which depicts Krishna as an incarnation of Vishnu.[27] Krishna is central to many of the main stories of the epic. The eighteen chapters of the sixth book (Bhishma Parva) of the epic that constitute the Bhagavad Gita contain the advice of Krishna to the warrior-hero Arjuna, on the battlefield. Krishna is already an adult in the epic, although there are allusions to his earlier exploits. The Harivamsa, a later appendix to this epic, contains the earliest detailed version of Krishna's childhood and youth.
 
-Traditionally, Christians believe that the four gospels were written by four evangelists who were close to Jesus: Mark was written by John Mark, an associate of Peter; Matthew was written by one of Jesus\' disciples; Luke was written by a companion of Paul, someone mentioned in a few epistles; and John was written by another of Jesus\' disciples, in fact part of an inner group of disciples, along with Peter and Jesus\' brother James.
+The Rig Veda 1.22.164 sukta 31 mentions a herdsman who never stumbles.[28] Some Vaishnavite scholars, such as Bhaktivinoda Thakura, claim that this herdsman refers to Krishna.[29] Ramakrishna Gopal Bhandarkar also attempted to show that the very same Krishna made an appearance, e.g. as the drapsa ... krishna black drop of RV 8.96.13.[30] Some authors have also likened prehistoric depictions of deities to Krishna.
 
-Three of them, Matthew, Mark, and Luke, are known as the Synoptic Gospels, from the Greek σύν (syn "together") and ὄψις (opsis "view"). They are similar in content, narrative arrangement, language and paragraph structure. Scholars generally agree that it is impossible to find any direct literary relationship between the Synoptic Gospels and the Gospel of John. While the flow of some events (such as Jesus\' baptism, transfiguration, crucifixion and interactions with the apostles) are shared among the Synoptic Gospels, incidents such as the transfiguration do not appear in John, which also differs on other matters, such as the Cleansing of the Temple.
+Chandogya Upanishad (3.17.6), dated between 8th and 6th century BCE, mentions Vasudeva Krishna as the son of Devaki and the disciple of Ghora Angirasa, the seer who preached his disciple the philosophy of ‘Chhandogya.’ Having been influenced by the philosophy of ‘Chhandogya’ Krishna in the Bhagavadgita while delivering the discourse to Arjuna on the battlefield of Kurukshetra discussed about sacrifice, which can be compared to purusha or the individual.[31][32][33][34]
 
-Most scholars agree, following what is known as the "Marcan hypothesis", that the authors of Matthew and Luke used Mark as a source when writing their gospels. Matthew and Luke also share some content not found in Mark. To explain this, many scholars believe that in addition to Mark, another source (commonly called the "Q source") was used by the two authors.
+Yāska's Nirukta, an etymological dictionary around 6th century BC, contains a reference to the Shyamantaka jewel in the possession of Akrura, a motif from well known Puranic story about Krishna.[35] Shatapatha Brahmana and Aitareya-Aranyaka, associate Krishna with his Vrishni origins.[36]
 
-According to a broad scholarly consensus, the Synoptic Gospels, and not John, are the primary sources of historical information about Jesus. However, not everything contained in the New Testament gospels is considered to be historically reliable. Elements whose historical authenticity is disputed include the Nativity, the Massacre of the Innocents, the Resurrection, the Ascension, some of Jesus\' miracles, and the Sanhedrin trial, among others. Views on the gospels range from their being inerrant descriptions of the life of Jesus to their providing little historical information about his life beyond the basics.
+Pāṇini, the ancient grammarian and author of Asthadhyayi (probably belonged to 5th century or 6th century BC) mentions a character called Vāsudeva, son of Vasudeva, and also mentions Kaurava and Arjuna which testifies to Vasudeva Krishna, Arjuna and Kauravas being contemporaries.[31][37][38]
 
-The Synoptics emphasize different aspects of Jesus. In Mark, Jesus is the Son of God whose mighty works demonstrate the presence of God\'s Kingdom. He is a tireless wonder worker, the servant of both God and man. This short gospel records few of Jesus\' words or teachings. The Gospel of Matthew emphasizes that Jesus is the fulfillment of God\'s will as revealed in the Old Testament, and he is the Lord of the Church. He is the kingly Messiah, referred to repeatedly as "king" and "Son of David." A noteworthy feature of this gospel are the five discourses, collections of teachings on particular themes, including the Sermon on the Mount. Luke presents Jesus as the divine-human savior who shows compassion to the needy. He is the friend of sinners and outcasts, come to seek and save the lost. This gospel includes Jesus\' most beloved parables, such as the Good Samaritan and the Prodigal Son.
+Megasthenes (350 – 290 BC) a Greek ethnographer and an ambassador of Seleucus I to the court of Chandragupta Maurya made reference to Herakles in his famous work Indica. Many scholars have suggested that the deity identified as Herakles was Krishna. According to Arrian, Diodorus, and Strabo, Megasthenes described an Indian tribe called Sourasenoi, who especially worshipped Herakles in their land, and this land had two cities, Methora and Kleisobora, and a navigable river, the Jobares. As was common in the ancient period, the Greeks sometimes described foreign gods in terms of their own divinities, and there is a little doubt that the Sourasenoi refers to the Shurasenas, a branch of the Yadu dynasty to which Krishna belonged; Herakles to Krishna, or Hari-Krishna: Methora to Mathura, where Krishna was born; Kleisobora to Krishnapura, meaning the city of Krishna; and the Jobares to the Yamuna, the famous river in the Krishna story. Quintus Curtius also mentions that when Alexander the Great confronted Porus, Porus's soldiers were carrying an image of Herakles in their vanguard.[39]
 
-The Synoptics and John agree on the main outline of Jesus\' life. John the Baptist precedes Jesus, their ministries overlap, and John witnesses to Jesus\' identity. Jesus teaches and performs miracles, at least partly in Galilee. He then visits Jerusalem, where the leaders have him crucified, and he is buried. After his tomb is found empty on Sunday, the risen Jesus presents himself to his followers.
+The name Krishna occurs in Buddhist writings in the form Kānha, phonetically equivalent to Krishna.[40]
 
-The prologue to the Gospel of John identifies Jesus as an incarnation of the divine Word (Logos). As the Word, Jesus was eternally present with God, active in all creation, and the source of humanity\'s moral and spiritual nature. With this prologue, the evangelist establishes that Jesus is not only greater than any past human prophet but greater than any prophet could be. He not only speaks God\'s Word; he is God\'s Word. In the Gospel of John, Jesus reveals his divine role publicly. Here his is the Bread of Life, the Light of the World, the True Vine and more.
+The Ghata-Jâtaka (No. 454) gives an account of Krishna's childhood and subsequent exploits which in many points corresponds with the Brahmanic legends of his life and contains several familiar incidents and names, such as Vâsudeva, Baladeva, Kaṃsa. Yet it presents many peculiarities and is either an independent version or a misrepresentation of a popular story that had wandered far from its home. Jain tradition also shows that these tales were popular and were worked up into different forms, for the Jains have an elaborate system of ancient patriarchs which includes Vâsudevas and Baladevas. Krishna is the ninth of the Black Vâsudevas and is connected with Dvâravatî or Dvârakâ. He will become the twelfth tîrthankara of the next world-period and a similar position will be attained by Devakî, Rohinî, Baladeva and Javakumâra, all members of his family. This is a striking proof of the popularity of the Krishna legend outside the Brahmanic religion.[41]
 
-In general, the authors of the New Testament showed little interest in an absolute chronology of Jesus or in synchronizing the episodes of his life with the secular history of the age. As stated in John 21:25, the gospels do not claim to provide an exhaustive list of the events in the life of Jesus. The accounts were primarily written as theological documents in the context of early Christianity, with timelines as a secondary consideration. One manifestation of the gospels as theological documents rather than historical chronicles is that they devote about one third of their text to just seven days, namely the last week of the life of Jesus in Jerusalem, referred to as the Passion. Although the gospels do not provide enough details to satisfy the demands of modern historians regarding exact dates, it is possible to draw from them a general picture of the life story of Jesus."
+According to Arthasastra of Kautilya (4th century BCE) Vāsudeva was worshiped as supreme Deity in a strongly monotheistic format.[37]
+
+Around 150 BC, Patanjali in his Mahabhashya quotes a verse: May the might of Krishna accompanied by Samkarshana increase! Other verses are mentioned. One verse speaks of Janardhana with himself as fourth (Krishna with three companions, the three possibly being Samkarshana, Pradyumna, and Aniruddha). Another verse mentions musical instruments being played at meetings in the temples of Rama (Balarama) and Kesava (Krishna). Patanjali also describes dramatic and mimetic performances (Krishna-Kamsopacharam) representing the killing of Kamsa by Vasudeva.[42][43]
+
+In the 1st century BC, there seems to be evidence for a worship of five Vrishni heroes (Balarama, Krishna, Pradyumna, Aniruddha and Samba) for an inscription has been found at Mora near Mathura, which apparently mentions a son of the great satrap Rajuvula, probably the satrap Sodasa, and an image of Vrishni, probably Vasudeva, and of the Five Warriors.[44] Brahmi inscription on the Mora stone slab, now in the Mathura Museum.[45][46]
+
+Many Puranas tell Krishna's life-story or some highlights from it. Two Puranas, the Bhagavata Purana and the Vishnu Purana, that contain the most elaborate telling of Krishna’s story and teachings are the most theologically venerated by the Vaishnava schools.[47] Roughly one quarter of the Bhagavata Purana is spent extolling his life and philosophy."
         </item>
 
         <item>
-            "Matthew and Luke each offer a genealogy of Jesus. Matthew traces Jesus\' ancestry to Abraham through David. Luke traces Jesus\' ancestry through Adam to God.[95]
+            "Based on scriptural details and astrological calculations, the date of Krishna's birth, known as Janmashtami,[48] is 21 February 3228 BCE.[49][note 1] He was born to Devaki and her husband, Vasudeva.[54][55][56] When Mother Earth became upset by the sin being committed on Earth, she thought of seeking help from Lord Vishnu. She went in the form of a cow to visit Lord Vishnu and ask for help. Lord Vishnu agreed to help her and promised her that he would be born on Earth. On Earth in the Yadava clan, he was yadav according to his birth, a prince named Kamsa sent his father Ugrasena (King of Mathura) to prison and became the King himself. One day a loud voice from the sky (Akasha Vani in Samskrutam prophesied that the 8th son of Kamsa's sister (Devaki) would kill Kamsa. Out of affection for Devaki, Kamsa did not kill her outright. He did, however, send his sister and her husband (Vasudeva) to prison. Lord Vishnu himself later appeared to Devaki and Vasudeva and told them that he himself would be their eighth son and kill Kamsa and destroy sin in the world. In the story of Krishna the deity is the agent of conception and also the offspring. Because of his sympathy for the earth, the divine Vishnu himself descended into the womb of Devaki and was born as her son, Vaasudeva (i.e., Krishna). This is occasionally cited as evidence that virgin birth tales are fairly common in non-Christian religions around the world.[57][58][59] However, there is nothing in Hindu scriptures to suggest that it was a virgin birth. By the time of conception and birth of Krishna, Devaki was married to Vasudeva and had already borne 7 children.[60] Virgin birth in this case should be more accurately understood as divine conception. Kunti, the mother of the Pandavas referenced contemporaneously with the story of Krishna in the Mahabharata also has divine conception and virgin birth of Prince Karna.[61]
 
-Matthew and Luke each describe Jesus\' nativity (or birth), especially that Jesus was born of a virgin in Bethlehem in fulfillment of prophecy. Luke\'s account emphasizes events before the birth of Jesus and centers on Mary, while Matthew\'s mostly covers those after the birth and centers on Joseph.[96][97][98] Both accounts state that Jesus was born to Joseph and Mary, his betrothed, in Bethlehem, and both support the doctrine of the virgin birth, according to which Jesus was miraculously conceived by the Holy Spirit in Mary\'s womb when she was still a virgin.[99][100][101]
+The Hindu Vishnu Purana relates: Devaki bore in her womb the lotus-eyed deity...before the birth of Krishna, no one could bear to gaze upon Devaki, from the light that invested her, and those who contemplated her radiance felt their minds disturbed. This reference to light is reminiscent of the Vedic hymn To an Unknown Divine, which refers to a Golden Child. According to F. M. Müller, this term means the golden gem of child and is an attempt at naming the sun. According to the Vishnu Purana, Krishna is the total incarnation of Lord Vishnu. It clearly describes in the Vishnu Purana that Krishna was born on earth to destroy sin, especially Kamsa.
 
-In Matthew, Joseph is troubled because Mary, his betrothed, is pregnant (Matthew 1:19–20), but in the first of Joseph\'s three dreams an angel assures him not to be afraid to take Mary as his wife, because her child was conceived by the Holy Spirit.[102] In Matthew 2:1–12, wise men or Magi from the East bring gifts to the young Jesus as the King of the Jews. Herod hears of Jesus\' birth and, wanting him killed, orders the murders of male infants in Bethlehem. But an angel warns Joseph in his second dream, and the family flees to Egypt—later to return and settle in Nazareth.[102][103][104]
+Krishna belonged to the Vrishni clan of Yadavas from Mathura,[62] and was the eighth son born to the princess Devaki, and her husband Vasudeva.
 
-In Luke 1:31–38 Mary learns from the angel Gabriel that she will conceive and bear a child called Jesus through the action of the Holy Spirit.[97][99] When Mary is due to give birth, she and Joseph travel from Nazareth to Joseph\'s ancestral home in Bethlehem to register in the census ordered by Caesar Augustus. While there Mary gives birth to Jesus, and as they have found no room in the inn, she places the newborn in a manger (Luke 2:1–7). An angel announces the birth to some shepherds, who go to Bethlehem to see Jesus, and subsequently spread the news abroad (Luke 2:8–20). After the presentation of Jesus at the Temple, Joseph, Mary and Jesus return to Nazareth."
+Mathura (in present-day Mathura district, Uttar Pradesh) was the capital of the Yadavas, to which Krishna's parents Vasudeva and Devaki belonged. King Kamsa, Devaki's brother,[63] had ascended the throne by imprisoning his father, King Ugrasena. Afraid of a prophecy from a divine voice from the heavens that predicted his death at the hands of Devaki's eighth garbha, Kamsa had the couple locked in a prison cell. After Kamsa killed the first six children, Devaki apparently had a miscarriage of the seventh. However, in reality, the womb was actually transferred to Rohini secretly. This was how Balarama, Krishna's elder brother, was born. Once again Devaki became pregnant. Now due to the miscarriage, Kamsa was in a puzzle regarding 'The Eighth One', but his ministers advised that the divine voice from the heavens emphasised the eight garbha and so this is the one. That night Krishna was born in the Abhijit nakshatra and simultaneously Ekanamsha was born as Yogamaya in Gokulam to Nanda and Yashoda.
+
+Since Vasudeva knew Krishna's life was in danger, Krishna was secretly taken out of the prison cell to be raised by his foster parents, Yasoda[64] and Nanda, in Gokula (in present-day Mathura district). Two of his other siblings also survived, Balarama (Devaki's seventh child, transferred to the womb of Rohini, Vasudeva's first wife) and Subhadra (daughter of Vasudeva and Rohini, born much later than Balarama and Krishna)."
         </item>
 
         <item>
-            "Jesus\' childhood home is identified in the gospels of Luke and Matthew as the town of Nazareth in Galilee where he lived with his family. Although Joseph appears in descriptions of Jesus\' childhood, no mention is made of him thereafter.[105] His other family members—his mother, Mary, his brothers James, Joses (or Joseph), Judas and Simon and his unnamed sisters—are mentioned in the gospels and other sources.[106][107]
+            "Nanda was the head of a community of cow-herders, and he settled in Vrindavana. The stories of Krishna's childhood and youth tell how he became a cow herder,[66] his mischievous pranks as Makhan Chor (butter thief), his foiling of attempts to take his life, and his role as a protector of the people of Vrindavana.
 
-In Mark, Jesus comes into conflict with his neighbors and family.[108] Jesus\' mother and brothers come to get him (3:31–35) because people are saying that he\'s crazy (3:21). Jesus responds that his followers are his true family. In John, Mary follows Jesus to his crucifixion, and he expresses concern over her well-being (19:25–27).
+Krishna killed the demoness Putana, disguised as a wet nurse, and the tornado demon Trinavarta both sent by Kamsa for Krishna's life. He tamed the serpent Kāliyā, who previously poisoned the waters of Yamuna river, thus leading to the death of the cowherds. In Hindu art, Krishna is often depicted dancing on the multi-hooded Kāliyā.
 
-Jesus is called a τέκτων (tekton) in Mark 6:3, traditionally understood as carpenter but could cover makers of objects in various materials, including builders.[109][110] The gospels indicate that Jesus could read, paraphrase, and debate scripture, but this does not imply that he received formal scribal training."
+Krishna lifted the Govardhana hill and taught Indra, the king of the devas, a lesson to protect the native people of Vrindavana from persecution by Indra and prevent the devastation of the pasture land of Govardhan. Indra had too much pride and was angry when Krishna advised the people of Vrindavana to take care of their animals and their environment that provide them with all their necessities, instead of worshipping Indra annually by spending their resources.[67][68] In the view of some, the spiritual movement started by Krishna had something in it which went against the orthodox forms of worship of the Vedic gods such as Indra.[69] In Bhagavat Purana, Krishna says that the rain came from the nearby hill Govardhana, and advised that the people worshiped the hill instead of Indra. This made Indra furious, so he punished them by sending out a great storm. Krishna then lifted Govardhan and held it over the people like an umbrella.
+
+The stories of his play with the gopis (milkmaids) of Vrindavana, especially Radha (daughter of Vrishbhanu, one of the original residents of Vrindavan) became known as the Rasa lila and were romanticised in the poetry of Jayadeva, author of the Gita Govinda. These became important as part of the development of the Krishna bhakti traditions worshiping Radha Krishna.[70]
+
+Krishna’s childhood reinforces the Hindu concept of lila, playing for fun and enjoyment and not for sport or gain. His interaction with the gopis at the rasa dance or Rasa-lila is a great example of this. Krishna played his flute and the gopis came immediately from whatever they were doing, to the banks of the Yamuna River, and joined him in singing and dancing. Even those who could not physically be there joined him through meditation.[71] The story of Krishna’s battle with Kāliyā also supports this idea in the sense of him dancing on Kāliyā’s many hoods. Even though he is doing battle with the serpent, he is in no real danger and treats it like a game. He is a protector, but he only appears to be a young boy having fun.[72] This idea of having a playful god is very important in Hinduism. The playfulness of Krishna has inspired many celebrations like the Rasa-lila and the Janmashtami : where they make human pyramids to break open handis (clay pots) hung high in the air that spill buttermilk all over the group after being broken by the person at the top. This is meant to be a fun celebration and it gives the participants a sense of unity. Many believe that lila being connected with Krishna gives Hindus a deeper connection to him and thus a deeper connection to Vishnu also; seeing as Krishna is an incarnation of Vishnu. Theologists, like Kristin Johnston Largen, believe that Krishna’s childhood can even inspire other religions to look for lila in deities so that they have a chance to experience a part of their faith that they may not have previously seen."
         </item>
 
         <item>
-            "The Synoptic accounts of Jesus\' baptism are all preceded by information about John the Baptist.[112][113][114] They show John preaching penance and repentance for the remission of sins and encouraging the giving of alms to the poor (Luke 3:11) as he baptized people in the area of the River Jordan around Perea and foretells (Luke 3:16) the arrival of someone "more powerful" than he.[115][116] Later, Jesus identifies John as Elijah (Mark 9:13-14, Matthew 11:14), the prophet who was expected to arrive before the "great and terrible day of the Lord" (Malachi 4:5). Likewise, Luke says that John had the spirit and power of Elijah (Luke 1:17).
+            "On his return to Mathura as a young man, Krishna overthrew and killed his maternal uncle, Kamsa, after quelling several assassination attempts from Kamsa's followers. He reinstated Kamsa's father, Ugrasena, as the king of the Yadavas and became a leading prince at the court.[75] During this period, he became a friend of Arjuna and the other Pandava princes of the Kuru kingdom, who were his cousins. Later, he took his Yadava subjects to the city of Dwaraka (in modern Gujarat) and established a new kingdom there. Krishna was the prince and commander of the Armies of Dwaraka, while Balarama was crown prince and de facto administrator as, King Ugrasena was still the emperor of Dwaraka, but reigned over mathura.[76]
 
-In Matthew 3:14, upon meeting Jesus, the Baptist says "I need to be baptized by you", but Jesus persuades John to baptize him nonetheless.[117] After he does so and Jesus emerges from the water, the sky opens and a voice from Heaven states, "This is my Son, the Beloved, with whom I am well pleased" (Matthew 3:17). The Holy Spirit then descends upon Jesus as a dove.[115][116][117] This is one of two events described in the gospels where a voice from Heaven calls Jesus "Son", the other being the Transfiguration.[118][119] In Luke, the Holy Spirit descends as a dove after everyone has been baptized and Jesus is praying (Luke 3:21-22).
+Krishna married Rukmini, the Vidarbha princess, by abducting her, at her request, from her proposed wedding with Shishupala. He married eight queens—collectively called the Ashtabharya—including Rukmini, Satyabhama, Jambavati, Kalindi, Mitravinda, Nagnajiti, Bhadra and Lakshmana.[77][78] Krishna subsequently married 16,000 or 16,100 maidens who were held captive by the demon Narakasura, to save their honour.[79][80] Krishna killed the demon and released them all. According to social custom of the time, all of the captive women were degraded, and would be unable to marry, as they had been under the Narakasura's control. However Krishna married them to reinstate their status in the society. This symbolic wedding with 16,100 abandoned daughters was more of a mass rehabilitation.[81] In Vaishnava traditions, Krishna's wives are forms of the goddess Lakshmi — consort of Vishnu, or special souls who attained this qualification after many lifetimes of austerity, while his two queens, Rukmani and Satyabhama, are expansions of Lakshmi.[82]
 
-After the baptism, the Synoptic Gospels describe the temptation of Christ, in which Jesus resisted temptations from the devil while fasting for forty days and nights in the Judaean Desert.[120][121] Jesus\' baptism and temptation serve as preparation for his public ministry.[122]
-
-The Gospel of John leaves out Jesus\' baptism and temptation.[123] Here, John the Baptist testifies that he saw the Spirit descend on Jesus (John 1:32).[116][124] John publicly proclaims Jesus as the sacrificial Lamb of God, and some of John\'s followers become disciples of Jesus.[77] In this Gospel, John denies that he is Elijah (John 1:21)."
+When Yudhishthira was assuming the title of emperor, he had invited all the great kings to the ceremony and while paying his respects to them, he started with Krishna because he considered Krishna to be the greatest of them all. While it was a unanimous feeling amongst most present at the ceremony that Krishna should get the first honours, his cousin Shishupala felt otherwise and started berating Krishna. Due to a vow given to Shishupal's mother, Krishna forgave a hundred verbal abuses by Shishupal, and upon the one hundred and first, he assumed his Virat (universal) form and killed Shishupal with his Chakra. The blind king Dhritarashtra also obtained divine vision to be able to see this form of Krishna during the time when Duryodana tried to capture Krishna when he came as a peace bearer before the great Mahabharat War. Essentially, Shishupala and Dantavakra were both re-incarnations of Vishnu's gate-keepers Jaya and Vijaya, who were cursed to be born on Earth, to be delivered by the Vishnu back to Vaikuntha."
         </item>
 
         <item>
-            "The Synoptics depict two distinct geographical settings in Jesus\' ministry. The first takes place north of Judea in Galilee, where Jesus conducts a successful ministry; and the second shows Jesus rejected and killed when he travels to Jerusalem. Notably, Jesus forbids those who recognize his identity to speak of it, including people he heals and demons he exorcises (see Messianic Secret).[125]
+            "Once battle seemed inevitable, Krishna offered both sides the opportunity to choose between having either his army called Narayani Sena or himself alone, but on the condition that he personally would not raise any weapon. Arjuna, on behalf of the Pandavas, chose to have Krishna on their side, and Duryodhana, Kaurava prince, chose Krishna's army. At the time of the great battle, Krishna acted as Arjuna's charioteer, since this position did not require the wielding of weapons.
 
-John depicts Jesus\' ministry as largely taking place in and around Jerusalem rather than in Galilee. In this Gospel, Jesus\' divine identity is publicly proclaimed and immediately recognized.[90]
+Upon arrival at the battlefield, and seeing that the enemies are his family, his grandfather, his cousins and loved ones, Arjuna is moved and says his heart does not allow him to fight and he would rather prefer to renounce the kingdom and put down his Gandiv (Arjuna's bow). Krishna then advises him about the battle, with the conversation soon extending into a discourse which was later compiled as the Bhagavad Gita.
+            Krishna asked Arjuna, Have you within no time, forgotten the Kauravas' evil deeds such as not accepting the eldest brother Yudhishtira as King, usurping the entire Kingdom without yielding any portion to the Pandavas, meting out insults and difficulties to Pandavas, attempt to murder the Pandavas in the Barnava lac guest house, publicly attempting to disrobe and disgracing Draupadi. Krishna further exhorted in his famous Bhagavad Gita, Arjuna, do not engage in philosophical analyses at this point of time like a Pundit. You are aware that Duryodhana and Karna particularly have long harboured jealousy and hatred for you Pandavas and badly want to prove their hegemony. You are aware that Bhishmacharya and your Teachers are tied down to their dharma of protecting the unitarian power of the Kuru throne. Moreover, you Arjuna, are only a mortal appointee to carry out my divine will, since the Kauravas are destined to die either way, due to their heap of sins. Open your eyes O Bhaarata and know that I encompass the Karta, Karma and Kriya, all in myself. There is no scope for contemplation now or remorse later, it is indeed time for war and the world will remember your might and immense powers for time to come. So rise O Arjuna!, tighten up your Gandiva and let all directions shiver till their farthest horizons, by the reverberation of its string.
+            Krishna had a profound effect on the Mahabharata war and its consequences. He had considered the Kurukshetra war to be a last resort after voluntarily acting as a messenger in order to establish peace between the Pandavas and Kauravas. But, once these peace negotiations failed and was embarked into the war, then he became a clever strategist. During the war, upon becoming angry with Arjuna for not fighting in true spirit against his ancestors, Krishna once picked up a carriage wheel in order to use it as a weapon to challenge Bhishma. Upon seeing this, Bhishma dropped his weapons and asked Krishna to kill him. However, Arjuna apologized to Krishna, promising that he would fight with full dedication here/after, and the battle continued. Krishna had directed Yudhishthira and Arjuna to return to Bhishma the boon of victory which he had given to Yudhishthira before the war commenced, since he himself was standing in their way to victory. Bhishma understood the message and told them the means through which he would drop his weapons—which was if a woman entered the battlefield. Next day, upon Krishna's directions, Shikhandi (Amba reborn) accompanied Arjuna to the battlefield and thus, Bhishma laid down his arms. This was a decisive moment in the war because Bhishma was the chief commander of the Kaurava army and the most formidable warrior on the battlefield. Krishna aided Arjuna in killing Jayadratha, who had held the other four Pandava brothers at bay while Arjuna's son Abhimanyu entered Drona's Chakravyuha formation—an effort in which he was killed by the simultaneous attack of eight Kaurava warriors. Krishna also caused the downfall of Drona, when he signalled Bhima to kill an elephant called Ashwatthama, the namesake of Drona's son. Pandavas started shouting that Ashwatthama was dead but Drona refused to believe them saying he would believe it only if he heard it from Yudhishthira. Krishna knew that Yudhishthira would never tell a lie, so he devised a clever ploy so that Yudhishthira wouldn't lie and at the same time Drona would be convinced of his son's death. On asked by Drona, Yudhishthira proclaimed
 
-Scholars divide the ministry of Jesus into several stages. The Galilean ministry begins when Jesus returns to Galilee from the Judaean Desert after rebuffing the temptation of Satan. Jesus preaches around Galilee, and in Matthew 4:18–20, his first disciples, who will eventually form the core of the early Church, encounter him and begin to travel with him.[114][126] This period includes the Sermon on the Mount, one of Jesus\' major discourses,[126][127] as well as the calming of the storm, the feeding of the 5,000, walking on water and a number of other miracles and parables.[128] It ends with the Confession of Peter and the Transfiguration.[129][130]
+Ashwathama Hatahath, naro va Kunjaro va
 
-As Jesus travels towards Jerusalem, in the Perean ministry, he returns to the area where he was baptized, about a third of the way down from the Sea of Galilee along the Jordan (John 10:40–42).[131][132] The final ministry in Jerusalem begins with Jesus\' triumphal entry into the city on Palm Sunday.[133] In the Synoptic Gospels, during that week Jesus drives the money changers from the Temple and Judas bargains to betray him. This period culminates in the Last Supper and the Farewell Discourse."
+i.e. Ashwathama had died but he was nor sure whether it was a Drona's son or an elephant. But as soon as Yudhishthira had uttered the first line, Pandava army on Krishna's direction broke into celebration with drums and conchs, in the din of which Drona could not hear the second part of the Yudhishthira's declaration and assumed that his son indeed was dead. Overcome with grief he laid down his arms, and on Krishna's instruction Dhrishtadyumna beheaded Drona.
+
+When Arjuna was fighting Karna, the latter's chariot's wheels sank into the ground. While Karna was trying to take out the chariot from the grip of the Earth, Krishna reminded Arjuna how Karna and the other Kauravas had broken all rules of battle while simultaneously attacking and killing Abhimanyu, and he convinced Arjuna to do the same in revenge in order to kill Karna. During the final stage of the war, when Duryodhana was going to meet his mother Gandhari for taking her blessings which would convert all parts of his body on which her sight falls to diamond, Krishna tricks him to wearing banana leaves to hide his groin. When Duryodhana meets Gandhari, her vision and blessings fall on his entire body except his groin and thighs, and she becomes unhappy about it because she was not able to convert his entire body to diamond. When Duryodhana was in a mace-fight with Bhima, Bhima's blows had no effect on Duryodhana. Upon this, Krishna reminded Bhima of his vow to kill Duryodhana by hitting him on the thigh, and Bhima did the same to win the war despite it being against the rules of mace-fight (since Duryodhana had himself broken Dharma in all his past acts). Thus, Krishna's unparalleled strategy helped the Pandavas win the Mahabharata war by bringing the downfall of all the chief Kaurava warriors, without lifting any weapon. He also brought back to life Arjuna's grandson Parikshit, who had been attacked by a Brahmastra weapon from Ashwatthama while he was in his mother's womb. Parikshit became the Pandavas' successor."
         </item>
 
         <item>
-            "Near the beginning of his ministry, Jesus appoints twelve apostles. In Matthew and Mark, despite Jesus only briefly requesting that they join him, Jesus\' first four apostles, who were fishermen, are described as immediately consenting, and abandoning their nets and boats to do so (Matthew 4:18–22, Mark 1:16–20). In John, Jesus\' first two apostles were disciples of John the Baptist. The Baptist sees Jesus and calls him the Lamb of God; the two hear this and follow Jesus.[135][136] In addition to the Twelve Apostles, the opening of the passage of the Sermon on the Plain identifies a much larger group of people as disciples (Luke 6:17). Also, in Luke 10:1–16 Jesus sends seventy or seventy-two of his followers in pairs to prepare towns for his prospective visit. They are instructed to accept hospitality, heal the sick and spread the word that the Kingdom of God is coming.[137]
+            "Krishna had eight principal wives, also known as Ashtabharya: Rukmini, Satyabhama, Jambavati, Nagnajiti, Kalindi, Mitravinda, Bhadra and Lakshmana. Besides them Krishna married 16,100 more women (number varies in scriptures), whom he had rescued from Narakasura's palace after killing Narakasura. He married them all to save them from destruction and notoriety. He gave them shelter in his new palace and a respectful place in society.
 
-In Mark, the disciples are notably obtuse. They fail to understand Jesus\' miracles (Mark 4:35–41, 6:52), his parables (Mark 4:13), or what "rising from the dead" would mean (Mark 9:9–10). When Jesus is later arrested, they desert him (see below)."
+The Bhagavata Purana, Vishnu Purana, and Harivamsa list the children of Krishna from the Ashtabharya with some variation, while Rohini's sons are interpreted to represent the unnumbered children of his junior wives. Most well-known among his sons are Pradyumna, the eldest son of Krishna (and Rukmini). Pradyumna is one in 24 Keshava Namas (names), praised in all pujas.[86] and Samba, the son of Jambavati, whose actions led to the destruction of Krishna's clan."
         </item>
 
         <item>
-            "In the Synoptics, Jesus teaches extensively, often in parables, about the Kingdom of God (or, in Matthew, the Kingdom of Heaven).[138] The Kingdom is described as both imminent (e.g., Mark 1:15) [139] and already present in the ministry of Jesus: "You won\'t be able to say, \'Here it is!\' or \'It\'s over there!\' For the Kingdom of God is within you."(Luke 17:21) [140] Matthew’s summary of Jesus’ ministry includes healing sickness and disease, as well as performing exorcisms: “And Jesus was going about in all Galilee, teaching in their synagogues, and proclaiming the gospel of the kingdom, and healing every kind of disease and every kind of sickness among the people” (Matt. 4:23) [138] Jesus promises inclusion in the Kingdom for those who accept his message, provided they become as children and give up riches (Mark 10:13–27).[138]
+            "According to Mahabharata, the Kurukshetra war resulted in the death of all the hundred sons of Gandhari. On the night before Duryodhana's death, Krishna visited Gandhari to offer his condolences. Gandhari felt that Krishna knowingly did not put an end to the war, and in a fit of rage and sorrow, Gandhari cursed that Krishna, along with everyone else from the Yadu dynasty, would perish after 36 years. Krishna himself knew and wanted this to happen as he felt that the Yadavas had become very haughty and arrogant (adharmi), so he ended Gandhari's speech by saying tathastu (so be it). According to Srimad Bhagavatham, Rishi Vyas cursed yadavas (due to a tactful play by Yadavas with Rishi Vyas) saying, your entire community will die.[citation needed]
 
-Jesus calls people to repent their sins and to devote themselves completely to God.[21] Jesus tells his followers to adhere strictly to Jewish law, although he is perceived by some to have broken the law himself, for example regarding the Sabbath.[21] When asked what the greatest commandment is, Jesus replies: "You shall love the Lord your God with all your heart, and with all your soul, and with all your mind ... And a second is like it: ‘You shall love your neighbor as yourself" (Matthew 22:37–39). Other ethical teachings of Jesus include loving one\'s enemies, refraining from hatred and lust, and turning the other cheek (Matthew 5:21–44).[141]
+Thirty-six years later, a fight broke out between the Yadavas at a festival, who killed each other. Krishna's elder brother, Balarama, then gave up his body using Yoga. Krishna retired into the forest and started meditating under a tree. The Mahabharata also narrates the story of a hunter who becomes an instrument for Krishna's departure from the world. The hunter Jara, mistook Krishna's partly visible left foot for that of a deer, and shot an arrow, wounding him mortally. Krishna told Jara, O Jara, you were Bali in your previous birth, killed by myself as Rama in Tretayuga. Here you had a chance to even it and since all acts in this world are done as desired by me, you need not worry for this. Then Krishna, with his physical body[87] ascended back to his eternal abode, Goloka vrindavan and this event marks departure of Krishna from the earth.[88][89][90] The news was conveyed to Hastinapur and Dwaraka by eyewitnesses to this event.[87] The place of this incident is believed to be Bhalka, near Somnath temple.[91][92]
 
-John\'s Gospel presents the teachings of Jesus not merely as his own preaching, but as divine revelation. John the Baptist, for example, states in John 3:34: "He whom God has sent speaks the words of God, for he gives the Spirit without measure." In John 7:16 Jesus says, "My teaching is not mine but his who sent me." He asserts the same thing in John 14:10: "Do you not believe that I am in the Father and the Father is in me? The words that I say to you I do not speak on my own; but the Father who dwells in me does his works."[142][143]
+According to Puranic sources,[93] Krishna's departure marks the end of Dvapara Yuga and the start of Kali Yuga, which is dated to 17/18 February 3102 BCE.[94] Vaishnava teachers such as Ramanujacharya and Gaudiya Vaishnavas held the view that the body of Krishna is completely spiritual and never decays (Achyuta) as this appears to be the perspective of the Bhagavata Purana. Lord Sri Chaitanya Mahaprabhu (an incarnation of Lord Sri Krishna according to the Bhavishya Purana) exhorted, Krishna Naama Sankirtan i.e. the constant chanting of the Krishna's name is the supreme healer in Kali Yuga. It destroys sins and purifies the hearts through Bhakti and ensures universal peace.
 
-Jesus, his head surrounded by a halo, puts his hands on a leper, thereby healing him.
-Jesus cleansing a leper – medieval mosaic from the Monreale Cathedral
-In the gospels, the approximately thirty parables form about one third of Jesus\' recorded teachings.[142][144] The parables appear within longer sermons and at other places in the narrative.[145] They often contain symbolism, and usually relate the physical world to the spiritual.[146][147] Common themes in these tales include the kindness and generosity of God and the perils of transgression.[148] Some of his parables, such as the Prodigal Son (Luke 15:11–32), are relatively simple, while others, such as the Growing Seed (Mark 4:26–29), are more abstruse.[149]
-
-In the gospel accounts, Jesus devotes a large portion of his ministry performing miracles, especially healings.[150] The miracles can be classified into two main categories: healing miracles and nature miracles.[151] The healing miracles include cures for physical ailments, exorcisms, and resurrections of the dead.[152] The nature miracles show Jesus\' power over nature, and include turning water into wine, walking on water, and calming a storm, among others. Jesus states that his miracles are from a divine source. When Jesus\' opponents accuse him of performing exorcisms by the power of Beelzebul, the prince of demons, Jesus counters that he performs them by the "Spirit of God" (Matthew 12:28) or "finger of God" (Luke 11:20).[21][153]
-
-In John, Jesus\' miracles are described as "signs", performed to prove his mission and divinity.[154][155] However, in the Synoptics, when asked to give miraculous signs to prove his authority, Jesus refuses.[154] Also, in the Synoptic Gospels, the crowds regularly respond to Jesus\' miracles with awe and press on him to heal their sick. In John\'s Gospel, Jesus is presented as unpressured by the crowds, who often respond to his miracles with trust and faith.[156] One characteristic shared among all miracles of Jesus in the gospel accounts is that he performed them freely and never requested or accepted any form of payment.[157] The gospel episodes that include descriptions of the miracles of Jesus also often include teachings, and the miracles themselves involve an element of teaching.[158][159] Many of the miracles teach the importance of faith. In the cleansing of ten lepers and the raising of Jairus\' daughter, for instance, the beneficiaries are told that their healing was due to their faith."
+Krishna never appears to grow old or age at all in the historical depictions of the Puranas despite passing of several decades, but there are grounds for a debate whether this indicates that he has no material body, since battles and other descriptions of the Mahabhārata epic show clear indications that he seems to be subject to the limitations of nature.[95] While battles apparently seem to indicate limitations, Mahabharata also shows in many places where Krishna is not subject to any limitations through episodes Duryodhana trying to arrest Krishna where his body burst into fire showing all creation within him.[96] Krishna is also explicitly described as without deterioration elsewhere."
         </item>
 
         <item>
-            "At about the middle of each of the three Synoptic Gospels, two related episodes mark a turning point in the narrative: the Confession of Peter and the Transfiguration of Jesus.[130][162] These events mark the beginnings of the gradual disclosure of the identity of Jesus to his disciples and his prediction of his own suffering and death.[118][119][130]
+            "The worship of Krishna is part of Vaishnavism, which regards Vishnu as the supreme God and venerates his associated avatars, their consorts, and related saints and teachers. Krishna is especially looked upon as a full manifestation of Vishnu, and as one with Vishnu himself.[98] However the exact relationship between Krishna and Vishnu is complex and diverse,[99] where Krishna is sometimes considered an independent deity, supreme in his own right.[100] Out of many deities, Krishna is particularly important, and traditions of Vaishnava lines are generally centered either on Vishnu or on Krishna, as supreme. The term Krishnaism has been used to describe the sects of Krishna, reserving the term Vaishnavism for sects focusing on Vishnu in which Krishna is an avatar, rather than as a transcendent Supreme Being.[101]
 
-In his Confession, Peter tells Jesus, "You are the Messiah, the Son of the living God."[163][164][165] Jesus affirms that Peter\'s confession is divinely revealed truth.[166][167]
-
-In the Transfiguration (Matthew 17:1–9, Mark 9:2–8, and Luke 9:28–36),[118][119][130] Jesus takes Peter and two other apostles up an unnamed mountain, where "he was transfigured before them, and his face shone like the sun, and his clothes became dazzling white."[168] A bright cloud appears around them, and a voice from the cloud says, "This is my Son, the Beloved; with him I am well pleased; listen to him" (Matthew 17:1–9).[118] In 2 Peter 1:16-18, Peter himself affirms that he witnessed Jesus\' Transfiguration, stating that the apostolic tradition is based on eyewitness testimony.[169]
-
-The Transfiguration is one of the important events that the Gospel of John omits."
+All Vaishnava traditions recognise Krishna as an avatar of Vishnu; others identify Krishna with Vishnu; while traditions, such as Gaudiya Vaishnavism,[102][103] Vallabha Sampradaya and the Nimbarka Sampradaya, regard Krishna as the Svayam Bhagavan, original form of God.[104][105][106][107][108] Swaminarayan, the founder of the Swaminarayan Sampraday also worshipped Krishna as God himself. Greater Krishnaism corresponds to the second and dominant phase of Vaishnavism, revolving around the cults of the Vasudeva, Krishna, and Gopala of late Vedic period.[109] Today the faith has a significant following outside of India as well."
         </item>
 
         <item>
-            "The description of the last week of the life of Jesus (often called Passion Week) occupies about one third of the narrative in the canonical gospels,[94] starting with Jesus\' Triumphal entry into Jerusalem and ending with his Crucifixion."
+            "The deity Krishna-Vasudeva (kṛṣṇa vāsudeva Krishna, the son of Vasudeva) is historically one of the earliest forms of worship in Krishnaism and Vaishnavism.[6][35] It is believed to be a significant tradition of the early history of the worship of Krishna in antiquity.[7][111] This tradition is considered as earliest to other traditions that led to amalgamation at a later stage of the historical development. Other traditions are Bhagavatism and the cult of Gopala, that along with the cult of Bala Krishna form the basis of current tradition of monotheistic religion of Krishna.[112][113] Some early scholars would equate it with Bhagavatism,[7] and the founder of this religious tradition is believed to be Krishna, who is the son of Vasudeva, thus his name is Vāsudeva; he is said to be historically part of the Satvata tribe, and according to them his followers called themselves Bhagavatas and this religion had formed by the 2nd century BC (the time of Patanjali), or as early as the 4th century BC according to evidence in Megasthenes and in the Arthasastra of Kautilya, when Vāsudeva was worshiped as supreme deity in a strongly monotheistic format, where the supreme being was perfect, eternal and full of grace.[7] In many sources outside of the cult, the devotee or bhakta is defined as Vāsudevaka.[114] The Harivamsa describes intricate relationships between Krishna Vasudeva, Sankarsana, Pradyumna and Aniruddha that would later form a Vaishnava concept of primary quadrupled expansion, or avatar."
         </item>
 
         <item>
-            "In the Synoptics, the last week in Jerusalem is the conclusion of the journey through Perea and Judea that Jesus began in Galilee.[133] Jesus rides a young donkey into Jerusalem, reflecting an oracle from the Book of Zechariah in which the Jews\' humble king enters Jerusalem this way (Zechariah 9:9).[67] People along the way lay cloaks and small branches of trees (known as palm fronds) in front of him and sing part of Psalm 118:25–26.[171][172][173]
+            "Bhakti, meaning devotion, is not confined to any one deity. However Krishna is an important and popular focus of the devotional and ecstatic aspects of Hindu religion, particularly among the Vaishnava sects.[102][116] Devotees of Krishna subscribe to the concept of lila, meaning 'divine play', as the central principle of the Universe. The lilas of Krishna, with their expressions of personal love that transcend the boundaries of formal reverence, serve as a counterpoint to the actions of another avatar of Vishnu: Rama, He of the straight and narrow path of maryada, or rules and regulations.[103]
 
-Jesus next expels the money changers from the Temple, accusing them of turning it into a den of thieves through their commercial activities. Jesus then prophesies about the coming destruction, including false prophets, wars, earthquakes, celestial disorders, persecution of the faithful, the appearance of an "abomination of desolation," and unendurable tribulations (Mark 13:1–23). The mysterious "Son of Man," he says, will dispatch angels to gather the faithful from all parts of the earth (Mark 13:24–27). Jesus warns that these wonders will occur in the lifetimes of the hearers (Mark 13:28–32).[125] In John, the Cleansing of the Temple occurs at the beginning of Jesus\' ministry instead of the end John 2:13–16.[90]
-
-Also in the Synoptics, Jesus comes into conflict with the Jewish elders, such as when they question his authority, and he criticizes them and calls them hypocrites.[171][173] Judas Iscariot, one of the twelve apostles, secretly strikes a bargain with the Jewish elder, agreeing to betray Jesus to them for 30 silver coins.[174][175]
-
-The Gospel of John recounts of two other feasts in which Jesus taught in Jerusalem before the Passion Week (John 7:1–10:42).[108] He returns near Jerusalem, in Bethany, when he raises Lazarus from the dead, which increases the tension between him and the authorities.[133] The authorities then conspire to kill him (John 11).[108] Raising Lazarus is Jesus\' most potent sign yet.[90] In Bethany, Mary of Bethany anoints Jesus\' feet, foreshadowing his entombment.[176] Jesus then makes his Messianic entry into Jerusalem.[108] The cheering crowds greeting Jesus as he enters Jerusalem add to the animosity between him and the establishment.[133] In John, Jesus has already cleansed the Temple during an earlier Passover visit to Jerusalem. John next recounts Jesus\' Last Supper with his disciples."
+The bhakti movements devoted to Krishna became prominent in southern India in the 7th to 9th centuries AD. The earliest works included those of the Alvar saints of the Tamil country.[117] A major collection of their works is the Divya Prabandham. The Alvar Andal's popular collection of songs Tiruppavai, in which she conceives of herself as a gopi, is the most famous of the oldest works in this genre.[118][119] [120] Kulasekaraazhvaar's Mukundamala was another notable work of this early stage."
         </item>
 
         <item>
-            "The Last Supper is the final meal that Jesus shares with his 12 apostles in Jerusalem before his crucifixion. The Last Supper is mentioned in all four canonical gospels; Paul\'s First Epistle to the Corinthians (11:23–26) also refers to it.[58][59][177] During the meal, Jesus predicts that one of his apostles will betray him.[178] Despite each Apostle\'s assertion that he would not betray him, Jesus reiterates that the betrayer would be one of those present. Matthew 26:23–25 and John 13:26–27 specifically identify Judas as the traitor.[58][59][178]
+            "The movement, which started in the 6th-7th century A.D. in the Tamil-speaking region of South India, with twelve Alvar (one immersed in God) saint-poets, who wrote devotional songs. The religion of Alvar poets, which included a woman poet, Andal, was devotion to God through love (bhakti), and in the ecstasy of such devotions they sang hundreds of songs which embodied both depth of feeling and felicity of expressions. The movement originated in South India during the seventh-century CE, spreading northwards from Tamil Nadu through Karnataka and Maharashtra; by the fifteenth century, it was established in Bengal and northern India.
+            While the learned sections of the society well versed in Sanskrit could enjoy works like Gita Govinda or Bilvamangala's Krishna-Karnamritam, the masses sang the songs of the devotee-poets, who composed in the regional languages of India. These songs expressing intense personal devotion were written by devotees from all walks of life. The songs of Meera and Surdas became epitomes of Krishna-devotion in north India.
+            These devotee-poets, like the Alvars before them, were aligned to specific theological schools only loosely, if at all. But by the 11th century AD, Vaishnava Bhakti schools with elaborate theological frameworks around the worship of Krishna were established in north India. Nimbarka (11th century AD), Vallabhacharya (15th century AD) and (Lord Sri Chaitanya Mahaprabhu an incarnation of Lord Sri Krishna according to the Bhavishya Purana) (16th century AD) all inspired by the teachings of Madhvacharya (11th century AD) were the founders of the most influential schools. These schools, namely Nimbarka Sampradaya, Vallabha Sampradaya and Gaudiya Vaishnavism respectively, see Krishna as the supreme God.
 
-In the Synoptics, Jesus takes bread, breaks it, and gives it to the disciples, saying, "This is my body, which is given for you". He then has them all drink from a cup, saying, "This cup that is poured out for you is the new covenant in my blood" (Luke 22:19–20).[58][179] The Christian sacrament or ordinance of the Eucharist is based on these events.[180] Although the Gospel of John does not include a description of the bread-and-wine ritual during the Last Supper, most scholars agree that John 6:22–59 (the Bread of Life Discourse) has a eucharistic character and resonates with the institution narratives in the Synoptic Gospels and in the Pauline writings on the Last Supper.[181]
-
-In all four gospels, Jesus predicts that Peter will deny knowledge of him three times before the rooster crows the next morning.[182][183] In Luke and John, the prediction is made during the Supper (Luke 22:34, John 22:34). In Matthew and Mark, the prediction is made after the Supper; Jesus also predicts that all his disciples will desert him (Matthew 26:31–34, Mark 14:27–30).[184] The Gospel of John provides the only account of Jesus washing his disciples\' feet before the meal.[103] John also includes a long sermon by Jesus, preparing his disciples (now without Judas) for his departure. Chapters 14–17 of the Gospel of John are known as the Farewell Discourse and are a significant source of Christological content."
+In the Deccan, particularly in Maharashtra, saint poets of the Varkari sect such as Dnyaneshwar, Namdev, Janabai, Eknath and Tukaram promoted the worship of Vithoba,[26] a local form of Krishna, from the beginning of the 13th century until the late 18th century.[5] In southern India, Purandara Dasa and Kanakadasa of Karnataka composed songs devoted to the Krishna image of Udupi. Rupa Goswami of Gaudiya Vaishnavism, has compiled a comprehensive summary of bhakti named Bhakti-rasamrita-sindhu."
         </item>
 
         <item>
-            "After the Last Supper, Jesus takes a walk to pray, and then Judas and the authorities come and arrest him.
-
-In Mark, they go to the garden of Gethsemane,[184] where Jesus prays to be spared his coming ordeal. His disciples fall asleep while they should be watching (Mark 37–41). Then Judas comes with an armed mob, sent by the chief priests, scribes and elders.[125] He kisses Jesus to identify him to the crowd, which then arrests Jesus.[184] In an attempt to stop them, one of Jesus\' disciples uses a sword to cut off the ear of a man in the crowd.[184] After Jesus\' arrest, his disciples go into hiding, and Peter, when questioned, thrice denies knowing Jesus.[184] After the third denial, he hears the rooster crow and recalls the prediction as Jesus turns to look at him. Peter then weeps bitterly.[182]
-In Matthew, Jesus criticizes the disciple\'s attack with the sword, enjoining his disciples not to resist his arrest. He says, "All who take the sword will perish by the sword" (Matthew 26:52).
-In Luke, Jesus goes to the Mount of Olives to pray,[184] and Jesus miraculously heals the ear that a disciple severed (Luke 22:51).
-In John, Jesus doesn\'t pray to be spared his crucifixion,[187] as the gospel portrays him as scarcely touched by such human weakness.[187] The people who arrest him are soldiers and Jewish officers (John 18:3). Instead of being betrayed by a kiss, Jesus proclaims his identity, and when he does, the soldiers and officers fall to the ground (John 18:4–7). The gospel identifies Peter as the disciple who used the sword, and Jesus rebukes him for it (John 18:10–11)."
+            "In 1965, the Krishna-bhakti movement had spread outside India when its founder, Bhaktivedanta Swami Prabhupada, (who was instructed by his guru, Bhaktisiddhanta Sarasvati Thakura) traveled from his homeland in West Bengal to New York City. A year later in 1966, after gaining many followers, he was able to form the International Society for Krishna Consciousness (ISKCON), popularly known as the Hare Krishna movement. The purpose of this movement was to write about Krishna in English and to share the Gaudiya Vaishnava philosophy with people in the Western world by spreading the teachings of the saint Chaitanya Mahaprabhu. In an effort to gain attention, followers chanted the names of God in public locations. This chanting was known as hari-nama sankirtana and helped spread the teaching. Additionally, the practice of distributing prasad or sanctified food worked as a catalyst in the dissemination of his works. In the Hare Krishna movement, Prasad was a vegetarian dish that would be first offered to Krishna. The food’s proximity to Krishna added a spiritual effect, and was seen to counteract material contamination affecting the soul. Sharing this sanctified food with the public, in turn, enabled the movement to gain new recruits and further spread these teachings."
         </item>
 
         <item>
-            "After his arrest, Jesus is taken to the Sanhedrin, a Jewish judicial body.[188] The gospel accounts differ on the details of the trials.[189] In Matthew 26:57, Mark 14:53 and Luke 22:54, Jesus is taken to the house of the high priest, Caiaphas, where he is mocked and beaten that night. Early the next morning, the chief priests and scribes lead Jesus away into their council.[190][191][192] John 18:12–14 states that Jesus is first taken to Annas, Caiaphas\' father-in-law, and then to the high priest.[190][191][192]
+            "In South India, Vaishnavas usually belong to the Sri Sampradaya[citation needed]. The acharyas of the Sri Sampradaya have written reverentially about Krishna in most of their works like the Thiruppavai by Andal[124] and Gopala Vimshati by Vedanta Desika.[125] In South India, devotion to Krishna, as an avatar of Vishnu, spread in the face of opposition to Buddhism, Shaktism, and Shaivism and ritualistic Vedic sacrifices. The acharyas of the Sri Sampradaya like Manavala Mamunigal, Vedanta Desika strongly advocated surrender to Vishnu as the aim of the Vedas. Out of 108 Divya Desams there are 97 Divya Desams in South India.
 
-A depiction of Jesus\' public trial
-Ecce homo! Antonio Ciseri\'s 1871 depiction of Pontius Pilate presenting Jesus to the public
-During the trials Jesus speaks very little, mounts no defense, and gives very infrequent and indirect answers to the priests\' questions, prompting an officer to slap him. In Matthew 26:62 Jesus\' unresponsiveness leads Caiaphas to ask him, "Have you no answer?"[190][191][192] In Mark 14:61 the high priest then asks Jesus, "Are you the Messiah, the Son of the Blessed One?" Jesus replies, "I am", and then predicts the coming of the Son of Man.[21] This provokes Caiaphas to tear his own robe in anger and to accuse Jesus of blasphemy. In Matthew and Luke, Jesus\' answer is more ambiguous:[21][193] in Matthew 26:64 he responds, "You have said so", and in Luke 22:70 he says, "You say that I am".[194][195]
-
-They take Jesus to Pilate\'s Court, but Pilate proves extremely reluctant to condemn Jesus, so it is the Jewish elders who are to blame for Jesus\' crucifixion.[196] The Jewish elders ask the Roman governor Pontius Pilate to judge and condemn Jesus, accusing him of claiming to be the King of the Jews.[192] The use of the word "king" is central to the discussion between Jesus and Pilate. In John 18:36 Jesus states, "My kingdom is not from this world", but he does not unequivocally deny being the King of the Jews.[197][198] In Luke 23:7–15 Pilate realizes that Jesus is a Galilean, and thus comes under the jurisdiction of Herod Antipas.[199][200] Pilate sends Jesus to Herod to be tried,[201] but Jesus says almost nothing in response to Herod\'s questions. Herod and his soldiers mock Jesus, put an expensive robe on him to make him look like a king, and return him to Pilate,[199] who then calls together the Jewish elders and announces that he has "not found this man guilty".[201]
-
-Observing a Passover custom of the time, Pilate allows one prisoner chosen by the crowd to be released. He gives the people a choice between Jesus and a murderer called Barabbas. Persuaded by the elders (Matthew 27:20), the mob chooses to release Barabbas and crucify Jesus.[202] Pilate writes a sign in Hebrew, Latin, and Greek that reads "Jesus of Nazareth, the King of the Jews" (abbreviated as INRI in depictions) to be affixed to Jesus\' cross (John 19:19–20),[203] then scourges Jesus and sends him to be crucified. The soldiers place a Crown of Thorns on Jesus\' head and ridicule him as the King of the Jews. They beat and taunt him before taking him to Calvary,[204] also called Golgotha, for crucifixion."
+Due to strong vaishnava influence in Tamil Nadu, Karnataka, Andhra Pradesh and Kerala, these states have many major Krishna temples and Janmashtami is one of the widely celebrated festivals in South India."
         </item>
 
         <item>
-            "Jesus\' crucifixion is described in all four canonical gospels. After the trials, Jesus is led to Calvary carrying his cross; the route traditionally thought to have been taken is known as the Via Dolorosa. The three Synoptic Gospels indicate that Simon of Cyrene assists him, having been compelled by the Romans to do so.[206][207] In Luke 23:27–28 Jesus tells the women in the multitude of people following him not to weep for him but for themselves and their children.[206] At Calvary, Jesus is offered a concoction usually offered as a painkiller. According to Matthew and Mark, he refuses it.[206][207]
+            "While discussing the origin of Indian theatre, Horwitz talks about the mention of the Krishna story in Patanjali's Mahabhashya (c. 150 BC), where the episodes of slaying of Kamsa (Kamsa Vadha) and Binding of the heaven storming titan (Bali Bandha) are described.[126] Bhasa's Balacharitam and Dutavakyam (c. 400 BC) are the only Sanskrit plays centered on Krishna written by a major classical dramatist. The former dwells only on his childhood exploits and the latter is a one-act play based on a single episode from the Mahābhārata when Krishna tries to make peace between the warring cousins.[127]
 
-The soldiers then crucify Jesus and cast lots for his clothes. Above Jesus\' head on the cross is Pilate\'s inscription, "Jesus of Nazareth, the King of the Jews"; soldiers and passersby mock him about it. Jesus is crucified between two convicted thieves, one of whom rebukes Jesus, while the other defends him.[206][208] The Roman soldiers break the two thieves\' legs (a procedure designed to hasten death in a crucifixion), but they do not break those of Jesus, as he is already dead. In John 19:34, one soldier pierces Jesus\' side with a lance, and blood and water flow out.[209] In Matthew 27:51–54, when Jesus dies, the heavy curtain at the Temple is torn and an earthquake breaks open tombs. Terrified by the events, a Roman centurion states that Jesus was the Son of God.[206][210]
+From the 10th century AD, with the growing bhakti movement, Krishna became a favorite subject of the arts. The songs of the Gita Govinda became popular across India, and had many imitations. The songs composed by the Bhakti poets added to the repository of both folk and classical singing.
 
-On the same day, Joseph of Arimathea, with Pilate\'s permission and with Nicodemus\' help, removes Jesus\' body from the cross, wraps him in a clean cloth, and buries him in a new rock-hewn tomb.[206] In Matthew 27:62–66, on the following day the chief Jewish priests ask Pilate for the tomb to be secured, and with Pilate\'s permission the priests place seals on the large stone covering the entrance and post a guard."
-        </item>
+The classical Indian dances, especially Odissi and Manipuri, draw heavily on the story. The 'Rasa lila' dances performed in Vrindavan shares elements with Kathak, and the Krisnattam, with some cycles, such as Krishnattam, traditionally restricted to the Guruvayur temple, the precursor of Kathakali.[128]
 
-        <item>
-            "In all four gospels, Mary Magdalene goes to Jesus\' tomb on Sunday morning and is surprised to find it empty. Jesus, she learns, has risen from the dead. Despite Jesus\' teaching, the disciples hadn\'t understood that Jesus would rise again.[212] After the discovery of the empty tomb, Jesus makes a series of appearances to the disciples.[62]
+The Sattriya dance, founded by the Assamese Vaishnava saint Sankardeva, extols the virtues of Krishna. Medieval Maharashtra gave birth to a form of storytelling known as the Hari-Katha, that told Vaishnava tales and teachings through music, dance, and narrative sequences, and the story of Krishna one of them. This tradition spread to Tamil Nadu and other southern states, and is now popular in many places throughout India.
 
-In Mark, Salome and a second Mary are with her (Mark 16:1). A young man in a white robe (an angel) tells them that Jesus will meet his disciples in Galilee, as he had told them (referring to Mark 14:28).[67] The gospel then ends abruptly.[125]
-In Matthew, there\'s an earthquake when the women discover the tomb, and an angel of the Lord descends from heaven, terrifying the guards.[212] Jesus appears to the eleven remaining disciples in Galilee and commissions them to baptize all nations in the name of the Father, Son and Holy Spirit.[103]
-In Luke, Mary and the other women meet two angels, and the eleven disciples do not believe their story (Luke 25:1–12).[212] Jesus appears that same day to his disciples in Jerusalem (Luke 24:13–43). Although he appears and vanishes mysteriously, he also eats and lets them touch him to prove that he is not a spirit. He repeats his command to bring his teaching to all nations (Luke 24:51).[213]
-In John, Mary is alone at first, but Peter and the beloved disciple come and see the tomb as well. Jesus then appears to Mary at the empty tomb.[212] He later appears to the disciples, breathes on them, and gives them the power to forgive and retain sins.[90] In a second visit, he proves to a doubting disciple ("Doubting Thomas") that he is flesh and blood.[90] The catch of 153 fish is a miracle by the Sea of Galilee, after which Jesus encourages Peter to serve his followers.[62][214]
-Jesus\' Ascension into Heaven is described in Luke 24:50-53, Acts 1:1–11 and mentioned in 1 Timothy 3:16. In Acts, forty days after the Resurrection, as the disciples look on, "he was lifted up, and a cloud took him out of their sight". 1 Peter 3:22 states that Jesus has "gone into heaven and is at the right hand of God".[62]
-
-The Acts of the Apostles describes several appearances of Jesus in visions after his Ascension. Acts 7:55 describes a vision experienced by Stephen just before his death.[215] On the road to Damascus, the Apostle Paul is converted to Christianity after seeing a blinding light and hearing a voice saying, "I am Jesus, whom you are persecuting" (Acts 9:5).[216] In Acts 9:10–18, Jesus instructs Ananias of Damascus to heal Paul. It is the last conversation with Jesus reported in the Bible until the Book of Revelation,[216] in which a man named John receives a revelation from Jesus concerning the last days,[217] when Jesus is predicted to return victoriously (Revelation 19:11–21)."
-        </item>
-
-        <item>
-            "Prior to the Enlightenment, the gospels were usually regarded as accurate historical accounts, but since then scholars have emerged who question the reliability of the gospels and draw a distinction between the Jesus described in the gospels and the Jesus of history.[218] Since the 18th century, three separate scholarly quests for the historical Jesus have taken place, each with distinct characteristics and based on different research criteria, which were often developed during the quest that applied them.[219][220] Scholars have studied and debated a number of issues concerning the historical Jesus, such as his existence, the origins and historical reliability of the gospels and other sources, and the precise portrait of the historical figure.
-
-Approaches to the historical reconstruction of the life of Jesus have varied from the "maximalist" approaches of the 19th century, in which the gospel accounts were accepted as reliable evidence wherever it is possible, to the "minimalist" approaches of the early 20th century, where hardly anything about Jesus was accepted as historical.[221] In the 1950s, as the second quest for the historical Jesus gathered pace, the minimalist approaches faded away, and in the 21st century, minimalists such as Price are a very small minority.[222][223] Although a belief in the inerrancy of the gospels cannot be supported historically, many scholars since the 1980s have held that, beyond the few facts considered to be historically certain, certain other elements of Jesus\' life are "historically probable".[222][224][225] Modern scholarly research on the historical Jesus thus focuses on identifying the most probable elements."
-        </item>
-
-        <item>
-            "In AD 6, Judea, Idumea, and Samaria were transformed from a client kingdom of the Roman Empire into an imperial province. A Roman prefect, rather than a client king, ruled the land. The prefect ruled from Caesarea, leaving Jerusalem to be run by the high priest. As an exception, the prefect came to Jerusalem during religious festivals, when religious and patriotic enthusiasm sometimes inspired unrest or uprisings. Gentile lands surrounded the Jewish territories of Judea and Galilee, but Roman law and practice allowed Jews to remain separate legally and culturally. Galilee was evidently prosperous, and poverty was limited enough that it did not threaten the social order. Jewish religion was unusual in that Jews acknowledged only one God, they considered themselves chosen by him, and they wanted Gentiles to accept their God as the only God. Jews based their faith and religious practice on the Torah, five books said to have been given by God to Moses. The three prominent religious parties were Pharisees, Essenes, and Sadducees. Together these parties represented only a small fraction of the population. Most Jews looked forward to a time that God would deliver them from their pagan rulers, possibly through war against the Romans."
-        </item>
-
-        <item>
-            "Historians face a formidable challenge when they analyze the canonical Gospels.[230] The Gospels are not biographies in the modern sense, and the authors explain Jesus\' theological significance and recount his public ministry while omitting many details of his life.[230] The supernatural events associated with Jesus\' death and resurrection make the challenge even more difficult.[230] Scholars use a number of criteria, such as the criterion of multiple attestation, the criterion of coherence, and the criterion of discontinuity to judge the historicity of events.[231] The historicity of an event also depends on the reliability of the source. Mark, the earliest written gospel, has been considered for many decades the most historically accurate.[232] John, the latest written gospel, differs considerably from the Synoptic Gospels, and thus is generally considered less reliable, although more and more scholars now also recognize that it may contain a core of older material as historically valuable as the Synoptic tradition or even more so.[233]
-
-The non-canonical Gospel of Thomas is an independent witness to many of the Jesus\' parables and aphorisms.[234] For example, Thomas confirms that Jesus blessed the poor and that this saying circulated independently before being combined with similar sayings in the Q document.[234] Other select non-canonical Christian texts may also have historical value.[77]
-
-Non-Christian sources used to establish the historical existence of Jesus include the works of first-century historians Josephus and Tacitus.[235][229][236] Josephus scholar Louis H. Feldman has stated that "few have doubted the genuineness" of Josephus\' reference to Jesus in book 20 of the Antiquities of the Jews, and it is disputed only by a small number of scholars.[237][238] Tacitus referred to Christ and his execution by Pilate in book 15 of his work Annals. Scholars generally consider Tacitus\'s reference to the execution of Jesus to be both authentic and of historical value as an independent Roman source.[239]
-
-Non-Christian sources are valuable in two ways. First, they show that even neutral or hostile parties never evince any doubt that Jesus actually existed. Second, they present a rough picture of Jesus that is compatible with that found in the Christian sources: that Jesus was a teacher, had a reputation as a miracle worker, had a brother James, and died a violent death.[11]
-
-Archeology helps scholars better understand Jesus\' social world.[240] Recent archeological work, for example, indicates that Capernaum, a city important in Jesus\' ministry, was poor and small, without even a forum or an agora.[241][242] This archaeological discovery resonates well with the scholarly view that Jesus advocated reciprocal sharing among the destitute in that area of Galilee."
-        </item>
-
-        <item>
-            "Most scholars agree that Jesus was a Galilean, born around the beginning of the first century, who died between AD 30 and 36 in Judea.[243][244] The designation for the first century, anno domini, or "in the year of the lord", is in reference to the birth of Jesus,[245] despite modern consensus that he was born before this time. The general scholarly consensus is that Jesus was a contemporary of John the Baptist and was crucified by the Roman governor Pontius Pilate, who held office from AD 26 to 36.[26]
-
-In 1919, Karl Ludwig Schmidt\'s book Der Rahmen der Geschichte Jesu ("The Framework of the Story of Jesus") showed that the chronology of Mark is the invention of the writer. Using form criticism, Schmidt showed that an editor had assembled the narrative out of individual scenes that did not originally have a chronological order. This finding challenged historians\' ability to discern a historical Jesus and helped bring about a decades-long collapse in interest in the topic."
-        </item>
-        <item>
-            "Historians have reached a limited consensus on the basic of Jesus\' life.
-
-Family
-Jesus was born to Mary and Joseph, and he grew up in Nazareth in Galilee.[247] Historians generally consider Joseph to be Jesus\' father.[248][249][250] They assert that the doctrine of Jesus\' virgin birth arose from theological development rather than from historical events.[248]
-
-Baptism
-Most modern scholars consider Jesus\' baptism to be a definite historical fact, along with his crucifixion.[7] James D.G. Dunn states that they "command almost universal assent" and "rank so high on the \'almost impossible to doubt or deny\' scale of historical facts" that they are often the starting points for the study of the historical Jesus.[7] Scholars adduce the criterion of embarrassment, saying that early Christians would not have invented a baptism that might imply that Jesus committed sins and wanted to repent.[251][252]
-
-Ministry
-Most scholars hold that Jesus lived in Galilee and Judea and did not preach or study elsewhere.[253] Amy-Jill Levine states that there is "a consensus of sorts" on the basic outline of Jesus\' life, in that most scholars agree that Jesus was baptized by John the Baptist, debated with Jewish authorities on the subject of God, performed some healings, taught in parables, gathered followers, and was crucified on Pilate\'s orders.[26] His parables about the Kingdom of God used striking and original imagery, such as likening it to a tiny mustard seed or to leaven.[20] Critics considered Jesus\' ministry to be scandalous because he feasted with sinners, fraternized with women, and allowed his followers to pluck grain on the Sabbath.[20]
-
-Crucifixion
-Scholars consider Jesus\' crucifixion to be factual[7] because early Christians would not have invented the painful death of their leader.[254] It\'s more likely that the Sadducean high-priestly leaders of the Temple had Jesus executed for political reasons than for his teaching and healing.[123] They may have regarded him as a threat to stability, especially after he caused a disturbance at the Temple.[123][255][256] Other factors, such as Jesus\' entry into Jerusalem, may have contributed to this decision.[257] Pilate most likely saw Jesus\' reference to the Kingdom of God as a threat to Roman authority and worked with the Temple elites to have Jesus executed.[258]
-
-Resurrection
-After Jesus\' death, his followers experienced him as risen from the dead, although the details are unclear.[259] The Gospel reports contradict each other, which suggests competition among those claiming to have seen him first rather than deliberate fraud.[259] His followers formed a community to wait for Jesus to return and found his kingdom.[260] Much about the historical Jesus is beyond historical certainty, especially the nature of these resurrection appearances.[261] This community later separated from Judaism and became the Christian church.[262]
-
-The Italian polymath Gaetano De Sanctis[263] said that the empty tomb of Jesus was proven by the Nazareth Inscription,[264] which is a marble tablet inscribed in Greek with an edict from an unnamed Caesar ordering capital punishment for anyone caught disturbing graves or tombs."
-        </item>
-
-        <item>
-            "Modern research on the historical Jesus has not led to a unified picture of the historical figure, partly because of the variety of academic traditions represented by the scholars.[266] Ben Witherington states that "there are now as many portraits of the historical Jesus as there are scholarly painters".[267] Witherington argues that any valid portrait must recognize Jesus\' self-identity as a Jew, and he promotes a portrait of Jesus as a prophetic sage in the Jewish wisdom tradition.[268] Given the scarcity of historical sources, it is generally difficult for any scholar to construct a portrait of Jesus that can be considered historically valid beyond the basic elements of his life.[83][84] The portraits of Jesus constructed in these quests often differ from each other, and from the image portrayed in the gospels.[269][270]
-
-Contemporary scholarship, representing the "third quest," places Jesus firmly in the Jewish tradition. Leading scholars in the "third quest" include E. P. Sanders, Geza Vermes, Gerd Theissen, Christoph Burchard, and John Dominic Crossan. Jesus is seen as the founder of, in the words of E. P. Sanders, a \'"renewal movement within Judaism." This scholarship suggests a continuity between Jesus\' life as a wandering charismatic and the same lifestyle carried forward by followers after his death. The main criterion used to discern historical details in the "third quest" is the criterion of plausibility, relative to Jesus\' Jewish context and to his influence on Christianity. The main disagreement in contemporary research is whether Jesus was apocalyptic. Most scholars conclude that he was an apocalyptic preacher, like John the Baptist and the apostle Paul. In contrast, certain prominent North American scholars, such as Burton Mack and John Dominic Crossan, advocate for a non-eschatological Jesus, one who is more of a Cynic sage than an apocalyptic preacher.[27] In addition to portraying Jesus as an apocalyptic prophet, a charismatic healer or a cynic philosopher, some scholars portray him as the true Messiah or an egalitarian prophet of social change.[271][272] However, the attributes described in the portraits sometimes overlap, and scholars who differ on some attributes sometimes agree on others.[273]
-
-Since the 18th century, scholars have occasionally put forth that Jesus was a political national messiah, but the evidence for this portrait is negligible.[274] Likewise, the proposal that Jesus was a Zealot does not fit with the earliest strata of the Synoptic tradition."
-        </item>
-
-        <item>
-            "Jesus grew up in Galilee and much of his ministry took place there.[277] The languages spoken in Galilee and Judea during the first century AD include Jewish Palestinian Aramaic, Hebrew, and Greek, with Aramaic being predominant.[278][279] There is substantial consensus that Jesus gave most of his teachings in Aramaic.[280]
-
-Modern scholars agree that Jesus was a Jew of first-century Palestine,[281][282][283] Ioudaios in New Testament Greek,[h] a term which in the contemporary context may refer to religion (Second Temple Judaism), ethnicity (of Judea), or both.[285] In a review of the state of modern scholarship, Amy-Jill Levine writes that the entire question of ethnicity is "fraught with difficulty," and that "beyond recognizing that \'Jesus was Jewish\', rarely does the scholarship address what being \'Jewish\' means".[286]
-
-The New Testament gives no description of the physical appearance of Jesus before his death—it is generally indifferent to racial appearances and does not refer to the features of the people it mentions.[287][288][289] Jesus probably looked like a typical Jew of his time and according to some scholars was likely to have had a sinewy appearance due to his ascetic and itinerant lifestyle.[290] James H. Charlesworth states Jesus\' face was "most likely dark brown and sun-tanned", and his stature "may have been between five feet five [1.65 m] and five feet seven [1.70 m]"."
-        </item>
-
-        <item>
-            "The Christ myth theory is the hypothesis that Jesus of Nazareth never existed; or if he did, that he had virtually nothing to do with the founding of Christianity and the accounts in the gospels.[292] Different proponents espouse slightly different versions of the Christ myth theory, but all versions go beyond the mainstream view in historical Jesus research, which accepts that many of the events described in the gospels are not historical but which still assumes that the gospels are founded on a basic historical core. The Christ myth theory enjoyed brief popularity in the Soviet Union, where it was supported by Sergey Kovalev, Alexander Kazhdan, Abram Ranovich, Nikolai Rumyantsev, Robert Wipper and Yuri Frantsev.[293] Later, however, several scholars, including Kazhdan, had retracted their views about mythical Jesus[293] and by the end of the 1980s the support for the theory became almost non-existent in Soviet academia.[294]
-
-Despite arguments put forward by authors who have questioned the existence of a historical Jesus, there remains a strong consensus in historical-critical biblical scholarship that a historical Jesus did live in that area and in that time period.[295][296][297][298][299][300][301] However, scholars differ on the historicity of specific episodes described in the Biblical accounts of Jesus,[302] and the only two events subject to "almost universal assent" are that Jesus was baptized by John the Baptist and was crucified by the order of the Roman Prefect Pontius Pilate."
-        </item>
-
-        <item>
-            "Apart from his own disciples and followers, the Jews of Jesus\' day generally rejected him as the Messiah, as do the great majority of Jews today. Christian theologians, ecumenical councils, reformers and others have written extensively about Jesus over the centuries. Christian sects and schisms have often been defined or characterized by their descriptions of Jesus. Meanwhile, Manichaeans, Gnostics, Muslims, Baha\'is, and others have found prominent places for Jesus in their religions.[306][307][308] Jesus has also had detractors, both past and present."
-        </item>
-
-        <item>
-            "Jesus is the central figure of Christianity.[309] Although Christian views of Jesus vary, it is possible to summarize the key beliefs shared among major denominations, as stated in their catechetical or confessional texts.[310][311][312] Christian views of Jesus are derived from various sources, including the canonical gospels and New Testament letters such as the Pauline epistles and the Johannine writings. These documents outline the key beliefs held by Christians about Jesus, including his divinity, humanity, and earthly life, and that he is the Christ and the Son of God.[313] Despite their many shared beliefs, not all Christian denominations agree on all doctrines, and both major and minor differences on teachings and beliefs have persisted throughout Christianity for centuries.[314]
-
-The New Testament states that the resurrection of Jesus is the foundation of the Christian faith (1 Corinthians 15:12–20).[315] Christians believe that through his sacrificial death and resurrection, humans can be reconciled with God and are thereby offered salvation and the promise of eternal life.[31] Recalling the words of John the Baptist on the day after Jesus\' baptism, these doctrines sometimes refer to Jesus as the Lamb of God, who was crucified to fulfill his role as the servant of God.[316][317] Jesus is thus seen as the new and last Adam, whose obedience contrasts with Adam\'s disobedience.[318] Christians view Jesus as a role model, whose God-focused life believers are encouraged to imitate.[309]
-
-Most Christians believe that Jesus was both human and the Son of God. While there has been theological debate over his nature,[i] Some early Christians viewed Jesus as subordinate to the Father, and others considered him an aspect of the Father rather than a separate person.[21][319] The Church resolved the issues in ancient councils, which established the Holy Trinity, with Jesus both fully human and fully God.[21] Trinitarian Christians generally believe that Jesus is the Logos, God\'s incarnation and God the Son, both fully divine and fully human. However, the doctrine of the Trinity is not universally accepted among Christians.[320][321] With the Reformation, Christians such as Michael Servetus and the Socinians started questioning the ancient creeds that had established Jesus\' two natures.[21] Nontrinitarian Christian groups include The Church of Jesus Christ of Latter-day Saints,[322] Unitarians[319] and Jehovah\'s Witnesses.
-
-Christians revere not only Jesus himself, but also his name. Devotions to the Holy Name of Jesus go back to the earliest days of Christianity.[323][324] These devotions and feasts exist in both Eastern and Western Christianity.[324]
-
-In the 20th century, Christian groups became sharply divided in terms of how much they support historical and critical inquiry into the person of Jesus. Protestant denominations allow some such investigation but differ in how far the investigation may go. The Roman Catholic Church drew definite limits, but Catholic scholars have engaged in considerable critical study within those limits."
-        </item>
-
-        <item>
-            "Mainstream Judaism rejects the idea of Jesus being God, or a mediator to God, or part of a Trinity.[325] It holds that Jesus is not the Messiah, arguing that he neither fulfilled the Messianic prophecies in the Tanakh nor embodied the personal qualifications of the Messiah.[326] According to Jewish tradition, there were no prophets after Malachi,[327] who delivered his prophesies in the fifth century BC.[328]
-
-Judaic criticism of Jesus is long-standing. The Talmud, written and compiled from the third to the fifth century AD,[329] includes stories that some consider to be accounts of Jesus. In one such story, Yeshu ha-nozri ("Jesus the Christian"), a lewd apostate, is executed by the Jewish high court for spreading idolatry and practicing magic.[330] The majority of contemporary historians consider that this material provides no information on the historical Jesus.[331] The Mishneh Torah, a late 12th-century work of Jewish law written by Moses Maimonides, states that Jesus is a "stumbling block" who makes "the majority of the world to err and serve a god other than the Lord"."
-        </item>
-
-        <item>
-            "A major figure in Islam, Jesus (commonly transliterated as ʾĪsā) is considered to be a messenger of God (Allah) and the Messiah (al-Masih) who was sent to guide the Children of Israel (Bani Isra\'il) with a new scripture, the Gospel (referred to in Islam as Injil).[38][333] Muslims regard the gospels of the New Testament as inauthentic, and believe that Jesus\' original message was lost or altered and that Muhammad came later to restore it.[334] Belief in Jesus (and all other messengers of God) is a requirement for being a Muslim.[335] The Quran mentions Jesus by name 25 times—more often than Muhammad[336][337]—and emphasizes that Jesus was a mortal human who, like all other prophets, had been divinely chosen to spread God\'s message.[338] Jesus is considered to be neither the incarnation nor the son of God. Islamic texts emphasize a strict notion of monotheism (tawhid) and forbid the association of partners with God, which would be idolatry.[339] The Quran says that Jesus himself never claimed divinity,[340] and predicts that at the Last Judgment, Jesus will deny having ever made such a claim (Quran 5:116).[341] Like all prophets in Islam, Jesus is considered a Muslim.[342]
-
-The Quran describes the annunciation to Mary (Maryam) by an angel that she is to give birth to Jesus while remaining a virgin. It calls the virgin birth a miracle that occurred by the will of God.[343][344] The Quran (21:91 and 66:12) states that God breathed His Spirit into Mary while she was chaste.[343][344] Jesus is called the "Spirit of God" because he was born through the action of the Spirit,[343] but that belief does not imply his pre-existence.[345]
-
-To aid in his ministry to the Jewish people, Jesus was given the ability to perform miracles, by permission of God rather than by his own power.[340] Through his ministry, Jesus is seen as a precursor to Muhammad.[338] According to the Quran, Jesus was not crucified but was physically raised into the heavens by God.[346] To Muslims, it is the ascension rather than the crucifixion that constitutes a major event in the life of Jesus.[347] Most Muslims believe that Jesus will return to earth at the end of time and defeat the Antichrist (ad-Dajjal) by killing him in Lud.[38]
-
-The Ahmadiyya Muslim Community has several distinct teachings about Jesus. Ahmadis believe that he was a mortal man who survived his crucifixion and died a natural death at the age of 120 in Kashmir, India."
-        </item>
-
-        <item>
-            "Bahá\'í teachings consider Jesus to be a manifestation of God, a Bahá\'í concept for prophets[349]—intermediaries between God and humanity, serving as messengers and reflecting God\'s qualities and attributes.[350] The Bahá\'í concept emphasizes the simultaneous qualities of humanity and divinity;[350] thus, it is similar to the Christian concept of incarnation.[349] Bahá\'í thought accepts Jesus as the Son of God.[351] In Bahá\'í thought, Jesus was a perfect incarnation of God\'s attributes, but Bahá\'í teachings reject the idea that divinity was contained with a single human body, stating that, on the contrary, God transcends physical reality.[349]
-
-Bahá\'u\'lláh, the founder of the Bahá\'í Faith, wrote that since each manifestation of God has the same divine attributes, they can be seen as the spiritual "return" of all previous manifestations of God, and the appearance of each new manifestation of God inaugurates a religion that supersedes the former ones, a concept known as progressive revelation.[350] Bahá\'ís believe that God\'s plan unfolds gradually through this process as mankind matures, and that some of the manifestations arrive in specific fulfillment of the missions of previous ones. Thus, Bahá\'ís believe that Bahá\'u\'lláh is the promised return of Christ.[352] Bahá\'í teachings confirm many, but not all, aspects of Jesus as portrayed in the gospels. Bahá\'ís believe in the virgin birth and in the Crucifixion,[353][354] but see the Resurrection and the miracles of Jesus as symbolic."
-        </item>
-
-        <item>
-            "In Christian Gnosticism (now a largely extinct religious movement),[355] Jesus was sent from the divine realm and provided the secret knowledge (gnosis) necessary for salvation. Most Gnostics believed that Jesus was a human who became possessed by the spirit of "the Christ" at his baptism. This spirit left Jesus\' body during the crucifixion, but was rejoined to him when he was raised from the dead. Some Gnostics, however, were docetics, believed that Jesus did not have a physical body, but only appeared to possess one.[356] Manichaeism, a Gnostic sect, accepted Jesus as a prophet, in addition to revering Gautama Buddha and Zoroaster.[357][358]
-
-Some Hindus consider Jesus to be an avatar or a sadhu and point out similarities between Krishna and Jesus\' teachings.[359][360] Paramahansa Yogananda, an Indian guru, taught that Jesus was the reincarnation of Elisha and a student of John the Baptist, the reincarnation of Elijah.[361] Some Buddhists, including Tenzin Gyatso, the 14th Dalai Lama, regard Jesus as a bodhisattva who dedicated his life to the welfare of people.[362] Disciples of the Cao Đài religion worship Jesus Christ as a major religious teacher.[363] He is revealed during communication with Divine Beings as the spirit of their Supreme Being (God the Father) together with other major religious teachers and founders like the Gautama Buddha, Laozi, and Confucius.[364] The New Age movement entertains a wide variety of views on Jesus.[365] Theosophists, from whom many New Age teachings originated,[366] refer to Jesus as the Master Jesus and believe that Christ, after various incarnations, occupied the body of Jesus.[367] Scientologists recognize Jesus (along with other religious figures such as Zoroaster, Muhammad, and Buddha) as part of their "religious heritage".[365][368] Atheists reject Jesus\' divinity, but not all hold a negative estimation of him; Richard Dawkins, for instance, refers to Jesus as "a great moral teacher",[369] while stating in his book The God Delusion, that Jesus is praiseworthy because he did not derive his ethics from biblical scripture.[370]
-
-Jesus had detractors, both past and present, as well. Early critics of Jesus and Christianity included Celsus in the second century and Porphyry in the third.[371][372] In the 19th century, Nietzsche was highly critical of Jesus, whose teachings he considered to be "anti-nature" in their treatment of topics such as sexuality.[373] More contemporary notable critics of Jesus include Sita Ram Goel, Christopher Hitchens, Bertrand Russell, and Dayananda Saraswati. In the 20th century, Russell wrote in Why I Am Not a Christian that Jesus was "not so wise as some other people have been, and He was certainly not superlatively wise".[374] Russell called Jesus’ vindictive nature a defect in his moral character in that Jesus in the Gospels believed in the everlasting punishment of hell, which Russell felt that no one who is "really profoundly humane can believe in".[375] Russell also notes a repeated "vindictive fury against those people who would not listen to His preaching" which he felt "detract[s] from superlative excellence"."
-        </item>
-
-        <item>
-            "Some of the earliest depictions of Jesus at the Dura-Europos church are firmly dated to before 256.[376] Thereafter, despite the lack of biblical references or historical records, a wide range of depictions of Jesus appeared during the last two millennia, often influenced by cultural settings, political circumstances and theological contexts.[275][276][288] As in other Early Christian art, the earliest depictions date to the late second or early third century, and surviving images are found especially in the Catacombs of Rome.[377]
-
-The depiction of Christ in pictorial form was highly controversial in the early church.[378][379][380] From the 5th century onward, flat painted icons became popular in the Eastern Church.[381] The Byzantine Iconoclasm acted as a barrier to developments in the East, but by the ninth century, art was permitted again.[275] The Transfiguration was a major theme in Eastern Christian art, and every Eastern Orthodox monk who had trained in icon painting had to prove his craft by painting an icon depicting it.[382] Icons receive the external marks of veneration, such as kisses and prostration, and they are thought to be powerful channels of divine grace.[381]
-
-Before the Reformation, the crucifix was common in Western Christianity.[383] It is a model of the cross with Jesus crucified on it.[383] The crucifix became the central ornament of the altar in the 13th century, a use that has been nearly universal in Roman Catholic churches until recent times.[383]
-
-Jesus appears as an infant in a manger (feed trough) in Christmas creches, which depict the Nativity scene.[384] He is typically joined by Mary, Joseph, animals, shepherds, angels, and the Magi.[384] Francis of Assisi (1181/82–1226) is credited with popularizing the creche, although he probably did not initiate it.[384] The creche reached its height of popularity in the 17th and 18th centuries in southern Europe.[384]
-
-The Renaissance brought forth a number of artists who focused on depictions of Jesus; Fra Angelico and others followed Giotto in the systematic development of uncluttered images.[275]
-
-The Protestant Reformation brought renewed resistance to imagery, but total prohibition was atypical, and Protestant objections to images have tended to reduce since the 16th century. Although large images are generally avoided, few Protestants now object to book illustrations depicting Jesus.[385][386] The use of depictions of Jesus is advocated by the leaders of denominations such as Anglicans and Catholics[387][388][389] and is a key element of the Eastern Orthodox tradition."
-        </item>
-
-        <item>
-            "The total destruction that ensued with the siege of Jerusalem by the Romans in AD 70 made the survival of items from first century Judea very rare and almost no direct records survive about the history of Judaism from the last part of the first century through the second century.[392][393][j] Margaret M. Mitchell writes that although Eusebius reports (Ecclesiastical History III 5.3) that the early Christians left Jerusalem for Pella just before Jerusalem was subjected to the final lock down, we must accept that no first hand Christian items from the early Jerusalem Church have reached us.[395] However, throughout the history of Christianity a number of relics attributed to Jesus have been claimed, although doubt has been cast on them. The 16th-century Catholic theologian Erasmus wrote sarcastically about the proliferation of relics and the number of buildings that could have been constructed from the wood claimed to be from the cross used in the Crucifixion.[396] Similarly, while experts debate whether Jesus was crucified with three nails or with four, at least thirty holy nails continue to be venerated as relics across Europe.[397]
-
-Some relics, such as purported remnants of the Crown of Thorns, receive only a modest number of pilgrims, while the Shroud of Turin (which is associated with an approved Catholic devotion to the Holy Face of Jesus), have received millions,[398] including popes John Paul II and Benedict XVI.[399][400] There is no scholarly consensus in favor for the authenticity of any relic attributed to Jesus."
+Narayana Tirtha's (17th century AD) Krishna-Lila-Tarangini provided material for the musical plays of the Bhagavata-Mela by telling the tale of Krishna from birth until his marriage to Rukmini. Tyagaraja (18th century AD) wrote a similar piece about Krishna called Nauka-Charitam. The narratives of Krishna from the Puranas are performed in Yakshagana, a performance style native to Karnataka's coastal districts. Many movies in all Indian languages have been made based on these stories. These are of varying quality and usually add various songs, melodrama, and special effects."
         </item>
 
     </string-array>
@@ -413,200 +263,207 @@ Some relics, such as purported remnants of the Crown of Thorns, receive only a m
     <string-array name="quotes_array">
 
         <item>
-            "A new command I give you: Love one another. As I have loved you, so you must love one another."
+            A new command I give you: Love one another. As I have loved you, so you must love one another.
         </item>
         <item>
-            "And know that I am with you always; yes, to the end of time."
+            And know that I am with you always; yes, to the end of time.
         </item>
         <item>
-            "Do not let your hearts be troubled. Trust in God; trust also in me."
+            Do not let your hearts be troubled. Trust in God; trust also in me.
         </item>
         <item>
-            "But I say to you, Love your enemies and pray for those who persecute you, so that you may be sons of your Father who is in heaven; for he makes his sun rise on the evil and on the good, and sends rain on the just and on the unjust."
+            But I say to you, Love your enemies and pray for those who persecute you, so that you may be sons of your Father who is in heaven; for he makes his sun rise on the evil and on the good, and sends rain on the just and on the unjust.
         </item>
         <item>
-            "So I say to you, Ask and it will be given to you; search, and you will find; knock, and the door will be opened for you."
+            So I say to you, Ask and it will be given to you; search, and you will find; knock, and the door will be opened for you.
         </item>
         <item>
-            "For God so loved the World that he gave his only Son, that whoever believes in him should not perish but have eternal life."
+            For God so loved the World that he gave his only Son, that whoever believes in him should not perish but have eternal life.
         </item>
         <item>
             "Do not be anxious about tomorrow, for tomorrow will be anxious for itself. Let the day's own trouble be sufficient for the day."
         </item>
         <item>
-            "Let the one among you who is without sin be the first to cast a stone."
+            Let the one among you who is without sin be the first to cast a stone.
         </item>
         <item>
-            "For everyone who exalts himself will be humbled, and everyone who humbles himself will be exalted."
+            For everyone who exalts himself will be humbled, and everyone who humbles himself will be exalted.
         </item>
         <item>
-            "It is not the healthy who need a doctor, but the sick. I have not come to call the righteous, but sinners to repentance."
+            It is not the healthy who need a doctor, but the sick. I have not come to call the righteous, but sinners to repentance.
         </item>
         <item>
-            "As the Father has loved me, so have I loved you."
+            As the Father has loved me, so have I loved you.
         </item>
         <item>
-            "And, behold, I come quickly; and my reward is with Me, to give every man according as his work shall be. I am Alpha and Omega, the beginning and the end, the first and the last."
+            And, behold, I come quickly; and my reward is with Me, to give every man according as his work shall be. I am Alpha and Omega, the beginning and the end, the first and the last.
         </item>
         <item>
-            "Behold, I stand at the door and knock. If anyone hears my voice and opens the door, I will come in to him and eat with him, and he with me."
+            Behold, I stand at the door and knock. If anyone hears my voice and opens the door, I will come in to him and eat with him, and he with me.
         </item>
         <item>
-            "I tell you the truth, it is hard for a rich man to enter the kingdom of heaven. Again I tell you, it is easier for a camel to go through the eye of a needle than for a rich man to enter the kingdom of heaven."
-        </item>
-
-        <item>
-            "I am the Way, the Truth, and the Life. No one comes to the Father except through me."
+            I tell you the truth, it is hard for a rich man to enter the kingdom of heaven. Again I tell you, it is easier for a camel to go through the eye of a needle than for a rich man to enter the kingdom of heaven.
         </item>
 
         <item>
-            "For what shall it profit a man, if he gain the whole world, and suffer the loss of his soul?"
+            I am the Way, the Truth, and the Life. No one comes to the Father except through me.
         </item>
 
         <item>
-            "All the commandments: You shall not commit adultery, you shall not kill, you shall not steal, you shall not covet, and so on, are summed up in this single command: You must love your neighbor as yourself."
+            For what shall it profit a man, if he gain the whole world, and suffer the loss of his soul?
         </item>
 
         <item>
-            "If you bring forth what is within you, what you bring forth will save you. If you do not bring forth what is within you, what you do not bring forth will destroy you."
+            All the commandments: You shall not commit adultery, you shall not kill, you shall not steal, you shall not covet, and so on, are summed up in this single command: You must love your neighbor as yourself.
         </item>
 
         <item>
-            "Man shall not live by bread alone, but by every word that proceeds from the mouth of God."
+            If you bring forth what is within you, what you bring forth will save you. If you do not bring forth what is within you, what you do not bring forth will destroy you.
         </item>
 
         <item>
-            "My kingdom is not of this world. If it were, my servants would fight to prevent my arrest by the Jews. But now my kingdom is from another place."
+            Man shall not live by bread alone, but by every word that proceeds from the mouth of God.
         </item>
 
         <item>
-            "If you want to be perfect, go, sell your possessions and give to the poor, and you will have treasure in heaven."
+            My kingdom is not of this world. If it were, my servants would fight to prevent my arrest by the Jews. But now my kingdom is from another place.
         </item>
 
         <item>
-            "If you love those who love you, what credit is that to you? For even sinners love those who love them. And if you do good to those who do good to you, what credit is that to you? For even sinners do the same."
+            If you want to be perfect, go, sell your possessions and give to the poor, and you will have treasure in heaven.
         </item>
 
         <item>
-            "For if you love those who love you, what reward have you? Do not even the tax collectors do the same?"
+            If you love those who love you, what credit is that to you? For even sinners love those who love them. And if you do good to those who do good to you, what credit is that to you? For even sinners do the same.
         </item>
 
         <item>
-            "I am He who lives, and was dead, and behold, I am alive forevermore. Amen. And I have the keys of Hades and of Death."
+            For if you love those who love you, what reward have you? Do not even the tax collectors do the same?
         </item>
 
         <item>
-            "Give to everyone who begs from you; and of him who takes away your goods do not ask them again. And as you wish that men would do to you, do so to them."
+            I am He who lives, and was dead, and behold, I am alive forevermore. Amen. And I have the keys of Hades and of Death.
         </item>
 
         <item>
-            "Little children, you are from God, and have conquered them; for the one who is in you is greater than the one who is in this world."
+            Give to everyone who begs from you; and of him who takes away your goods do not ask them again. And as you wish that men would do to you, do so to them.
         </item>
 
         <item>
-            "All my authority in heaven and on earth has been given to me."
+            Little children, you are from God, and have conquered them; for the one who is in you is greater than the one who is in this world.
         </item>
 
         <item>
-            "“For God so loved the world that he gave his one and only Son, that
+            All my authority in heaven and on earth has been given to me.
+        </item>
+
+        <item>
+            “For God so loved the world that he gave his one and only Son, that
 whoever believes in him shall not perish but have eternal life.” John 3:16
-(NIV)"
+(NIV)
         </item>
 
         <item>
-            ""Ask and it will be given to you; seek and you will find; knock and the door
-will be opened to you.” Matthew 7:7"
+            Ask and it will be given to you; seek and you will find; knock and the door
+will be opened to you.” Matthew 7:7
         </item>
         <item>
-            "“No one lights a lamp and puts it in a place where it will be hidden, or under a
+            “No one lights a lamp and puts it in a place where it will be hidden, or under a
 bowl. Instead he puts it on its stand, so that those who come in may see the
-light.” Luke 11-33"
+light.” Luke 11-33
         </item>
         <item>
-            "“Love the Lord your God with all your passion and prayer and intelligence. Love
-others as well as you love yourself.” Matthew 22:37"
+            “Love the Lord your God with all your passion and prayer and intelligence. Love
+others as well as you love yourself.” Matthew 22:37
         </item>
         <item>
-            "“You, dear children, are from God and have overcome them, because the
-one who is in you is greater than the one who is in the world.” I John 4:4"
+            “You, dear children, are from God and have overcome them, because the
+one who is in you is greater than the one who is in the world.” I John 4:4
         </item>
         <item>
-            "“What good is it for someone to gain the whole world, yet forfeit their
-soul?” Mark 8:36"
+            “What good is it for someone to gain the whole world, yet forfeit their
+soul?” Mark 8:36
         </item>
         <item>
-            "“Therefore do not worry about tomorrow, for tomorrow will worry about
-itself. Each day has enough trouble of its own.” Matthew 6:34"
+            “Therefore do not worry about tomorrow, for tomorrow will worry about
+itself. Each day has enough trouble of its own.” Matthew 6:34
         </item>
         <item>
-            "“So in everything, do to others what you would have them do to you, for this
-sums up the Law and the Prophets.” Matthew 7:12"
+            “So in everything, do to others what you would have them do to you, for this
+sums up the Law and the Prophets.” Matthew 7:12
         </item>
         <item>
-            "“My kingdom is not of this world. If it were, my servants would fight to prevent my
+            “My kingdom is not of this world. If it were, my servants would fight to prevent my
 arrest by the Jewish leaders. But now my kingdom is from another place.” John
-18:36 "
+18:36 
         </item>
         <item>
-            "“
+            “
 16 For God so loved the world that he gave his one and only Son, that whoever
 believes in him shall not perish but have eternal life. 17 For God did not send his
 Son into the world to condemn the world, but to save the world through him.”
-John 3:16-17"
+John 3:16-17
         </item>
         <item>
-            "“
+            “
 9 So I say to you: Ask and it will be given to you; seek and you will find; knock
 and the door will be opened to you. 10 For everyone who asks receives; the one
 who seeks finds; and to the one who knocks, the door will be opened.” Luke 11:9-
-10 "
+10 
         </item>
         <item>
-            "“Therefore do not worry about tomorrow, for tomorrow will worry about
-itself. Each day has enough trouble of its own.” Matthew 6:34"
+            “Therefore do not worry about tomorrow, for tomorrow will worry about
+itself. Each day has enough trouble of its own.” Matthew 6:34
         </item>
         <item>
-            "“
+            “
 36 Teacher, which is the greatest commandment in the Law?” 37 Jesus
 replied: ‘Love the Lord your God with all your heart and with all your soul and
 with all your mind.’38 This is the first and greatest commandment. 39 And the
 second is like it: ‘Love your neighbor as yourself.’
  40 “All the Law and the
-Prophets hang on these two commandments.” Matthew 22:36-40 "
+Prophets hang on these two commandments.” Matthew 22:36-40 
         </item>
         <item>
-            "“Indeed, it is easier for a camel to go through the eye of a needle than for
-someone who is rich to enter the kingdom of God.” Luke 18:25"
+            “Indeed, it is easier for a camel to go through the eye of a needle than for
+someone who is rich to enter the kingdom of God.” Luke 18:25
         </item>
         <item>
-            "“For we live by faith, not by sight.” II Corinthians 5:7"
+            “For we live by faith, not by sight.” II Corinthians 5:7
         </item>
 
         <item>
-            "“ For all those who exalt themselves will be humbled, and those who
-humble themselves will be exalted.” Luke 14:11 "
+            “ For all those who exalt themselves will be humbled, and those who
+humble themselves will be exalted.” Luke 14:11 
         </item>
         <item>
-            "“and teaching them to obey everything I have commanded you. And surely I am
-with you always, to the very end of the age.” Matthew 28:20"
+            “and teaching them to obey everything I have commanded you. And surely I am
+with you always, to the very end of the age.” Matthew 28:20
         </item>
         <item>
-            "“Let any one of you who is without sin be the first to throw a stone at her.” John 8:7"
+            “Let any one of you who is without sin be the first to throw a stone at her.” John 8:7
         </item>
         <item>
-            "“For God so loved the world that he gave his one and only Son, that
-whoever believes in him shall not perish but have eternal life.” John 3:16"
+            “For God so loved the world that he gave his one and only Son, that
+whoever believes in him shall not perish but have eternal life.” John 3:16
         </item>
         <item>
-            "“You know that the rulers in this world lord it over their people, and officials
+            “You know that the rulers in this world lord it over their people, and officials
 flaunt their authority over those under them. But among you it will be different.
 Whoever wants to be a leader among you must be your servant, and whoever
 wants to be first among you must be the slave of everyone else. For even the
 Son of Man came not to be served but to serve others and to give his life as a
-ransom for many.” Mark 10:42-45"
+ransom for many.” Mark 10:42-45
         </item>
 
     </string-array>
 
+
+    <string name="ad_unit_id_banner">ca-app-pub-4835878154779893/8492700767</string>
+    <string name="ad_unit_id_interstitial">ca-app-pub-4835878154779893/8433825167</string>
+    <string name="test_device_id">CDCA7E3103D96CBBC9FEE52579CF80C7</string>
+
+
+    <string name="maps_api_key">AIzaSyDmwMZM-_La5OC3r27K3iLR58v1jgYFlhQ</string>
 
 </resources>
