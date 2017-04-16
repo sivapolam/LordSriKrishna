@@ -10,7 +10,6 @@
         android:layout_height="wrap_content"
         android:layout_marginLeft="@dimen/nav_list_item_icon_margin"
         android:duplicateParentState="true"
-        android:src="@drawable/ic_launcher_rounded"
         android:layout_centerVertical="true"/>
 
     <LinearLayout

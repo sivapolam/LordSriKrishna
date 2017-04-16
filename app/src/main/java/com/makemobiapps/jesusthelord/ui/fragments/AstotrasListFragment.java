@@ -80,7 +80,9 @@ public class AstotrasListFragment extends ListFragment implements Constants, Ada
         selectedQuote = getResources().getStringArray(R.array.ashtottaras_list)[position];
         getListView().setSelection(position);
 //        getListView().getChildAt(position).setBackgroundResource(R.drawable.list_selector_quotes);
-        if (textToSpeech != null && !textToSpeech.isSpeaking()) {
+
+        //Commented Text to speech functionality
+        /*if (textToSpeech != null && !textToSpeech.isSpeaking()) {
             textToSpeech.speak(selectedQuote, TextToSpeech.QUEUE_FLUSH, null);
         } else {
             if (selectedPosition == position) {
@@ -88,7 +90,7 @@ public class AstotrasListFragment extends ListFragment implements Constants, Ada
             } else {
                 textToSpeech.speak(selectedQuote, TextToSpeech.QUEUE_FLUSH, null);
             }
-        }
+        }*/
 
         selectedPosition = position;
     }

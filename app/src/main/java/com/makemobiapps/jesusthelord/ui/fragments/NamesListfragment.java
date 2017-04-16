@@ -1,5 +1,6 @@
 package com.makemobiapps.jesusthelord.ui.fragments;
 
+import android.app.Activity;
 import android.content.res.AssetManager;
 import android.os.Bundle;
 import android.support.annotation.Nullable;
@@ -15,6 +16,8 @@ import android.view.ViewGroup;
 import com.makemobiapps.jesusthelord.R;
 import com.makemobiapps.jesusthelord.adapters.NamesListAdapter;
 import com.makemobiapps.jesusthelord.data.NamesModel;
+import com.makemobiapps.jesusthelord.ui.activities.HomeActivity;
+import com.makemobiapps.jesusthelord.util.Constants;
 
 import java.io.InputStream;
 import java.util.ArrayList;
@@ -31,6 +34,13 @@ public class NamesListFragment extends android.support.v4.app.Fragment {
     private static final String TAG = NamesListFragment.class.getSimpleName();
     private ArrayList<NamesModel> namesModelArrayList;
     private RecyclerView recyclerView;
+
+    @Override
+    public void onAttach(Activity activity) {
+        super.onAttach(activity);
+        ((HomeActivity) activity).onSectionAttached(
+                getArguments().getInt(Constants.ARG_SECTION_NUMBER));
+    }
 
     @Nullable
     @Override
